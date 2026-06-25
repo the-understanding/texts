@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>6.3 実験系の設定 - 理解すること 〜初学者のための10の質問〜</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "6.3 \u5b9f\u9a13\u7cfb\u306e\u8a2d\u5b9a";
+        var mkdocs_page_input_path = "6-3.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> 理解すること 〜初学者のための10の質問〜
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">ホーム</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../0-1/">まえがき</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第1章 認識・情報</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-1/">1.1 問1</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-2/">1.2 観測・情報生成</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-3/">1.3 知覚・認識</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-4/">1.4 概念の形成と定義</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第2章 分類・整理</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-1/">2.1 問2</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-2/">2.2 比較</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-3/">2.3 分類・整理</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-4/">2.4 情報の構造化</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-5/">2.5 データ型・データベース</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第3章 論理・演算</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-1/">3.1 問3</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-2/">3.2 集合・論理</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-3/">3.3 命題・論理</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-4/">3.4 数学的構造</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-5/">3.5 数・演算</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第4章 過程・因果</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-1/">4.1 問4</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-2/">4.2 プロセス</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-3/">4.3 情報処理</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第5章 分類・整理</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-1/">5.1 問5</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-2/">5.2 構成</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-3/">5.3 分析アプローチ</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-4/">5.4 秩序・安定</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-5/">5.5 変動</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-6/">5.6 システムの理解と運用の難しさ</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第6章 仮説・検証</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../6-1/">6.1 問6</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-2/">6.2 科学・仮説・実証</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">6.3 実験系の設定</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#631">6.3.1 系・因子・結果</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#632-ab">6.3.2 因子（群）Aと結果（群）Bの関係</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#633-ba">6.3.3 結果（群）Bに対する因子（群）Aの同定</a>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-4/">6.4 測定・分析</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-5/">6.5 生産管理・品質管理</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第7章 モデリング・推論</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-1/">7.1 問7</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-2/">7.2 モデリング</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-3/">7.3 数理モデル</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-4/">7.4 解釈・評価</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-5/">7.5 因果推論</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-6/">7.6 数理モデルの応用分野例</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第8章 意味・価値</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../8-1/">8.1 問8</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../8-2/">8.2 意味</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../8-3/">8.3 価値</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../8-4/">8.4 表現</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第9章 議論・意思決定</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../9-1/">9.1 問9</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../9-2/">9.2 議論</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../9-3/">9.3 合意形成</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../9-4/">9.4 議論・合意形成の不調</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第10章 コンピューター</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-1/">10.1 問10</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-2/">10.2 計算</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-3/">10.3 ソフトウェア</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-4/">10.4 情報操作</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-5/">10.5 人間との協調</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">理解すること 〜初学者のための10の質問〜</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">第6章 仮説・検証</li>
+      <li class="breadcrumb-item active">6.3 実験系の設定</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h2 id="63"><strong>6.3 実験系の設定</strong></h2>
+<h3 id="631"><strong>6.3.1 <a href="https://ja.wikipedia.org/wiki/%E7%B3%BB">系</a>・<a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E5%AD%90">因子</a>・<a href="https://ja.wikipedia.org/wiki/%E7%B5%90%E6%9E%9C">結果</a></strong></h3>
+<ul>
+<li>因子（群）・結果（群）<ul>
+<li>物質：部品、補助因子、など</li>
+<li>条件：場所、時間・タイミング、温度・湿度・場など</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BA%8B%E8%B1%A1">事象</a>・関係性：運動の変化、形体の変化、反応、結合、分解、意味合いの変化、など</li>
+<li>因子水準、数量化された観測変数</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%BD%9C%E5%9C%A8%E5%A4%89%E6%95%B0">潜在変数</a></li>
+</ul>
+</li>
+<li>因子の特徴<ul>
+<li>機能：他の因子への作用、機能が現れる環境やタイミング</li>
+<li>性質：形状、量など、変化・他の因子からの影響</li>
+<li>起源・将来：出所、進化、分化、統合など</li>
+</ul>
+</li>
+<li>系のパターンとルール<ul>
+<li>因子間の関係性</li>
+<li>系のルール・パターン・目的</li>
+<li>ルールが守られなかった時の対応</li>
+</ul>
+</li>
+<li>応用可能性<ul>
+<li>因子の改変、条件変更、新たな組み合わせ</li>
+<li>ルールの応用、新たなルール</li>
+<li>スケールアップ・ダウン、等</li>
+</ul>
+</li>
+</ul>
+<h3 id="632-ab"><strong>6.3.2 因子（群）Aと結果（群）Bの<a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82">関係</a></strong></h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E9%80%A3%E6%80%A7">関連性</a></li>
+<li>パス図</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%96%A2">相関</a>、<a href="https://ja.wikipedia.org/wiki/%E5%81%8F%E7%9B%B8%E9%96%A2#:~:text=%E5%81%8F%E7%9B%B8%E9%96%A2%E4%BF%82%E6%95%B0%E3%81%AF,%E3%81%8C%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E8%A1%A8%E3%81%99%E3%80%82">偏相関</a>、<a href="https://ja.wikipedia.org/wiki/%E6%93%AC%E4%BC%BC%E7%9B%B8%E9%96%A2">擬似相関</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E6%9E%9C%E6%80%A7">因果性</a></li>
+</ul>
+<h3 id="633-ba"><strong>6.3.3 結果（群）Bに対する因子（群）Aの同定</strong></h3>
+<ul>
+<li>Aは本当に因子か<ul>
+<li>再現性の確認は取れるか、データの選択バイアスによる過学習モデルとなっていないか<ul>
+<li>繰り返し再現性、別の測定法による再現性、クロスバリデーションは可能か</li>
+<li>他の研究者による再現性取得は可能か</li>
+</ul>
+</li>
+<li>Bが生じて（存在して）いる時には必ずAが存在しているか<ul>
+<li>Aを無くすことで常にBが生じないか</li>
+<li>Aが無い状態からAを追加することでBが生じるか</li>
+</ul>
+</li>
+<li>BとAは量に相関があるか</li>
+<li>AとBの共通の要因となっている因子（群）Cは存在しないか、潜在因子</li>
+<li>BがAの因子である可能性は無いか<ul>
+<li>相互作用、シナジー</li>
+</ul>
+</li>
+<li>AとBが一致している（同じ現象を他の見方をしている）可能性は無いか</li>
+</ul>
+</li>
+<li>Aは直接的要因か<ul>
+<li>Aは因子（群）Cに働き、CがBの直接的要因である可能性は無いか<ul>
+<li>AとBは直接的な関係があるか（結合・情報伝達）</li>
+</ul>
+</li>
+<li>補助因子</li>
+<li>促進因子・抑制因子</li>
+<li>AはB以外にも影響を与えていないか（B以外の観測変数の有無、系そのものを壊していないか）</li>
+</ul>
+</li>
+<li>Aの分解可能性は無いか：主要因、特徴量抽出<ul>
+<li>Aが存在していてもBが存在しない場合はあるか、それはどのような場合か</li>
+<li>因子水準を変更した場合にBが生じるAの範囲・条件はあるか</li>
+<li>Aを類似のものに変更・一部改変、系のスケールアップ・ダウン、などできるか</li>
+<li>因子群の関係性は把握可能か<ul>
+<li>交差負荷</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>因子はAだけか<ul>
+<li>AだけでBが生じることを別の系（場所・時間等）で確認できるか<ul>
+<li>再構成</li>
+</ul>
+</li>
+<li>A以外に因子となる可能性があるものは無いか、A以外のものでBを再現できないか<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0">リバースエンジニアリング</a></li>
+</ul>
+</li>
+<li>A -&gt; B, B -&gt; Cが示せても、A,B,Cが同時に存在する時にはCがA -&gt; Bであったり、AがB -&gt; Cに干渉し、A -&gt; B -&gt; Cとならない可能性は無いか</li>
+</ul>
+</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../6-2/" class="btn btn-neutral float-left" title="6.2 科学・仮説・実証"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../6-4/" class="btn btn-neutral float-right" title="6.4 測定・分析">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../6-2/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../6-4/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>

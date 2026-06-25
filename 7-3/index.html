@@ -1,0 +1,345 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>7.3 数理モデル - 理解すること 〜初学者のための10の質問〜</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "7.3 \u6570\u7406\u30e2\u30c7\u30eb";
+        var mkdocs_page_input_path = "7-3.md";
+        var mkdocs_page_url = null;
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> 理解すること 〜初学者のための10の質問〜
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">ホーム</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../0-1/">まえがき</a>
+                </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第1章 認識・情報</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-1/">1.1 問1</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-2/">1.2 観測・情報生成</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-3/">1.3 知覚・認識</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-4/">1.4 概念の形成と定義</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第2章 分類・整理</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-1/">2.1 問2</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-2/">2.2 比較</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-3/">2.3 分類・整理</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-4/">2.4 情報の構造化</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-5/">2.5 データ型・データベース</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第3章 論理・演算</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-1/">3.1 問3</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-2/">3.2 集合・論理</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-3/">3.3 命題・論理</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-4/">3.4 数学的構造</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../3-5/">3.5 数・演算</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第4章 過程・因果</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-1/">4.1 問4</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-2/">4.2 プロセス</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-3/">4.3 情報処理</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第5章 分類・整理</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-1/">5.1 問5</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-2/">5.2 構成</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-3/">5.3 分析アプローチ</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-4/">5.4 秩序・安定</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-5/">5.5 変動</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-6/">5.6 システムの理解と運用の難しさ</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第6章 仮説・検証</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-1/">6.1 問6</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-2/">6.2 科学・仮説・実証</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-3/">6.3 実験系の設定</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-4/">6.4 測定・分析</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-5/">6.5 生産管理・品質管理</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第7章 モデリング・推論</span></p>
+              <ul class="current">
+                  <li class="toctree-l1"><a class="reference internal" href="../7-1/">7.1 問7</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-2/">7.2 モデリング</a>
+                  </li>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">7.3 数理モデル</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#731">7.3.1 変数・パラメーター</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#732">7.3.2 特徴・コンセプト</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#733">7.3.3 統計モデル</a>
+    </li>
+    </ul>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-4/">7.4 解釈・評価</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-5/">7.5 因果推論</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-6/">7.6 数理モデルの応用分野例</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第8章 意味・価値</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../8-1/">8.1 問8</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../8-2/">8.2 意味</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../8-3/">8.3 価値</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../8-4/">8.4 表現</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第9章 議論・意思決定</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../9-1/">9.1 問9</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../9-2/">9.2 議論</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../9-3/">9.3 合意形成</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../9-4/">9.4 議論・合意形成の不調</a>
+                  </li>
+              </ul>
+              <p class="caption"><span class="caption-text">第10章 コンピューター</span></p>
+              <ul>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-1/">10.1 問10</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-2/">10.2 計算</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-3/">10.3 ソフトウェア</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-4/">10.4 情報操作</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-5/">10.5 人間との協調</a>
+                  </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">理解すること 〜初学者のための10の質問〜</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+          <li class="breadcrumb-item">第7章 モデリング・推論</li>
+      <li class="breadcrumb-item active">7.3 数理モデル</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h2 id="73"><strong>7.3 <a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB">数理モデル</a></strong></h2>
+<h3 id="731"><strong>7.3.1 変数・パラメーター</strong></h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%8B%AC%E7%AB%8B%E5%A4%89%E6%95%B0%E3%81%A8%E5%BE%93%E5%B1%9E%E5%A4%89%E6%95%B0">独立変数と従属変数</a></li>
+<li>制御変数（コントロール変数）、介在変数（メディエーター変数）、調整変数（モデレーター変数）、外部変数、交絡変数、観測変数、<a href="https://ja.wikipedia.org/wiki/%E6%BD%9C%E5%9C%A8%E5%A4%89%E6%95%B0">潜在変数</a>、隠れ変数</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%B0%BA%E5%BA%A6%E6%B0%B4%E6%BA%96">尺度水準</a>（対象データの種類）、<a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E6%80%A7%E7%9A%84%E7%A0%94%E7%A9%B6">定性的研究</a>、<a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E9%87%8F%E7%9A%84%E7%A0%94%E7%A9%B6">定量的研究</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Estimand">Estimand</a></li>
+<li>対象集団、変数、中間事象、統計指標、介入効果</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BF%82%E6%95%B0">係数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF">パラメータ</a>、<a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF_(%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)">ハイパーパラメータ (機械学習)</a>、<a href="https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF_(%E3%83%99%E3%82%A4%E3%82%BA%E7%B5%B1%E8%A8%88%E5%AD%A6)">ハイパーパラメータ (ベイズ統計学)</a></li>
+<li>パラメーターの範囲の設定<ul>
+<li>弱情報事前分布</li>
+</ul>
+</li>
+<li>パラメーターの収束可能性、<a href="https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E5%A4%89%E6%95%B0%E3%81%AE%E5%8F%8E%E6%9D%9F">確率変数の収束</a></li>
+<li>パラメーターの識別可能性</li>
+</ul>
+<h3 id="732"><strong>7.3.2 特徴・コンセプト</strong></h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB">数理モデル</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%9F%BA%E7%A4%8E%E6%96%B9%E7%A8%8B%E5%BC%8F">基礎方程式</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%96%B9%E7%A8%8B%E5%BC%8F">方程式</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%AD%98%E5%88%A5%E7%9A%84%E3%83%A2%E3%83%87%E3%83%AB">識別的モデル</a>、<a href="https://ja.wikipedia.org/wiki/%E7%94%9F%E6%88%90%E7%9A%84%E3%83%A2%E3%83%87%E3%83%AB">生成的モデル</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%A6%81%E6%B1%82%E9%A7%86%E5%8B%95">要求駆動</a>
+、<a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E9%A7%86%E5%8B%95">データ駆動</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%80%A4%E8%A7%A3%E6%9E%90">数値解析</a>、<a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3">シミュレーション</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%8A%B6%E6%85%8B%E7%A9%BA%E9%96%93_(%E5%88%B6%E5%BE%A1%E7%90%86%E8%AB%96)">状態空間 (制御理論)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%88%9D%E6%9C%9F%E5%80%A4%E5%95%8F%E9%A1%8C">初期値問題</a>、<a href="https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E5%80%A4%E5%95%8F%E9%A1%8C">境界値問題</a>、<a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%BF%E3%83%95%E3%83%A9%E3%82%A4%E5%8A%B9%E6%9E%9C">バタフライ効果</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96">非線形システム論</a>、<a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E7%89%A9%E7%90%86%E5%AD%A6">非線形物理学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB">エージェントベースモデル</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96">ゲーム理論</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E7%9A%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0">進化的プログラミング</a></li>
+<li>ルールベース、<a href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0">エキスパートシステム</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92">機械学習</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%95%99%E5%B8%AB%E3%81%82%E3%82%8A%E5%AD%A6%E7%BF%92">教師あり学習</a>、<a href="https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%95%99%E5%B8%AB%E3%81%82%E3%82%8A%E5%AD%A6%E7%BF%92">自己教師あり学習</a>、<a href="https://ja.wikipedia.org/wiki/%E6%95%99%E5%B8%AB%E3%81%AA%E3%81%97%E5%AD%A6%E7%BF%92">教師なし学習</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0">ディープラーニング</a>、<a href="https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%A9%E3%83%AB%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF">ニューラルネットワーク</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%B1%8E%E7%94%A8%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD">汎用人工知能</a></li>
+</ul>
+<h3 id="733"><strong>7.3.3 <a href="https://ja.wikipedia.org/wiki/%E7%B5%B1%E8%A8%88%E3%83%A2%E3%83%87%E3%83%AB">統計モデル</a></strong></h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%A6%81%E7%B4%84%E7%B5%B1%E8%A8%88%E9%87%8F">要約統計量</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%88%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%BC">セントログラフィー</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%8E%A2%E7%B4%A2%E7%9A%84%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90">探索的データ解析</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%8E%A8%E8%A8%88%E7%B5%B1%E8%A8%88%E5%AD%A6">推計統計学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E5%88%86%E5%B8%83">確率分布</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AF%8D%E9%9B%86%E5%9B%A3">母集団</a>、<a href="https://ja.wikipedia.org/wiki/%E6%A8%99%E6%9C%AC_(%E7%B5%B1%E8%A8%88%E5%AD%A6)">標本 (統計学)</a>、<a href="https://ja.wikipedia.org/wiki/%E7%B4%AF%E7%A9%8D%E5%88%86%E5%B8%83%E9%96%A2%E6%95%B0">累積分布関数</a>、<a href="https://ja.wikipedia.org/wiki/%E7%A9%8D%E7%8E%87%E6%AF%8D%E9%96%A2%E6%95%B0">積率母関数</a>、<a href="https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%88%E6%AF%8D%E9%96%A2%E6%95%B0">キュムラント母関数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%B3%E3%83%91%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%89%8B%E6%B3%95">ノンパラメトリック手法</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E9%81%8E%E7%A8%8B">確率過程</a></li>
+<li>サンプリング<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%B3%E3%83%95%E9%80%A3%E9%8E%96%E3%83%A2%E3%83%B3%E3%83%86%E3%82%AB%E3%83%AB%E3%83%AD%E6%B3%95">マルコフ連鎖モンテカルロ法</a>、<a href="https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%88%E3%82%B9%E3%83%88%E3%83%A9%E3%83%83%E3%83%97%E6%B3%95">ブートストラップ法</a>、</li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%A0%BB%E5%BA%A6%E4%B8%BB%E7%BE%A9%E7%B5%B1%E8%A8%88%E5%AD%A6">頻度主義統計学</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%AA%AC%E6%A4%9C%E5%AE%9A">仮説検定</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%B8%B0%E7%84%A1%E4%BB%AE%E8%AA%AC">帰無仮説</a>、<a href="https://ja.wikipedia.org/wiki/%E7%AC%AC%E4%B8%80%E7%A8%AE%E9%81%8E%E8%AA%A4%E3%81%A8%E7%AC%AC%E4%BA%8C%E7%A8%AE%E9%81%8E%E8%AA%A4">第一種過誤と第二種過誤</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%9C%89%E6%84%8F">有意</a>、<a href="https://ja.wikipedia.org/wiki/P%E5%80%A4">p値</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%B0%A4%E5%BA%A6%E6%AF%94%E6%A4%9C%E5%AE%9A">尤度比検定</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%A4%9A%E9%87%8D%E6%AF%94%E8%BC%83%E5%95%8F%E9%A1%8C">多重比較問題</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%96%A2">相関</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%96%A2%E4%BF%82%E6%95%B0">相関係数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9">シンプソンのパラドックス</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E7%9B%B8%E9%96%A2">自己相関</a></li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%9B%9E%E5%B8%B0%E5%88%86%E6%9E%90">回帰分析</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E4%BF%82%E6%95%B0">決定係数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BF%A1%E9%A0%BC%E5%8C%BA%E9%96%93">信頼区間</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BA%88%E6%B8%AC%E5%8C%BA%E9%96%93">予測区間</a>、許容限界区間</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%A4%9A%E9%87%8D%E5%85%B1%E7%B7%9A%E6%80%A7">多重共線性</a></li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%A4%9A%E5%A4%89%E9%87%8F%E8%A7%A3%E6%9E%90">多変量解析</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%AC%A1%E5%85%83%E5%89%8A%E6%B8%9B">次元削減</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%88%86%E9%A1%9E_(%E7%B5%B1%E8%A8%88%E5%AD%A6)">分類 (統計学)</a>、<a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%82%BF%E3%83%BC%E3%83%B3%E8%AA%8D%E8%AD%98">パターン認識</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0">データ・クラスタリング</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%99%82%E7%B3%BB%E5%88%97">時系列</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%94%9F%E5%AD%98%E5%88%86%E6%9E%90#:~:text=%E7%94%9F%E5%AD%98%E5%88%86%E6%9E%90%EF%BC%88%E3%81%9B%E3%81%84%E3%81%9E%E3%82%93%E3%81%B6%E3%82%93%E3%81%9B%E3%81%8D,%E3%81%AE%E4%B8%80%E5%88%86%E9%87%8E%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82">生存分析</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E7%9B%B8%E9%96%A2">自己相関</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E5%9B%A0%E6%9E%9C%E6%80%A7">グレンジャー因果性</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5">異常検知</a></li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%B3%E3%83%91%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%89%8B%E6%B3%95">ノンパラメトリック手法</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A">ベイズ推定</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%9A%8E%E5%B1%A4%E3%83%99%E3%82%A4%E3%82%BA%E3%83%A2%E3%83%87%E3%83%AB">階層ベイズモデル</a></li>
+<li>
+<p><a href="https://ja.wikipedia.org/wiki/%E4%BF%A1%E7%94%A8%E5%8C%BA%E9%96%93">信用区間</a></p>
+</li>
+<li>
+<p><a href="https://ja.wikipedia.org/wiki/%E4%B8%80%E8%88%AC%E5%8C%96%E7%B7%9A%E5%BD%A2%E3%83%A2%E3%83%87%E3%83%AB">一般化線形モデル</a></p>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%B8%80%E8%88%AC%E5%8C%96%E7%B7%9A%E5%BD%A2%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB">一般化線形混合モデル</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB">混合モデル</a></li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../7-2/" class="btn btn-neutral float-left" title="7.2 モデリング"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../7-4/" class="btn btn-neutral float-right" title="7.4 解釈・評価">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../7-2/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../7-4/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
