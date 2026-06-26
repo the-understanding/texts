@@ -1,4 +1,5 @@
-site_name: 理解すること 〜初学者のための10の質問〜
+site_name: 理解すること  〜初学者のための10の質問〜
+docs_dir: markdown_jp  # ← この行を追加
 
 theme:
   name: readthedocs
@@ -13,7 +14,7 @@ theme:
 # 本の章立て（ナビゲーション設定）
 nav:
   - ホーム: index.md
-  - まえがき: 0-1.md
+  - まえがき: preface.md
   - 第1章 認識・情報:
       - 1.1 問1: 1-1.md
       - 1.2 観測・情報生成: 1-2.md
