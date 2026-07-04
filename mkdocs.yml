@@ -1,17 +1,16 @@
 site_name: 理解すること  〜初学者のための10の質問〜
-docs_dir: markdown_jp  # ← この行を追加
+docs_dir: markdown_jp
 
 theme:
   name: readthedocs
-  language: ja  # 日本語対応
+  language: ja
   features:
-    - navigation.tabs      # 上部タブメニュー（必要に応じて）
-    - navigation.sections  # 左メニューのセクション構造化
-    - navigation.expand    # 最初からメニューを展開
-    - navigation.top       # トップに戻るボタン
-    - search.suggest       # 検索のサジェスト機能
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
 
-# 本の章立て（ナビゲーション設定）
 nav:
   - ホーム: index.md
   - まえがき: preface.md
@@ -72,5 +71,6 @@ nav:
       - 10.3 ソフトウェア: 10-3.md
       - 10.4 情報操作: 10-4.md
       - 10.5 人間との協調: 10-5.md
+  - あとがき: afterword.md
 
 
