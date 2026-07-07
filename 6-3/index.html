@@ -51,7 +51,7 @@
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../1-1/">1.1 問1</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../1-2/">1.2 観測・情報生成</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../1-2/">1.2 観測・情報</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../1-3/">1.3 知覚・認識</a>
                   </li>
@@ -93,7 +93,7 @@
                   <li class="toctree-l1"><a class="reference internal" href="../4-3/">4.3 情報処理</a>
                   </li>
               </ul>
-              <p class="caption"><span class="caption-text">第5章 分類・整理</span></p>
+              <p class="caption"><span class="caption-text">第5章 組織・システム</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../5-1/">5.1 問5</a>
                   </li>
@@ -116,11 +116,13 @@
                   </li>
                   <li class="toctree-l1 current"><a class="reference internal current" href="#">6.3 実験系の設定</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#631">6.3.1 系・因子・結果</a>
+    <li class="toctree-l2"><a class="reference internal" href="#631">6.3.1 目的・手順</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#632-ab">6.3.2 因子（群）Aと結果（群）Bの関係</a>
+    <li class="toctree-l2"><a class="reference internal" href="#632">6.3.2 系・因子・結果</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#633-ba">6.3.3 結果（群）Bに対する因子（群）Aの同定</a>
+    <li class="toctree-l2"><a class="reference internal" href="#633-ab">6.3.3 因子（群）Aと結果（群）Bの関係</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#634-ba">6.3.4 結果（群）Bに対する因子（群）Aの同定</a>
     </li>
     </ul>
                   </li>
@@ -207,8 +209,39 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h2 id="63"><strong>6.3 実験系の設定</strong></h2>
-<h3 id="631"><strong>6.3.1 <a href="https://ja.wikipedia.org/wiki/%E7%B3%BB">系</a>・<a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E5%AD%90">因子</a>・<a href="https://ja.wikipedia.org/wiki/%E7%B5%90%E6%9E%9C">結果</a></strong></h3>
+                <h2 id="63"><strong>6.3 実験による実証</strong></h2>
+<h3 id="631"><strong>6.3.1 目的・手順</strong></h3>
+<ul>
+<li>目的</li>
+<li>分析：現象（のメカニズム）の理解、データの特徴抽出・振り分け、検知</li>
+<li>応用：予測、制御・管理、生産・情報生成</li>
+<li>探索と検証：探索（検証の繰り返し含む） -&gt; 過学習、再現性</li>
+<li>手順</li>
+<li>課題の設定</li>
+<li>起こりうる事象（仮説）についての事象モデルの設定</li>
+<li>背景情報・モデルに用いるデータの収集、選別、データの収集方法の決定<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E7%A9%BA%E9%96%93">確率空間</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%A8%99%E6%9C%AC%E7%A9%BA%E9%96%93">標本空間</a>、サンプルサイズ</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%84%A1%E4%BD%9C%E7%82%BA%E6%8A%BD%E5%87%BA">無作為抽出</a>、<a href="https://ja.wikipedia.org/wiki/%E5%B1%A4%E5%8C%96%E6%8A%BD%E5%87%BA%E6%B3%95">層化抽出法</a>、<a href="https://ja.wikipedia.org/wiki/%E4%B9%B1%E5%A1%8A%E6%B3%95">乱塊法</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%89%8D%E5%87%A6%E7%90%86">データ前処理</a>：<a href="https://en.wikipedia.org/wiki/Data_wrangling">Data wrangling</a>、<a href="https://en.wikipedia.org/wiki/Data_cleansing">Data cleansing</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BE%8B%E5%A4%96%E5%87%A6%E7%90%86">例外処理</a>、<a href="https://ja.wikipedia.org/wiki/%E5%A4%96%E3%82%8C%E5%80%A4">外れ値</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%B9%E7%95%B0%E7%82%B9">特異点</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AC%A0%E6%B8%AC%E3%83%87%E3%83%BC%E3%82%BF">欠測データ</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%B9%E5%BE%B4%E6%8A%BD%E5%87%BA">特徴抽出</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>、パラメーターの重み付け</li>
+<li>データの信頼性、<a href="https://ja.wikipedia.org/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90">Wikipedia:信頼できる情報源</a></li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90">データ解析</a>、モデルの構築、パラメーターの推定、データによる学習（パラメーターのチューニング）<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%82%B9%E6%8E%A8%E5%AE%9A">点推定</a></li>
+<li>区間推定、<a href="https://ja.wikipedia.org/wiki/%E6%8E%A8%E8%A8%88%E7%B5%B1%E8%A8%88%E5%AD%A6">推計統計学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BA%8B%E5%BE%8C%E7%A2%BA%E7%8E%87">事後確率</a></li>
+</ul>
+</li>
+<li>モデルの評価、検証・実証、検定、選択、修正、再学習</li>
+<li>モデルの利用、生成<ul>
+<li>新たなデータの入力と生成物の評価・利用</li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%AB%96%E8%A8%BC">論証</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9F%E8%A8%BC%E7%A0%94%E7%A9%B6">実証研究</a></li>
+</ul>
+<h3 id="632"><strong>6.3.2 <a href="https://ja.wikipedia.org/wiki/%E7%B3%BB">系</a>・<a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E5%AD%90">因子</a>・<a href="https://ja.wikipedia.org/wiki/%E7%B5%90%E6%9E%9C">結果</a></strong></h3>
 <ul>
 <li>因子（群）・結果（群）<ul>
 <li>物質：部品、補助因子、など</li>
@@ -237,14 +270,14 @@
 </ul>
 </li>
 </ul>
-<h3 id="632-ab"><strong>6.3.2 因子（群）Aと結果（群）Bの<a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82">関係</a></strong></h3>
+<h3 id="633-ab"><strong>6.3.3 因子（群）Aと結果（群）Bの<a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82">関係</a></strong></h3>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E9%80%A3%E6%80%A7">関連性</a></li>
 <li>パス図</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%96%A2">相関</a>、<a href="https://ja.wikipedia.org/wiki/%E5%81%8F%E7%9B%B8%E9%96%A2#:~:text=%E5%81%8F%E7%9B%B8%E9%96%A2%E4%BF%82%E6%95%B0%E3%81%AF,%E3%81%8C%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E8%A1%A8%E3%81%99%E3%80%82">偏相関</a>、<a href="https://ja.wikipedia.org/wiki/%E6%93%AC%E4%BC%BC%E7%9B%B8%E9%96%A2">擬似相関</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E6%9E%9C%E6%80%A7">因果性</a></li>
 </ul>
-<h3 id="633-ba"><strong>6.3.3 結果（群）Bに対する因子（群）Aの同定</strong></h3>
+<h3 id="634-ba"><strong>6.3.4 結果（群）Bに対する因子（群）Aの同定</strong></h3>
 <ul>
 <li>Aは本当に因子か<ul>
 <li>再現性の確認は取れるか、データの選択バイアスによる過学習モデルとなっていないか<ul>
