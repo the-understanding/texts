@@ -68,7 +68,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../2-4/">2.4 情報の構造化</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../2-5/">2.5 データ型・データベース</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../2-5/">2.5 データ型・データベース（参考）</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">第3章 論理・演算</span></p>
@@ -82,12 +82,44 @@
                   <li class="toctree-l1 current"><a class="reference internal current" href="#">3.4 数学的構造</a>
     <ul class="current">
     <li class="toctree-l2"><a class="reference internal" href="#341">3.4.1 数理論理学</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#3411">3.4.1.1 形式体系</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#3413">3.4.1.3 数学基礎論</a>
+    </li>
+        </ul>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#342">3.4.2 証明 (数学)</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#3421">3.4.2.1 数学基礎論</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#343">3.4.3 （二項）関係</a>
+    <li class="toctree-l3"><a class="reference internal" href="#3422">3.4.2.2 証明技法</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#344">3.4.4 数学の諸分野（参考）</a>
+    <li class="toctree-l3"><a class="reference internal" href="#3422_1">3.4.2.2 形式証明</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#343">3.4.3 集合論</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#3431">3.4.3.1 集合</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#3432">3.4.3.2 （二項）関係</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#3433">3.4.3.3 写像</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#344">3.4.4 代数的構造・抽象代数学</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#3441">3.4.4.1 演算 (数学)</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#3442">3.4.4.2 集合の代数学</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#3443">3.4.4.3 圏論</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#345">3.4.5 数学の諸分野（参考）</a>
     </li>
     </ul>
                   </li>
@@ -128,7 +160,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../6-4/">6.4 測定・分析</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../6-5/">6.5 生産管理・品質管理</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-5/">6.5 生産管理・品質管理（参考）</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">第7章 モデリング・推論</span></p>
@@ -143,7 +175,7 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../7-5/">7.5 因果推論</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../7-6/">7.6 数理モデルの応用分野例</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-6/">7.6 数理モデルの応用分野例（参考）</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">第8章 意味・価値</span></p>
@@ -211,69 +243,84 @@
               
                 <h2 id="34"><strong>3.4 <a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%9A%84%E6%A7%8B%E9%80%A0">数学的構造</a></strong></h2>
 <h3 id="341"><strong>3.4.1 <a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E8%AB%96%E7%90%86%E5%AD%A6">数理論理学</a></strong></h3>
+<h4 id="3411"><strong>3.4.1.1 <a href="https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E4%BD%93%E7%B3%BB">形式体系</a></strong></h4>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%AB%E3%83%A1%E3%83%AD%EF%BC%9D%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B1%E3%83%AB%E9%9B%86%E5%90%88%E8%AB%96">ツェルメロ＝フレンケル集合論</a><ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E4%BD%93%E7%B3%BB">形式体系</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%85%AC%E7%90%86">公理</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%8E%9F%E7%90%86">原理</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9">定義</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E7%90%86">定理</a></li>
 </ul>
-</li>
+<h4 id="3413"><strong>3.4.1.3 <a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A4%8E%E8%AB%96">数学基礎論</a></strong></h4>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%8C%E5%85%A8%E6%80%A7">完全性</a>、不完全性</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AA%E3%83%BC%EF%BC%9D%E3%83%8F%E3%83%AF%E3%83%BC%E3%83%89%E5%90%8C%E5%9E%8B%E5%AF%BE%E5%BF%9C">カリー＝ハワード同型対応</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E3%81%AE%E5%93%B2%E5%AD%A6">数学の哲学</a></li>
 </ul>
 <h3 id="342"><strong>3.4.2 <a href="https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E_(%E6%95%B0%E5%AD%A6)">証明 (数学)</a></strong></h3>
+<h4 id="3421"><strong>3.4.2.1 <a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A4%8E%E8%AB%96">数学基礎論</a></strong></h4>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%89%8D%E6%8F%90">前提</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E5%8C%85%E5%90%AB">論理包含</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%AA%AC">仮説</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E7%B5%90%E6%9E%9C">結果</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E%E8%AB%96">証明論</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%A8%AD_(%E6%95%B0%E5%AD%A6)">仮設 (数学)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%90%8C%E5%80%A4">同値</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%BF%85%E8%A6%81%E5%8D%81%E5%88%86%E6%9D%A1%E4%BB%B6">必要十分条件</a></li>
+</ul>
+<h4 id="3422"><strong>3.4.2.2 証明技法</strong></h4>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%84%8F%E5%91%B3%E8%AB%96_(%E8%AB%96%E7%90%86%E5%AD%A6)">意味論 (論理学)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%9A%84%E5%B8%B0%E7%B4%8D%E6%B3%95">数学的帰納法</a>、<a href="https://ja.wikipedia.org/wiki/%E5%AF%BE%E5%81%B6%E8%AB%96%E6%B3%95">対偶論法</a>、<a href="https://ja.wikipedia.org/wiki/%E8%83%8C%E7%90%86%E6%B3%95">背理法</a>、</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%86%8D%E5%B8%B0">再帰</a>、<a href="https://ja.wikipedia.org/wiki/%E5%86%8D%E5%B8%B0%E7%90%86%E8%AB%96">再帰理論</a></li>
+</ul>
+<h4 id="3422_1"><strong>3.4.2.2 形式証明</strong></h4>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%88">シークエント</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Lean_(%E8%A8%BC%E6%98%8E%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88)">Lean (証明アシスタント)</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%90%8C%E5%80%A4">同値</a>、<a href="https://ja.wikipedia.org/wiki/%E5%BF%85%E8%A6%81%E5%8D%81%E5%88%86%E6%9D%A1%E4%BB%B6">必要十分条件</a>、<a href="https://ja.wikipedia.org/wiki/%E5%AF%BE%E5%81%B6%E8%AB%96%E6%B3%95">対偶論法</a>、<a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%9A%84%E5%B8%B0%E7%B4%8D%E6%B3%95">数学的帰納法</a>、<a href="https://ja.wikipedia.org/wiki/%E8%83%8C%E7%90%86%E6%B3%95">背理法</a>、<a href="https://ja.wikipedia.org/wiki/%E4%B8%89%E6%AE%B5%E8%AB%96%E6%B3%95">三段論法</a>、<a href="https://ja.wikipedia.org/wiki/%E5%86%8D%E5%B8%B0">再帰</a>、<a href="https://ja.wikipedia.org/wiki/%E5%86%8D%E5%B8%B0%E7%90%86%E8%AB%96">再帰理論</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%AA%AC%E6%A4%9C%E5%AE%9A">仮説検定</a></li>
 </ul>
-<h3 id="343"><strong>3.4.3 <a href="https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%A0%85%E9%96%A2%E4%BF%82">（二項）関係</a></strong></h3>
+<h3 id="343"><strong>3.4.3 <a href="https://ja.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E8%AB%96">集合論</a></strong></h3>
+<h4 id="3431"><strong>3.4.3.1 <a href="https://ja.wikipedia.org/wiki/%E9%9B%86%E5%90%88">集合</a></strong></h4>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%90%8C%E5%80%A4%E9%96%A2%E4%BF%82">同値関係</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%B0%84%E9%96%A2%E4%BF%82">反射関係</a>、<a href="https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%A7%B0%E9%96%A2%E4%BF%82">対称関係</a>、<a href="https://ja.wikipedia.org/wiki/%E6%8E%A8%E7%A7%BB%E9%96%A2%E4%BF%82">推移関係</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%86%99%E5%83%8F">写像</a>、<a href="https://ja.wikipedia.org/wiki/%E9%80%86%E5%86%99%E5%83%8F">逆写像</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9%E5%9F%9F">定義域</a>、<a href="https://ja.wikipedia.org/wiki/%E5%80%A4%E5%9F%9F">値域</a>、<a href="https://ja.wikipedia.org/wiki/%E7%B5%82%E5%9F%9F">終域</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%8D%98%E5%B0%84">単射</a>、<a href="https://ja.wikipedia.org/wiki/%E5%85%A8%E5%B0%84">全射</a>、<a href="https://ja.wikipedia.org/wiki/%E5%85%A8%E5%8D%98%E5%B0%84">全単射</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%86%99%E5%83%8F%E3%81%AE%E5%90%88%E6%88%90">写像の合成</a></li>
-<li>
-<p><a href="https://ja.wikipedia.org/wiki/%E6%8E%A5%E7%B6%9A_(%E5%BE%AE%E5%88%86%E5%B9%BE%E4%BD%95%E5%AD%A6)">接続 (微分幾何学)</a></p>
-</li>
-<li>
-<p><a href="https://ja.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E7%9A%84%E6%A7%8B%E9%80%A0">代数的構造</a>、<a href="https://ja.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E3%81%AE%E4%BB%A3%E6%95%B0%E5%AD%A6">集合の代数学</a></p>
-</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E6%B3%95%E5%89%87">結合法則</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BA%A4%E6%8F%9B%E6%B3%95%E5%89%87">交換法則</a>、<a href="https://ja.wikipedia.org/wiki/%E5%88%86%E9%85%8D%E6%B3%95%E5%89%87">分配法則</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%8D%98%E4%BD%8D%E5%85%83">単位元</a>、<a href="https://ja.wikipedia.org/wiki/%E9%80%86%E5%85%83">逆元</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%9F%BA%E5%BA%95_(%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6)">基底 (線型代数学)</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E7%BE%A4_(%E6%95%B0%E5%AD%A6)">群 (数学)</a>、<a href="https://ja.wikipedia.org/wiki/%E7%92%B0_(%E6%95%B0%E5%AD%A6)">環 (数学)</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BD%93_(%E6%95%B0%E5%AD%A6)">体 (数学)</a><ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%8F%AF%E6%8F%9B%E7%92%B0">可換環</a>、<a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8F%AF%E6%8F%9B%E7%92%B0">非可換環 </a></li>
-</ul>
-</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E6%80%A7">線型性</a>、<a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E6%80%A7">非線形性</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%90%8C%E5%9E%8B%E5%AE%9A%E7%90%86">同型定理</a>、<a href="https://ja.wikipedia.org/wiki/%E6%BA%96%E5%90%8C%E5%9E%8B">同型</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%9C%8F%E8%AB%96">圏論</a><ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E6%89%8B">関手</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BA%8F%E9%9B%86%E5%90%88">順序集合</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E7%A9%BA%E9%96%93">位相空間</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E6%95%B0_(%E6%95%B0%E5%AD%A6)">関数 (数学)</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%A4%89%E6%95%B0_(%E6%95%B0%E5%AD%A6)">変数 (数学)</a>、<a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E6%95%B0">定数</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%AB%E3%83%A1%E3%83%AD%EF%BC%9D%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B1%E3%83%AB%E9%9B%86%E5%90%88%E8%AB%96">ツェルメロ＝フレンケル集合論</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E6%BF%83%E5%BA%A6_(%E6%95%B0%E5%AD%A6)">濃度 (数学)</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%8F%AF%E7%AE%97%E9%9B%86%E5%90%88">可算集合</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8F%AF%E7%AE%97%E9%9B%86%E5%90%88">非可算集合</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BA%8F%E9%9B%86%E5%90%88">順序集合</a></li>
 </ul>
-</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%9E%8B%E7%90%86%E8%AB%96">型理論</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E8%AB%96">集合論</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AB%E7%90%86%E8%AB%96">モデル理論</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E8%A1%A8%E7%8F%BE%E8%AB%96">表現論</a></li>
+<h4 id="3432"><strong>3.4.3.2 <a href="https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%A0%85%E9%96%A2%E4%BF%82">（二項）関係</a></strong></h4>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%90%8C%E5%80%A4%E9%96%A2%E4%BF%82">同値関係</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%B0%84%E9%96%A2%E4%BF%82">反射関係</a>、<a href="https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%A7%B0%E9%96%A2%E4%BF%82">対称関係</a>、<a href="https://ja.wikipedia.org/wiki/%E6%8E%A8%E7%A7%BB%E9%96%A2%E4%BF%82">推移関係</a></li>
 </ul>
-<h3 id="344"><strong>3.4.4 <a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E3%81%AE%E8%AB%B8%E5%88%86%E9%87%8E">数学の諸分野</a>（参考）</strong></h3>
+<h4 id="3433"><strong>3.4.3.3 <a href="https://ja.wikipedia.org/wiki/%E5%86%99%E5%83%8F">写像</a></strong></h4>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%86%99%E5%83%8F">写像</a>、<a href="https://ja.wikipedia.org/wiki/%E9%80%86%E5%86%99%E5%83%8F">逆写像</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%86%99%E5%83%8F%E3%81%AE%E5%90%88%E6%88%90">写像の合成</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E7%BE%A9%E5%9F%9F">定義域</a>、<a href="https://ja.wikipedia.org/wiki/%E5%80%A4%E5%9F%9F">値域</a>、<a href="https://ja.wikipedia.org/wiki/%E7%B5%82%E5%9F%9F">終域</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%8D%98%E5%B0%84">単射</a>、<a href="https://ja.wikipedia.org/wiki/%E5%85%A8%E5%B0%84">全射</a>、<a href="https://ja.wikipedia.org/wiki/%E5%85%A8%E5%8D%98%E5%B0%84">全単射</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%85%83_(%E6%95%B0%E5%AD%A6)">元 (数学)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%8D%98%E4%BD%8D%E5%85%83">単位元</a>、<a href="https://ja.wikipedia.org/wiki/%E9%80%86%E5%85%83">逆元</a></li>
+</ul>
+<h3 id="344"><strong>3.4.4 <a href="https://ja.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E7%9A%84%E6%A7%8B%E9%80%A0">代数的構造</a>・<a href="https://ja.wikipedia.org/wiki/%E6%8A%BD%E8%B1%A1%E4%BB%A3%E6%95%B0%E5%AD%A6">抽象代数学</a></strong></h3>
+<h4 id="3441"><strong>3.4.4.1 <a href="https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97_(%E6%95%B0%E5%AD%A6)">演算 (数学)</a></strong></h4>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%B5%90%E5%90%88%E6%B3%95%E5%89%87">結合法則</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BA%A4%E6%8F%9B%E6%B3%95%E5%89%87">交換法則</a>、<a href="https://ja.wikipedia.org/wiki/%E5%88%86%E9%85%8D%E6%B3%95%E5%89%87">分配法則</a></li>
+</ul>
+<h4 id="3442"><strong>3.4.4.2 <a href="https://ja.wikipedia.org/wiki/%E9%9B%86%E5%90%88%E3%81%AE%E4%BB%A3%E6%95%B0%E5%AD%A6">集合の代数学</a></strong></h4>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%BE%A4_(%E6%95%B0%E5%AD%A6)">群 (数学)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%92%B0_(%E6%95%B0%E5%AD%A6)">環 (数学)</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%8F%AF%E6%8F%9B%E7%92%B0">可換環</a>、<a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8F%AF%E6%8F%9B%E7%92%B0">非可換環 </a></li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BD%93_(%E6%95%B0%E5%AD%A6)">体 (数学)</a></li>
+</ul>
+<h4 id="3443"><strong>3.4.4.3 <a href="https://ja.wikipedia.org/wiki/%E5%9C%8F%E8%AB%96">圏論</a></strong></h4>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E6%89%8B">関手</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%A4%89%E6%8F%9B">自然変換</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%A5%B5%E9%99%90">極限</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%9A%8F%E4%BC%B4%E9%96%A2%E6%89%8B">随伴関手</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%90%8C%E5%9E%8B%E5%86%99%E5%83%8F">同型写像</a>、<a href="https://ja.wikipedia.org/wiki/%E6%BA%96%E5%90%8C%E5%9E%8B">準同型</a>、<a href="https://ja.wikipedia.org/wiki/%E5%90%8C%E5%9E%8B%E5%AE%9A%E7%90%86">同型定理</a></li>
+</ul>
+<h3 id="345"><strong>3.4.5 <a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E3%81%AE%E8%AB%B8%E5%88%86%E9%87%8E">数学の諸分野</a>（参考）</strong></h3>
 <ul>
 <li>
 <p><a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%9A%84%E5%AF%BE%E8%B1%A1">数学的対象</a></p>
@@ -281,11 +328,20 @@
 <li>
 <p><a href="https://ja.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E5%AD%A6">代数学</a></p>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E6%95%B0_(%E6%95%B0%E5%AD%A6)">関数 (数学)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E6%95%B0_(%E6%95%B0%E5%AD%A6)">関数 (数学)</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%A4%89%E6%95%B0_(%E6%95%B0%E5%AD%A6)">変数 (数学)</a>、<a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E6%95%B0">定数</a></li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6">線型代数学</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E6%80%A7">線型性</a>、<a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E6%80%A7">非線形性</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%9F%BA%E5%BA%95_(%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6)">基底 (線型代数学)</a></li>
+</ul>
+</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E8%A1%8C%E5%88%97">行列</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E7%A9%BA%E9%96%93">ベクトル空間</a>、<a href="https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6">固有空間</a>、<a href="https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6">テンソル</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E8%AB%96">数論</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E4%BB%A3%E6%95%B0%E5%A4%9A%E6%A7%98%E4%BD%93">代数多様体</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%A1%A8%E7%8F%BE%E8%AB%96">表現論</a></li>
 </ul>
 </li>
 <li>
@@ -309,9 +365,15 @@
 <li><a href="https://ja.wikipedia.org/wiki/%E5%88%9D%E7%AD%89%E5%B9%BE%E4%BD%95%E5%AD%A6">初等幾何学</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89%E5%B9%BE%E4%BD%95%E5%AD%A6">ユークリッド幾何学</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E9%9D%9E%E3%83%A6%E3%83%BC%E3%82%AF%E3%83%AA%E3%83%83%E3%83%89%E5%B9%BE%E4%BD%95%E5%AD%A6">非ユークリッド幾何学</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E5%B9%BE%E4%BD%95%E5%AD%A6">位相幾何学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E5%B9%BE%E4%BD%95%E5%AD%A6">位相幾何学</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E7%A9%BA%E9%96%93">位相空間</a></li>
+</ul>
+</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%A4%9A%E6%A7%98%E4%BD%93">多様体</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E5%B9%BE%E4%BD%95%E5%AD%A6">微分幾何学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E5%B9%BE%E4%BD%95%E5%AD%A6">微分幾何学</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%8E%A5%E7%B6%9A_(%E5%BE%AE%E5%88%86%E5%B9%BE%E4%BD%95%E5%AD%A6)">接続 (微分幾何学)</a></li>
+</ul>
+</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%B9%BE%E4%BD%95%E5%AD%A6">情報幾何学</a></li>
 </ul>
 </li>
