@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>6.3 実験系の設定 - 理解すること  〜初学者のための10の質問〜</title>
+    <title>6.3 実験系の設計 - 理解すること  〜初学者のための10の質問〜</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "6.3 \u5b9f\u9a13\u7cfb\u306e\u8a2d\u5b9a";
+        var mkdocs_page_name = "6.3 \u5b9f\u9a13\u7cfb\u306e\u8a2d\u8a08";
         var mkdocs_page_input_path = "6-3.md";
         var mkdocs_page_url = null;
       </script>
@@ -84,26 +84,28 @@
                   <li class="toctree-l1"><a class="reference internal" href="../3-5/">3.5 数・演算</a>
                   </li>
               </ul>
-              <p class="caption"><span class="caption-text">第4章 過程・因果</span></p>
+              <p class="caption"><span class="caption-text">第4章 因果・過程</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../4-1/">4.1 問4</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../4-2/">4.2 プロセス</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-2/">4.2 因果性</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../4-3/">4.3 情報処理</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-3/">4.3 プロセス</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-4/">4.4 情報処理過程</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">第5章 組織・システム</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../5-1/">5.1 問5</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../5-2/">5.2 構成</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-2/">5.2 システムの構成</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../5-3/">5.3 分析アプローチ</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../5-4/">5.4 秩序・安定</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../5-5/">5.5 変動</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-5/">5.5 変動・発展</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../5-6/">5.6 システムの理解と運用の難しさ</a>
                   </li>
@@ -112,17 +114,21 @@
               <ul class="current">
                   <li class="toctree-l1"><a class="reference internal" href="../6-1/">6.1 問6</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../6-2/">6.2 科学・仮説・実証</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-2/">6.2 科学的手法・仮説構築</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="#">6.3 実験系の設定</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">6.3 実験系の設計</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#631">6.3.1 手順</a>
+    <li class="toctree-l2"><a class="reference internal" href="#631">6.3.1 系・因子・結果</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#632">6.3.2 系・因子・結果</a>
+    <li class="toctree-l2"><a class="reference internal" href="#632">6.3.2 定性・定量</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#633-ab">6.3.3 因子（群）Aと結果（群）Bの関係</a>
+    <li class="toctree-l2"><a class="reference internal" href="#633">6.3.3 量</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#634-ba">6.3.4 結果（群）Bに対する因子（群）Aの同定（参考）</a>
+    <li class="toctree-l2"><a class="reference internal" href="#634">6.3.4 探索空間・データサンプリングの設計</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#635-ab">6.3.5 因子（群）Aと結果（群）Bの関係</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#636-ba">6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）</a>
     </li>
     </ul>
                   </li>
@@ -200,7 +206,7 @@
   <ul class="wy-breadcrumbs">
     <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
           <li class="breadcrumb-item">第6章 仮説・検証</li>
-      <li class="breadcrumb-item active">6.3 実験系の設定</li>
+      <li class="breadcrumb-item active">6.3 実験系の設計</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -209,33 +215,8 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h2 id="63"><strong>6.3 <a href="https://ja.wikipedia.org/wiki/%E5%AE%9F%E9%A8%93">実験</a>による実証</strong></h2>
-<h3 id="631"><strong>6.3.1 手順</strong></h3>
-<ul>
-<li>課題の設定</li>
-<li>起こりうる事象（仮説）についての事象モデルの設定</li>
-<li>背景情報・モデルに用いるデータの収集、選別、データの収集方法の決定<ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E7%A9%BA%E9%96%93">確率空間</a></li>
-</ul>
-</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E6%A8%99%E6%9C%AC%E7%A9%BA%E9%96%93">標本空間</a></li>
-<li>データの収集 (-&gt; 6.4.5.4 バイアスを考慮したサンプリング・繰り返し)</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%89%8D%E5%87%A6%E7%90%86">データ前処理</a><ul>
-<li><a href="https://en.wikipedia.org/wiki/Data_wrangling">Data wrangling</a>、<a href="https://en.wikipedia.org/wiki/Data_cleansing">Data cleansing</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BE%8B%E5%A4%96%E5%87%A6%E7%90%86">例外処理</a>、<a href="https://ja.wikipedia.org/wiki/%E5%A4%96%E3%82%8C%E5%80%A4">外れ値</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%B9%E7%95%B0%E7%82%B9">特異点</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AC%A0%E6%B8%AC%E3%83%87%E3%83%BC%E3%82%BF">欠測データ</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%B9%E5%BE%B4%E6%8A%BD%E5%87%BA">特徴抽出</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>、パラメーターの重み付け</li>
-</ul>
-</li>
-<li>データの信頼性確認、<a href="https://ja.wikipedia.org/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90">Wikipedia:信頼できる情報源</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90">データ解析</a>、モデルの構築、パラメーターの推定、データによる学習（パラメーターのチューニング）</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E7%82%B9%E6%8E%A8%E5%AE%9A">点推定</a></li>
-<li>区間推定、<a href="https://ja.wikipedia.org/wiki/%E6%8E%A8%E8%A8%88%E7%B5%B1%E8%A8%88%E5%AD%A6">推計統計学</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E4%BA%8B%E5%BE%8C%E7%A2%BA%E7%8E%87">事後確率</a></li>
-<li>モデルの評価、検証・実証、検定、選択、修正、再学習</li>
-<li>モデルの利用、生成</li>
-<li>新たなデータの入力と生成物の評価・利用</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E8%AB%96%E8%A8%BC">論証</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9F%E8%A8%BC%E7%A0%94%E7%A9%B6">実証研究</a></li>
-</ul>
-<h3 id="632"><strong>6.3.2 <a href="https://ja.wikipedia.org/wiki/%E7%B3%BB">系</a>・<a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E5%AD%90">因子</a>・<a href="https://ja.wikipedia.org/wiki/%E7%B5%90%E6%9E%9C">結果</a></strong></h3>
+                <h2 id="63"><strong>6.3 <a href="https://ja.wikipedia.org/wiki/%E5%AE%9F%E9%A8%93">実験</a>系の設計</strong></h2>
+<h3 id="631"><strong>6.3.1 <a href="https://ja.wikipedia.org/wiki/%E7%B3%BB">系</a>・<a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E5%AD%90">因子</a>・<a href="https://ja.wikipedia.org/wiki/%E7%B5%90%E6%9E%9C">結果</a></strong></h3>
 <ul>
 <li>因子（群）・結果（群）<ul>
 <li>物質：部品、補助因子、など</li>
@@ -264,15 +245,52 @@
 </ul>
 </li>
 </ul>
-<h3 id="633-ab"><strong>6.3.3 因子（群）Aと結果（群）Bの<a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82">関係</a></strong></h3>
+<h3 id="632"><strong>6.3.2 定性・定量</strong></h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E6%80%A7%E5%88%86%E6%9E%90">定性分析</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90">定量分析</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%B0%BA%E5%BA%A6%E6%B0%B4%E6%BA%96">尺度水準</a></li>
+<li>データの規格化</li>
+</ul>
+<h3 id="633"><strong>6.3.3 量</strong></h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E5%8D%98%E4%BD%8D%E7%B3%BB">国際単位系</a>における７つの基本量：<a href="https://ja.wikipedia.org/wiki/%E6%99%82%E9%96%93">時間</a>、<a href="https://ja.wikipedia.org/wiki/%E9%95%B7%E3%81%95">長さ</a>、<a href="https://ja.wikipedia.org/wiki/%E8%B3%AA%E9%87%8F">質量</a>、<a href="https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B5%81">電流</a>、<a href="https://ja.wikipedia.org/wiki/%E7%86%B1%E5%8A%9B%E5%AD%A6%E6%B8%A9%E5%BA%A6">熱力学温度</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%A9%E8%B3%AA%E9%87%8F">物質量</a>、<a href="https://ja.wikipedia.org/wiki/%E5%85%89%E5%BA%A6_(%E5%85%89%E5%AD%A6)">光度 (光学)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%8D%98%E4%BD%8D">単位</a>
+、<a href="https://ja.wikipedia.org/wiki/%E6%B3%95%E5%AE%9A%E8%A8%88%E9%87%8F%E5%8D%98%E4%BD%8D">法定計量単位</a>、<a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E9%87%8F%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A8%88%E9%87%8F%E5%8D%98%E4%BD%8D%E4%B8%80%E8%A6%A7">計量法に基づく計量単位一覧</a></li>
+</ul>
+<h3 id="634"><strong>6.3.4 探索空間・データサンプリングの設計</strong></h3>
+<ul>
+<li>予備検討、予備実験、予備調査</li>
+<li>背景情報・モデルに用いるデータの収集、選別、データの収集方法の決定</li>
+<li>探索空間の設計<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3">クオリティ・バイ・デザイン</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%AE%9F%E9%A8%93%E8%A8%88%E7%94%BB%E6%B3%95">実験計画法</a><ul>
+<li>応答曲面法</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%88%E3%83%A2%E3%83%87%E3%83%AB">サロゲートモデル</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>バイアスの低減（-&gt; 9.4.3 バイアス・誤謬・詭弁）<ul>
+<li><a href="https://en.wikipedia.org/wiki/Randomized_experiment">Randomized experiment</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E5%8C%96%E6%AF%94%E8%BC%83%E8%A9%A6%E9%A8%93">ランダム化比較試験</a></li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%AE%9F%E9%A8%93">自然実験</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%87%8D%E7%9B%B2%E6%A4%9C%E6%B3%95">二重盲検法</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%81%BD%E8%96%AC">偽薬</a>効果</li>
+</ul>
+</li>
+</ul>
+<h3 id="635-ab"><strong>6.3.5 因子（群）Aと結果（群）Bの<a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82">関係</a></strong></h3>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E9%96%A2%E9%80%A3%E6%80%A7">関連性</a></li>
 <li>パス図</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%96%A2">相関</a>、<a href="https://ja.wikipedia.org/wiki/%E5%81%8F%E7%9B%B8%E9%96%A2#:~:text=%E5%81%8F%E7%9B%B8%E9%96%A2%E4%BF%82%E6%95%B0%E3%81%AF,%E3%81%8C%E3%81%AA%E3%81%84%E3%81%93%E3%81%A8%E3%82%92%E8%A1%A8%E3%81%99%E3%80%82">偏相関</a>、<a href="https://ja.wikipedia.org/wiki/%E6%93%AC%E4%BC%BC%E7%9B%B8%E9%96%A2">擬似相関</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E6%9E%9C%E6%80%A7">因果性</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E6%9E%9C%E6%80%A7">因果性</a>（-&gt; 4.2 因果性）</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E4%BA%A4%E7%B5%A1">交絡</a></li>
 </ul>
-<h3 id="634-ba"><strong>6.3.4 結果（群）Bに対する因子（群）Aの同定（参考）</strong></h3>
+<h3 id="636-ba"><strong>6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）</strong></h3>
 <ul>
 <li>Aは本当に因子か<ul>
 <li>再現性の確認は取れるか、データの選択バイアスによる過学習モデルとなっていないか<ul>
@@ -331,7 +349,7 @@
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../6-2/" class="btn btn-neutral float-left" title="6.2 科学・仮説・実証"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../6-2/" class="btn btn-neutral float-left" title="6.2 科学的手法・仮説構築"><span class="icon icon-circle-arrow-left"></span> Previous</a>
         <a href="../6-4/" class="btn btn-neutral float-right" title="6.4 測定・分析">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 

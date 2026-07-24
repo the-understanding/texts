@@ -84,26 +84,28 @@
                   <li class="toctree-l1"><a class="reference internal" href="../3-5/">3.5 数・演算</a>
                   </li>
               </ul>
-              <p class="caption"><span class="caption-text">第4章 過程・因果</span></p>
+              <p class="caption"><span class="caption-text">第4章 因果・過程</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../4-1/">4.1 問4</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../4-2/">4.2 プロセス</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-2/">4.2 因果性</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../4-3/">4.3 情報処理</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-3/">4.3 プロセス</a>
+                  </li>
+                  <li class="toctree-l1"><a class="reference internal" href="../4-4/">4.4 情報処理過程</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">第5章 組織・システム</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../5-1/">5.1 問5</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../5-2/">5.2 構成</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-2/">5.2 システムの構成</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../5-3/">5.3 分析アプローチ</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../5-4/">5.4 秩序・安定</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../5-5/">5.5 変動</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../5-5/">5.5 変動・発展</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../5-6/">5.6 システムの理解と運用の難しさ</a>
                   </li>
@@ -112,9 +114,9 @@
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../6-1/">6.1 問6</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../6-2/">6.2 科学・仮説・実証</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-2/">6.2 科学的手法・仮説構築</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../6-3/">6.3 実験系の設定</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../6-3/">6.3 実験系の設計</a>
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../6-4/">6.4 測定・分析</a>
                   </li>
@@ -127,7 +129,7 @@
                   </li>
                   <li class="toctree-l1 current"><a class="reference internal current" href="#">7.2 モデリング</a>
     <ul class="current">
-    <li class="toctree-l2"><a class="reference internal" href="#721">7.2.1 モデリング (科学的)の目的・手順</a>
+    <li class="toctree-l2"><a class="reference internal" href="#721">7.2.1 モデリング (科学的)の手順</a>
     </li>
     </ul>
                   </li>
@@ -204,15 +206,15 @@
             <div class="section" itemprop="articleBody">
               
                 <h2 id="72"><strong>7.2 <a href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_(%E7%A7%91%E5%AD%A6%E7%9A%84)">モデリング (科学的)</a></strong></h2>
-<h3 id="721"><strong>7.2.1 <a href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_(%E7%A7%91%E5%AD%A6%E7%9A%84)">モデリング (科学的)</a>の目的・手順</strong></h3>
+<h3 id="721"><strong>7.2.1 <a href="https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_(%E7%A7%91%E5%AD%A6%E7%9A%84)">モデリング (科学的)</a>の手順</strong></h3>
 <ul>
 <li>目的</li>
 <li>分析：現象（のメカニズム）の理解、データの特徴抽出・振り分け、検知</li>
-<li>応用：予測、制御・管理、生産・情報生成</li>
+<li>応用：<a href="https://ja.wikipedia.org/wiki/%E4%BA%88%E6%B8%AC">予測</a>、<a href="https://ja.wikipedia.org/wiki/%E5%88%B6%E5%BE%A1%E7%90%86%E8%AB%96">制御</a>、管理、生産、情報生成</li>
 <li>探索と検証：探索（検証の繰り返し含む） -&gt; 過学習、再現性</li>
 <li>手順</li>
 <li>課題の設定</li>
-<li>背景情報・モデルに用いるデータの収集、選別、データの収集方法の決定<ul>
+<li>背景情報・モデルに用いるデータの収集、選別、データの収集方法の決定(-&gt; 6.4.5.4 バイアスを考慮したサンプリング・繰り返し)<ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E6%A8%99%E6%9C%AC%E7%A9%BA%E9%96%93">標本空間</a>、サンプルサイズ</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E7%84%A1%E4%BD%9C%E7%82%BA%E6%8A%BD%E5%87%BA">無作為抽出</a>、<a href="https://ja.wikipedia.org/wiki/%E5%B1%A4%E5%8C%96%E6%8A%BD%E5%87%BA%E6%B3%95">層化抽出法</a>、<a href="https://ja.wikipedia.org/wiki/%E4%B9%B1%E5%A1%8A%E6%B3%95">乱塊法</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%89%8D%E5%87%A6%E7%90%86">データ前処理</a>：<a href="https://en.wikipedia.org/wiki/Data_wrangling">Data wrangling</a>、<a href="https://en.wikipedia.org/wiki/Data_cleansing">Data cleansing</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BE%8B%E5%A4%96%E5%87%A6%E7%90%86">例外処理</a>、<a href="https://ja.wikipedia.org/wiki/%E5%A4%96%E3%82%8C%E5%80%A4">外れ値</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%B9%E7%95%B0%E7%82%B9">特異点</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AC%A0%E6%B8%AC%E3%83%87%E3%83%BC%E3%82%BF">欠測データ</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%B9%E5%BE%B4%E6%8A%BD%E5%87%BA">特徴抽出</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>、パラメーターの重み付け</li>
