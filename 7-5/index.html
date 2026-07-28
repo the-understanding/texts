@@ -5,14 +5,14 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>7.5 因果推論 - 理解すること  〜初学者のための10の質問〜</title>
+    <title>7.5 数理モデルの応用分野例（参考） - 理解すること  〜初学者のための10の質問〜</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
     
       <script>
         // Current page data
-        var mkdocs_page_name = "7.5 \u56e0\u679c\u63a8\u8ad6";
+        var mkdocs_page_name = "7.5 \u6570\u7406\u30e2\u30c7\u30eb\u306e\u5fdc\u7528\u5206\u91ce\u4f8b\uff08\u53c2\u8003\uff09";
         var mkdocs_page_input_path = "7-5.md";
         var mkdocs_page_url = null;
       </script>
@@ -119,21 +119,19 @@
                   <li class="toctree-l1"><a class="reference internal" href="../6-5/">6.5 生産管理・品質管理（参考）</a>
                   </li>
               </ul>
-              <p class="caption"><span class="caption-text">第7章 モデリング・推論</span></p>
+              <p class="caption"><span class="caption-text">第7章 モデリング</span></p>
               <ul class="current">
                   <li class="toctree-l1"><a class="reference internal" href="../7-1/">7.1 問7</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../7-2/">7.2 モデリング</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-2/">7.2 数理モデリング</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../7-3/">7.3 数理モデル</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-3/">7.3 数理モデルの手法（参考）</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../7-4/">7.4 解釈・評価</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../7-4/">7.4 モデルの評価・解釈</a>
                   </li>
-                  <li class="toctree-l1 current"><a class="reference internal current" href="#">7.5 因果推論</a>
+                  <li class="toctree-l1 current"><a class="reference internal current" href="#">7.5 数理モデルの応用分野例（参考）</a>
     <ul class="current">
     </ul>
-                  </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../7-6/">7.6 数理モデルの応用分野例（参考）</a>
                   </li>
               </ul>
               <p class="caption"><span class="caption-text">第8章 意味・価値</span></p>
@@ -164,9 +162,9 @@
                   </li>
                   <li class="toctree-l1"><a class="reference internal" href="../10-2/">10.2 計算理論</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../10-3/">10.3 ハードウェア・ソフトウェア・ネットワーク</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-3/">10.3 コンピューターの基本構成</a>
                   </li>
-                  <li class="toctree-l1"><a class="reference internal" href="../10-4/">10.4 人口知能</a>
+                  <li class="toctree-l1"><a class="reference internal" href="../10-4/">10.4 人工知能</a>
                   </li>
               </ul>
               <ul>
@@ -187,8 +185,8 @@
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
     <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
-          <li class="breadcrumb-item">第7章 モデリング・推論</li>
-      <li class="breadcrumb-item active">7.5 因果推論</li>
+          <li class="breadcrumb-item">第7章 モデリング</li>
+      <li class="breadcrumb-item active">7.5 数理モデルの応用分野例（参考）</li>
     <li class="wy-breadcrumbs-aside">
     </li>
   </ul>
@@ -197,42 +195,38 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h3 id="75"><strong>7.5 因果推論</strong></h3>
+                <h3 id="75"><strong>7.5 数理モデルの応用分野例（参考）</strong></h3>
 <ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E7%B5%B1%E8%A8%88%E7%9A%84%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96">統計的因果推論</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E6%9E%9C%E6%80%A7">因果性</a>(→ 4.2.2 因果性)</li>
-<li>潜在結果モデル（<a href="https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%93%E3%83%B3%E5%9B%A0%E6%9E%9C%E3%83%A2%E3%83%87%E3%83%AB">ルービン因果モデル</a>）<ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%B9%B3%E5%9D%87%E5%87%A6%E7%BD%AE%E5%8A%B9%E6%9E%9C">平均処置効果</a></li>
-<li>潜在効果モデル、反事実モデル<ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%82%BE%E5%90%91%E3%82%B9%E3%82%B3%E3%82%A2%E3%83%BB%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0">傾向スコア・マッチング</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6">離散数学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%9A%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA%E3%83%BB%E3%83%AA%E3%82%B5%E3%83%BC%E3%83%81">オペレーションズ・リサーチ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%88%B6%E5%BE%A1%E5%B7%A5%E5%AD%A6">制御工学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%87%A8%E5%BA%8A%E7%A0%94%E7%A9%B6">臨床研究</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%B9%B3%E8%A1%A1%E7%86%B1%E5%8A%9B%E5%AD%A6">平衡熱力学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%B5%B1%E8%A8%88%E5%8A%9B%E5%AD%A6">統計力学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E7%B5%B1%E8%A8%88%E5%8A%9B%E5%AD%A6">量子統計力学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9">バイオインフォマティクス</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%86%E3%83%AA%E3%82%A2%E3%83%AB%E3%82%BA%E3%83%BB%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9">マテリアルズ・インフォマティクス</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E7%B3%BB">複雑系</a><ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E7%B5%84%E7%B9%94%E5%8C%96">自己組織化</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E8%BB%A2%E7%A7%BB">相転移</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF">複雑ネットワーク</a></li>
 </ul>
 </li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%AE%9F%E4%BB%AE%E6%83%B3%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92">反実仮想機械学習</a></li>
-</ul>
-</li>
-<li>
-<p>構造的因果モデル（パール因果モデル）</p>
-<ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E6%9C%89%E5%90%91%E9%9D%9E%E5%B7%A1%E5%9B%9E%E3%82%B0%E3%83%A9%E3%83%95">有向非巡回グラフ</a>、do演算子、バックドア基準、フロントドア基準、調整化公式</li>
-</ul>
-</li>
-<li>
-<p><a href="https://ja.wikipedia.org/wiki/%E6%93%AC%E4%BC%BC%E7%9B%B8%E9%96%A2">擬似相関</a></p>
-</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E6%93%8D%E4%BD%9C%E5%A4%89%E6%95%B0%E6%B3%95">操作変数法</a></li>
-<li>逆確率重みづけ、因果フォレスト、<a href="https://ja.wikipedia.org/wiki/%E5%B7%AE%E5%88%86%E3%81%AE%E5%B7%AE%E5%88%86%E6%B3%95">差分の差分法</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF">ベイジアンネットワーク</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E7%96%AB%E5%AD%A6">疫学</a>研究におけるエビデンスの強さ（<a href="https://ja.wikipedia.org/wiki/%E6%A0%B9%E6%8B%A0%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%8C%BB%E7%99%82">根拠に基づく医療</a>）、<a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%80%E3%83%A0%E5%8C%96%E6%AF%94%E8%BC%83%E8%A9%A6%E9%A8%93">ランダム化比較試験</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%87%8D%E7%9B%B2%E6%A4%9C%E6%B3%95">二重盲検法</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%81%AE%E5%9F%BA%E6%BA%96">ヒルの基準</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E5%9B%A0%E6%9E%9C%E6%80%A7">グレンジャー因果性</a></li>
-<li>因果媒介分析</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88%E5%AD%A6">計量経済学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E7%90%86%E8%AB%96">決定理論</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%B8%96%E8%AB%96%E8%AA%BF%E6%9F%BB">世論調査</a>、<a href="https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E8%AA%BF%E6%9F%BB">社会調査</a>、<a href="https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%B5%B1%E8%A8%88%E5%AD%A6">社会統計学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E8%A8%88%E9%87%8F%E7%B5%8C%E6%B8%88%E5%AD%A6">計量経済学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E5%B7%A5%E5%AD%A6">金融工学</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9">数理ファイナンス</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB">ビジネスモデル</a></li>
+<li>マーケティングモデル</li>
 </ul>
               
             </div>
           </div><footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../7-4/" class="btn btn-neutral float-left" title="7.4 解釈・評価"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../7-6/" class="btn btn-neutral float-right" title="7.6 数理モデルの応用分野例（参考）">Next <span class="icon icon-circle-arrow-right"></span></a>
+        <a href="../7-4/" class="btn btn-neutral float-left" title="7.4 モデルの評価・解釈"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../8-1/" class="btn btn-neutral float-right" title="8.1 問8">Next <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -258,7 +252,7 @@
       <span><a href="../7-4/" style="color: #fcfcfc">&laquo; Previous</a></span>
     
     
-      <span><a href="../7-6/" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../8-1/" style="color: #fcfcfc">Next &raquo;</a></span>
     
   </span>
 </div>
