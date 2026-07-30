@@ -130,9 +130,9 @@
     </li>
     <li class="toctree-l3"><a class="reference internal" href="#6443">6.4.4.3 誤差の把握・低減</a>
     </li>
-    <li class="toctree-l3"><a class="reference internal" href="#6444">6.4.4.4 データの選定・前処理</a>
-    </li>
         </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#6444">6.4.4.4 データの評価・前処理</a>
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#645">6.4.5 分析法バリデーション（参考）</a>
     </li>
@@ -191,6 +191,10 @@
                 <li class="toctree-l1"><a class="reference internal" href="../afterword/">あとがき</a>
                 </li>
               </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../glossary/">索引</a>
+                </li>
+              </ul>
       </div>
     </div>
     </nav>
@@ -243,7 +247,7 @@
 </ul>
 <h3 id="643"><strong>6.4.3 <a href="https://ja.wikipedia.org/wiki/%E6%A4%9C%E9%87%8F%E7%B7%9A">検量線</a></strong></h3>
 <ul>
-<li>モデリング・フィッティング（第7章に記載）<ul>
+<li>モデリング・フィッティング（→ 7.4.1 モデルの評価）<ul>
 <li>原理的に求められた数理モデル<ul>
 <li>確率モデル</li>
 <li>一定の速度での連続的な変化</li>
@@ -308,7 +312,32 @@
 <li>絶対・相対基準サンプルの同時測定</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AC%E3%83%BC%E3%82%B5%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3">トレーサビリティ</a></li>
 </ul>
-<h4 id="6444"><strong>6.4.4.4 データの選定・前処理</strong></h4>
+<h3 id="6444"><strong>6.4.4.4 データの評価・前処理</strong></h3>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90">データ解析</a>、モデルの構築、パラメーターの推定、データによる学習（パラメーターのチューニング）<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E4%BA%8B%E5%BE%8C%E7%A2%BA%E7%8E%87">事後確率</a></li>
+</ul>
+</li>
+<li>モデルの評価、検証・実証、検定、選択、修正、再学習<ul>
+<li>ベイズ更新（信念の改訂）</li>
+</ul>
+</li>
+<li>モデルの利用、生成<ul>
+<li>新たなデータの入力と生成物の評価・利用</li>
+</ul>
+</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%89%8D%E5%87%A6%E7%90%86">データ前処理</a>：<a href="https://en.wikipedia.org/wiki/Data_wrangling">Data wrangling</a>、<a href="https://en.wikipedia.org/wiki/Data_cleansing">Data cleansing</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BE%8B%E5%A4%96%E5%87%A6%E7%90%86">例外処理</a>、<a href="https://ja.wikipedia.org/wiki/%E5%A4%96%E3%82%8C%E5%80%A4">外れ値</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%B9%E7%95%B0%E7%82%B9">特異点</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AC%A0%E6%B8%AC%E3%83%87%E3%83%BC%E3%82%BF">欠測データ</a>、<a href="https://ja.wikipedia.org/wiki/%E7%89%B9%E5%BE%B4%E6%8A%BD%E5%87%BA">特徴抽出</a>、<a href="https://ja.wikipedia.org/wiki/%E6%AD%A3%E8%A6%8F%E5%8C%96">正規化</a>、パラメーターの重み付け<ul>
+<li>データの信頼性、<a href="https://ja.wikipedia.org/wiki/Wikipedia:%E4%BF%A1%E9%A0%BC%E3%81%A7%E3%81%8D%E3%82%8B%E6%83%85%E5%A0%B1%E6%BA%90">信頼できる情報源</a>、<a href="https://ja.wikipedia.org/wiki/%E5%87%BA%E7%89%88%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9">出版バイアス</a></li>
+</ul>
+</li>
+<li>データ評価のメリット・リスク<ul>
+<li>誤ったモデル・結論の防止</li>
+<li><a href="https://ja.wikipedia.org/wiki/Garbage_in,_garbage_out">Garbage in, garbage out</a></li>
+<li>データバイアスの発生、異常（機会）検知の失敗（→ 9.4.3 バイアス・誤謬・詭弁）</li>
+<li>再現性の喪失</li>
+</ul>
+</li>
+</ul>
 <h3 id="645"><strong>6.4.5 分析法バリデーション（参考）</strong></h3>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E6%AD%A3%E7%A2%BA%E5%BA%A6%E3%81%A8%E7%B2%BE%E5%BA%A6">正確度と精度</a></li>
