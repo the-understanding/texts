@@ -464,7 +464,7 @@
 
 - [後向き連鎖](https://ja.wikipedia.org/wiki/%E5%BE%8C%E5%90%91%E3%81%8D%E9%80%A3%E9%8E%96)：3.3.2.2 論証の形式
 - [埋め込み \(数学\)](https://ja.wikipedia.org/wiki/%E5%9F%8B%E3%82%81%E8%BE%BC%E3%81%BF_(%E6%95%B0%E5%AD%A6))：2.4.4 関係性の構造, 7.3.3 機械学習と深層学習
-- [裏 \(論理学\)](https://ja.wikipedia.org/wiki/%E8%A3%8F_(%E8%AB%96%E7%90%86%E5%AD%A6)：3.2.2 論理学
+- [裏 \(論理学\)](https://ja.wikipedia.org/wiki/%E8%A3%8F_(%E8%AB%96%E7%90%86%E5%AD%A6))：3.2.2 論理学
 - [運動感覚](https://ja.wikipedia.org/wiki/%E9%81%8B%E5%8B%95%E6%84%9F%E8%A6%9A)：1.3.1 知覚
 
 - [映像](https://ja.wikipedia.org/wiki/%E6%98%A0%E5%83%8F)：8.4.2 表現技法
@@ -534,7 +534,7 @@
 - [型システム](https://ja.wikipedia.org/wiki/%E5%9E%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：10.2.3 データ構造・データベース
 - [偏り](https://ja.wikipedia.org/wiki/%E5%81%8F%E3%82%8A)：6.4.4.1 誤差, 7.4.2.2 バイアスと歪み
 - [型理論](https://ja.wikipedia.org/wiki/%E5%9E%8B%E7%90%86%E8%AB%96)：3.3.2.6 論理学の関連分野（参考）
-- [学会 \(会議\)](https://ja.wikipedia.org/wiki/%E5%AD%A6%E4%BC%9A_(%E4%BC%9A%E8%AD%B0)：9.2.1 形式
+- [学会 \(会議\)](https://ja.wikipedia.org/wiki/%E5%AD%A6%E4%BC%9A_(%E4%BC%9A%E8%AD%B0))：9.2.1 形式
 - [価値](https://ja.wikipedia.org/wiki/%E4%BE%A1%E5%80%A4)：8.3 価値
 - [価値 \(マーケティング\)](https://ja.wikipedia.org/wiki/%E4%BE%A1%E5%80%A4_(%E3%83%9E%E3%83%BC%E3%82%B1%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0))：8.3 価値
 - [価値観](https://ja.wikipedia.org/wiki/%E4%BE%A1%E5%80%A4%E8%A6%B3)：8.3 価値
