@@ -124,7 +124,7 @@
     </li>
     <li class="toctree-l2"><a class="reference internal" href="#635-ab">6.3.5 因子（群）Aと結果（群）Bの関係</a>
     </li>
-    <li class="toctree-l2"><a class="reference internal" href="#636-ba">6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）</a>
+    <li class="toctree-l2"><a class="reference internal" href="#636-ba">6.3.6 結果（群）Bに対する因子（群）Aの関係性の確認（参考）</a>
     </li>
     </ul>
                   </li>
@@ -306,52 +306,55 @@
 <li><a href="https://ja.wikipedia.org/wiki/%E5%9B%A0%E6%9E%9C%E6%80%A7">因果性</a>（→ 4.2 因果性、7.5 因果推論）</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E4%BA%A4%E7%B5%A1">交絡</a></li>
 </ul>
-<h3 id="636-ba"><strong>6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）</strong></h3>
+<h3 id="636-ba"><strong>6.3.6 結果（群）Bに対する因子（群）Aの関係性の確認（参考）</strong></h3>
 <ul>
 <li>Aは本当に因子か<ul>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%81%B6%E7%84%B6">偶然</a>ではないか、<a href="https://ja.wikipedia.org/wiki/%E5%86%8D%E7%8F%BE%E6%80%A7">再現性</a>の確認は取れるか、データの選択バイアスによる過学習モデルとなっていないか<ul>
-<li>繰り返し再現性、別の測定法による再現性、クロスバリデーションは可能か</li>
-<li>他の研究者による再現性取得は可能か</li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%81%B6%E7%84%B6">偶然</a>ではないか（<a href="https://ja.wikipedia.org/wiki/%E5%86%8D%E7%8F%BE%E6%80%A7">再現性</a>、自然の斉一性・普遍妥当性の確認）<ul>
+<li>繰り返し再現性、他の研究者・機器・場所による再現性取得は可能か</li>
+<li>別の測定法により確認できるか</li>
 </ul>
 </li>
-<li>Bが生じて（存在して）いる時には必ずAが存在しているか<ul>
-<li>Aを無くすことで常にBが生じないか</li>
-<li>Aが無い状態からAを追加することでBが生じるか</li>
+<li>Bが生じて（存在して）いる時には必ずAが存在しているか
+        - 時間軸は必ずAが先か（時間軸の確認）<ul>
+<li>Aを無くすことで常にBが生じないか（対照群、反事実の確認）</li>
+<li>Aが無い状態からAを追加することでBが生じるか（再構成の確認1）</li>
 </ul>
 </li>
-<li>BとAは量に<a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%96%A2">相関</a>があるか<ul>
+<li>BとAは量に<a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E9%96%A2">相関</a>があるか（相関の確認）<ul>
 <li>逆相関の場合、AはBの抑制に効いているのか</li>
 </ul>
 </li>
-<li>AとBの共通の要因となっている因子（群）Cは存在しないか、潜在因子、<a href="https://ja.wikipedia.org/wiki/%E4%BA%A4%E7%B5%A1">交絡</a></li>
-<li>BがAの因子である可能性は無いか<ul>
+<li>AとBの共通の要因となっている因子（群）Cは存在しないか（潜在因子、<a href="https://ja.wikipedia.org/wiki/%E4%BA%A4%E7%B5%A1">交絡</a>の確認）</li>
+<li>AとBの共通の結果となっている結果（群）Dは存在しないか（合流点バイアスの確認）</li>
+<li>BがAの因子である可能性は無いか（逆因果の否定）<ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8">相互作用</a>、シナジー（<a href="https://ja.wikipedia.org/wiki/%E7%9B%B8%E4%B9%97%E5%8A%B9%E6%9E%9C">相乗効果</a>）、<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF">フィードバック</a></li>
 </ul>
 </li>
-<li>AとBが一致している（同じ現象を他の見方をしている）可能性は無いか</li>
+<li>AとBが一致している（同じ現象について他の見方をしている）可能性は無いか（同値の否定）</li>
 </ul>
 </li>
-<li>Aは直接的要因か<ul>
-<li>Aは因子（群）Cに働き、CがBの直接的要因である可能性は無いか<ul>
-<li>AとBは直接的な関係があるか（結合・情報伝達）</li>
-</ul>
-</li>
-<li>補助因子</li>
-<li>促進因子・抑制因子</li>
-<li>AはB以外にも影響を与えていないか（B以外の観測変数の有無、系そのものを壊していないか）</li>
-</ul>
-</li>
-<li>因子Aを分解できる可能性は無いか：主要因、特徴量抽出<ul>
+<li>因子Aを分解できる可能性は無いか（主要因、特徴量抽出）<ul>
 <li>Aが存在していてもBが存在しない場合はあるか、それはどのような場合か</li>
 <li>因子水準を変更した場合にBが生じるAの範囲・条件はあるか</li>
-<li>Aを類似のものに変更・一部改変、系のスケールアップ・ダウン、などできるか</li>
+<li>Aを類似のものに変更・一部改変、などできるか</li>
 <li>因子群の関係性は把握可能か<ul>
 <li>交差負荷</li>
 </ul>
 </li>
 </ul>
 </li>
-<li>因子はAだけか<ul>
+<li>Aは直接的要因か（間接因子の確認）<ul>
+<li>Aは因子（群）Cに働き、CがBの直接的要因である可能性は無いか<ul>
+<li>AとBは直接的な関係があるか（結合・情報伝達の確認）</li>
+</ul>
+</li>
+<li>補助因子・促進因子・抑制因子など他の因子が関係していないか、系のスケールアップ・ダウン、などは可能か</li>
+<li>データの選択バイアスによる過学習モデルとなっていないか、クロスバリデーションは可能か</li>
+<li>AはB以外にも影響を与えていないか（B以外の観測変数の有無、系そのものを壊していないか）（系の適合性確認）</li>
+<li>A → C, C → Bが示せても、A,B,Cが同時に存在する時にはAがC → Bであったり、BがA → Cに干渉し、A → B → Cとならない可能性は無いか</li>
+</ul>
+</li>
+<li>Bの因子はAだけか（特異性の確認）<ul>
 <li>AだけでBが生じることを別の系（場所・時間等）で確認できるか<ul>
 <li>再構成</li>
 </ul>
@@ -360,9 +363,9 @@
 <li><a href="https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%90%E3%83%BC%E3%82%B9%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0">リバースエンジニアリング</a></li>
 </ul>
 </li>
-<li>A → B, B → Cが示せても、A,B,Cが同時に存在する時にはCがA → Bであったり、AがB → Cに干渉し、A → B → Cとならない可能性は無いか</li>
 </ul>
 </li>
+<li>これまでの知識と矛盾しないか（理論的妥当性の確認）</li>
 </ul>
               
             </div>
