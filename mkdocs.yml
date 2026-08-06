@@ -1,5 +1,5 @@
 site_name: The Understanding ~10 Questions for Beginners~
-site_url: https://the-understanding.github.io/texts/
+#site_url: https://the-understanding.github.io/texts/
 docs_dir: markdown   #default root
 
 theme:
