@@ -1,11 +1,11 @@
 <!DOCTYPE html>
-<html class="writer-html5" lang="en" >
+<html class="writer-html5" lang="ja" >
 <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
       <link rel="shortcut icon" href="../img/favicon.ico" />
-    <title>3.5 数・演算 - 理解すること  〜初学者のための10の質問〜</title>
+    <title>3.5 数・演算 - The Understanding</title>
     <link rel="stylesheet" href="../css/theme.css" />
     <link rel="stylesheet" href="../css/theme_extra.css" />
         <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
@@ -30,15 +30,15 @@
     <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
     <div class="wy-side-scroll">
       <div class="wy-side-nav-search">
-          <a href=".." class="icon icon-home"> 理解すること  〜初学者のための10の質問〜
+          <a href=".." class="icon icon-home"> The Understanding
         </a><div role="search">
   <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
-      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+      <input type="text" name="q" placeholder="ドキュメントを検索" aria-label="ドキュメントを検索" title="検索語句を入力してください" />
   </form>
 </div>
       </div>
 
-      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="ナビゲーションメニュー">
               <ul>
                 <li class="toctree-l1"><a class="reference internal" href="..">ホーム</a>
                 </li>
@@ -58,7 +58,7 @@
                   <li class="toctree-l1"><a class="reference internal" href="../1-4/">1.4 概念</a>
                   </li>
               </ul>
-              <p class="caption"><span class="caption-text">第2章 分類・整理</span></p>
+              <p class="caption"><span class="caption-text">第2章 分類・構造化</span></p>
               <ul>
                   <li class="toctree-l1"><a class="reference internal" href="../2-1/">2.1 問2</a>
                   </li>
@@ -81,6 +81,10 @@
                   </li>
                   <li class="toctree-l1 current"><a class="reference internal current" href="#">3.5 数・演算</a>
     <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#351">3.5.1 数</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#352">3.5.2 演算・作用素 (関数解析学)</a>
+    </li>
     </ul>
                   </li>
               </ul>
@@ -180,15 +184,15 @@
     </nav>
 
     <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
-      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+      <nav class="wy-nav-top" role="navigation" aria-label="モバイルナビゲーションメニュー">
           <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
-          <a href="..">理解すること  〜初学者のための10の質問〜</a>
+          <a href="..">The Understanding</a>
         
       </nav>
       <div class="wy-nav-content">
         <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
   <ul class="wy-breadcrumbs">
-    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+    <li><a href=".." class="icon icon-home" aria-label="ドキュメント"></a></li>
           <li class="breadcrumb-item">第3章 論理・演算</li>
       <li class="breadcrumb-item active">3.5 数・演算</li>
     <li class="wy-breadcrumbs-aside">
@@ -199,13 +203,21 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
             <div class="section" itemprop="articleBody">
               
-                <h3 id="35"><strong>3.5 数・演算</strong></h3>
+                <h2 id="35"><strong>3.5 数・演算</strong></h2>
 <h3 id="351"><strong>3.5.1 <a href="https://ja.wikipedia.org/wiki/%E6%95%B0">数</a></strong></h3>
 <ul>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%8D%81%E9%80%B2%E6%B3%95">十進法</a>、<a href="https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%80%B2%E6%B3%95">二進法</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BA%8F%E6%95%B0">順序数</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0">自然数</a>、<a href="https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0">基数</a>、<a href="https://ja.wikipedia.org/wiki/%E7%B4%A0%E6%95%B0">素数</a>、</li>
-<li><a href="https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%8E%E3%81%AE%E5%85%AC%E7%90%86">ペアノの公理</a>、<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%BC%E3%82%B2%E3%81%AE%E5%AE%9A%E7%90%86">フレーゲの定理</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0">自然数</a>、<a href="https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0">基数</a></li>
+<li>
+<p><a href="https://ja.wikipedia.org/wiki/%E7%B4%A0%E6%95%B0">素数</a></p>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/%E7%AE%97%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86">算術の基本定理</a></li>
+</ul>
+</li>
+<li>
+<p><a href="https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%8E%E3%81%AE%E5%85%AC%E7%90%86">ペアノの公理</a>、<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%BC%E3%82%B2%E3%81%AE%E5%AE%9A%E7%90%86">フレーゲの定理</a></p>
+</li>
 <li><a href="https://ja.wikipedia.org/wiki/%E9%80%A3%E7%B6%9A_(%E6%95%B0%E5%AD%A6)">連続 (数学)</a>、<a href="https://ja.wikipedia.org/wiki/%E5%AE%9F%E6%95%B0%E3%81%AE%E9%80%A3%E7%B6%9A%E6%80%A7">実数の連続性</a>、<a href="https://ja.wikipedia.org/wiki/%E6%BF%83%E5%BA%A6_(%E6%95%B0%E5%AD%A6)">濃度 (数学)</a>、<a href="https://ja.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E5%8C%96">離散化</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/%E5%BA%A7%E6%A8%99">座標</a>、<a href="https://ja.wikipedia.org/wiki/%E7%9B%B4%E7%B7%9A">直線</a>、</li>
 </ul>
@@ -257,9 +269,9 @@
               
             </div>
           </div><footer>
-    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
-        <a href="../3-4/" class="btn btn-neutral float-left" title="3.4 数学的構造"><span class="icon icon-circle-arrow-left"></span> Previous</a>
-        <a href="../4-1/" class="btn btn-neutral float-right" title="4.1 問4">Next <span class="icon icon-circle-arrow-right"></span></a>
+    <div class="rst-footer-buttons" role="navigation" aria-label="フッターナビゲーション">
+        <a href="../3-4/" class="btn btn-neutral float-left" title="3.4 数学的構造"><span class="icon icon-circle-arrow-left"></span> 前へ</a>
+        <a href="../4-1/" class="btn btn-neutral float-right" title="4.1 問4">次へ <span class="icon icon-circle-arrow-right"></span></a>
     </div>
 
   <hr/>
@@ -268,7 +280,7 @@
     <!-- Copyright etc -->
   </div>
 
-  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+  <a href="https://readthedocs.org">Read the Docs</a> 提供の <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> を使って <a href="https://www.mkdocs.org/">MkDocs</a> でビルドされました。
 </footer>
           
         </div>
@@ -278,14 +290,14 @@
 
   </div>
 
-  <div class="rst-versions" role="note" aria-label="Versions">
+  <div class="rst-versions" role="note" aria-label="バージョン">
   <span class="rst-current-version" data-toggle="rst-current-version">
     
     
-      <span><a href="../3-4/" style="color: #fcfcfc">&laquo; Previous</a></span>
+      <span><a href="../3-4/" style="color: #fcfcfc">&laquo; 前へ</a></span>
     
     
-      <span><a href="../4-1/" style="color: #fcfcfc">Next &raquo;</a></span>
+      <span><a href="../4-1/" style="color: #fcfcfc">次へ &raquo;</a></span>
     
   </span>
 </div>
