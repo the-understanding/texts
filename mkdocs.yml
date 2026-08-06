@@ -4,13 +4,25 @@ docs_dir: markdown/ja   #default root
 theme:
   name: material
   language: ja
+  palette:
+    # ライトモード/ダークモード切り替えスイッチの設定
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
+    - toc.integrate
     - user_color_mode_toggle
+    - navigation.top
     - navigation.tabs
     - navigation.sections
     - navigation.expand
-    - navigation.top
-    - navigation.tabs
     - search.suggest
 
 plugins:
@@ -83,6 +95,7 @@ plugins:
             - 索引: glossary.md
         - locale: en
           name: English
+          #link: /en/
           docs_dir: markdown/en
           build: true
           nav:
