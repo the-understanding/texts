@@ -17,7 +17,7 @@
 - [Github](https://github.com/the-understanding/texts)：理解すること  〜初学者のための10の質問〜
 - [Goodness of fit](https://en.wikipedia.org/wiki/Goodness_of_fit)：7.4.1.5 モデル選択・複雑性
 - [GPU](https://ja.wikipedia.org/wiki/GPU)：10.3.1 ハードウェア
-- [Graph database](https://en.wikipedia.org/wiki/Graph_database)：10.2.3 データ構造・データベース
+- [Graph database](https://en.wikipedia.org/wiki/Graph_database)：10.2.4 データ構造・データベース
 - [HARKing](https://ja.wikipedia.org/wiki/HARKing)：7.4.2.2 バイアスと歪み
 - [IMRAD](https://ja.wikipedia.org/wiki/IMRAD)：8.4.2 表現技法
 - [Transformer \(機械学習モデル\)](https://ja.wikipedia.org/wiki/Transformer_(%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%A2%E3%83%87%E3%83%AB))：7.3.3 機械学習と深層学習
@@ -25,10 +25,10 @@
 - [Learning rate](https://en.wikipedia.org/wiki/Learning_rate)：7.4.2.3 モデルの学習・評価
 - [MECE](https://ja.wikipedia.org/wiki/MECE)：2.4.5 構造化の諸問題
 - [N\-of\-1試験](https://ja.wikipedia.org/wiki/N-of-1%E8%A9%A6%E9%A8%93)：6.3.4 探索空間・データサンプリングの設計
-- [NoSQL](https://ja.wikipedia.org/wiki/NoSQL)：10.2.3 データ構造・データベース
+- [NoSQL](https://ja.wikipedia.org/wiki/NoSQL)：10.2.4 データ構造・データベース
 - [NPO](https://ja.wikipedia.org/wiki/NPO)：8.3 価値
-- [NP完全問題](https://ja.wikipedia.org/wiki/NP%E5%AE%8C%E5%85%A8%E5%95%8F%E9%A1%8C)：10.2.4 計算複雑性理論
-- [NP困難](https://ja.wikipedia.org/wiki/NP%E5%9B%B0%E9%9B%A3)：10.2.4 計算複雑性理論
+- [NP完全問題](https://ja.wikipedia.org/wiki/NP%E5%AE%8C%E5%85%A8%E5%95%8F%E9%A1%8C)：10.2.5 計算複雑性理論
+- [NP困難](https://ja.wikipedia.org/wiki/NP%E5%9B%B0%E9%9B%A3)：10.2.5 計算複雑性理論
 - [P\-hacking](https://en.wikipedia.org/?title=P-hacking&redirect=no)：7.4.2.2 バイアスと歪み
 - [PDCAサイクル](https://ja.wikipedia.org/wiki/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB)：6.5.2 生産管理
 - [PREP法](https://ja.wikipedia.org/wiki/PREP%E6%B3%95)：8.4.2 表現技法
@@ -40,6 +40,7 @@
 - [Salience \(neuroscience\)](https://en.wikipedia.org/wiki/Salience_(neuroscience))：1.3.2 認識
 - [SCAMPER](https://en.wikipedia.org/wiki/SCAMPER)：9.2.3 情報共有・判断の枠組み
 - [SN比](https://ja.wikipedia.org/wiki/SN%E6%AF%94)：6.4.3 検量線
+- [Spoiler effect](https://en.wikipedia.org/wiki/Spoiler_effect)：9.4.2 意思決定プロセスが含み持つ問題
 - [Systematic layout planning](https://en.wikipedia.org/wiki/Systematic_layout_planning)：6.5.2 生産管理
 - [Tetralemma](https://en.wikipedia.org/wiki/Tetralemma)：3.2.2 論理学
 - [Win\-Win](https://ja.wikipedia.org/wiki/Win-Win)：9.3.2 対立意見の対応
@@ -61,7 +62,7 @@
 - [アプリオリ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%AA%E3%83%AA)：1.3.3 意識・心情（気持ち）
 - [アプリケーションプログラミングインタフェース](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)：10.3.2 ソフトウェア
 - [アポステリオリ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%82%B9%E3%83%86%E3%83%AA%E3%82%AA%E3%83%AA)：1.3.3 意識・心情（気持ち）
-- [アルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.2 アルゴリズム
+- [アルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.3 アルゴリズム
 - [アローの不可能性定理](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AD%E3%83%BC%E3%81%AE%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%80%A7%E5%AE%9A%E7%90%86)：9.4.2 意思決定プロセスが含み持つ問題
 - [アンケート](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88)：6.2.2 実証研究, 9.2.4 優先順位の決定
 - [アンサンブル・ラーニング](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0)：7.4.3 モデルの改善・更新
@@ -110,9 +111,9 @@
 - [カルバック・ライブラー情報量](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%83%90%E3%83%83%E3%82%AF%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%BC%E6%83%85%E5%A0%B1%E9%87%8F)：4.2.1 現象論的因果性, 7.4.1.4 類似度・情報量に基づく指標
 - [カントールの対角線論法](https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%88%E3%83%BC%E3%83%AB%E3%81%AE%E5%AF%BE%E8%A7%92%E7%B7%9A%E8%AB%96%E6%B3%95)：3.4.2.2 証明技法
 
-- [キュー \(コンピュータ\)](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF))：10.2.3 データ構造・データベース
+- [キュー \(コンピュータ\)](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF))：10.2.4 データ構造・データベース
 - [キュムラント母関数](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%88%E6%AF%8D%E9%96%A2%E6%95%B0)：7.3.1.2 確率過程
-- [キーバリュー型データベース](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E5%9E%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)：10.2.3 データ構造・データベース
+- [キーバリュー型データベース](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E5%9E%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)：10.2.4 データ構造・データベース
 
 - [クオリア](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2)：1.3.3 意識・心情（気持ち）, 8.4.4 表現しきれないもの
 - [クオリティ・バイ・デザイン](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3)：6.3.4 探索空間・データサンプリングの設計, 6.5.3 品質管理
@@ -164,21 +165,21 @@
 - [システム思考](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%80%9D%E8%80%83)：5.3 分析アプローチ
 - [シナリオ・プランニング](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA%E3%83%BB%E3%83%97%E3%83%A9%E3%83%B3%E3%83%8B%E3%83%B3%E3%82%B0)：9.2.3 情報共有・判断の枠組み
 - [シニフィアンとシニフィエ](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A2%E3%83%B3%E3%81%A8%E3%82%B7%E3%83%8B%E3%83%95%E3%82%A3%E3%82%A8)：1.4 概念, 8.2 意味
-- [シミュレーション](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)：5.3 分析アプローチ, 7.2.2 モデルの構築手順による類型, 10.2.2 アルゴリズム
+- [シミュレーション](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)：5.3 分析アプローチ, 7.2.2 モデルの構築手順による類型, 10.2.3 アルゴリズム
 - [シャノンの情報源符号化定理](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3%E3%81%AE%E6%83%85%E5%A0%B1%E6%)：1.2.3.2 情報
 - [シャノンの通信路符号化定理](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3%E3%81%AE%E9%80%9A%E4%BF%A1%E8%B7%AF%E7%AC%A6%E5%8F%B7%E5%8C%96%E5%AE%9A%E7%90%86)：1.2.2.3 伝達効率
 - [ショアのアルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%82%A2%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.3.4.1 量子コンピューティング
 - [シンプソンのパラドックス](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9)：7.4.2.2 バイアスと歪み
 - [シンボル](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB)：8.2 意味
-- [シンボルグラウンディング問題](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%95%8F%E9%A1%8C)：8.2 意味, 10.2.4 計算複雑性理論, 10.4.1 記号主義・コネクショニズム
+- [シンボルグラウンディング問題](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%95%8F%E9%A1%8C)：8.2 意味, 10.2.5 計算複雑性理論, 10.4.1 記号主義・コネクショニズム
 - [ジャンル](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%AB)：8.4.1  対象からの情報抽出とまとまり
 - [ジレンマ](https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E)：9.2.4 優先順位の決定
 
 - [スキーマ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E)：1.4 概念, 8.2 意味
-- [スキーマ \(データベース\)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E_(%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9))：10.2.3 データ構造・データベース
+- [スキーマ \(データベース\)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E_(%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9))：10.2.4 データ構造・データベース
 - [スケジュール](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB)：4.3.3 計画
 - [スケジュール \(プロジェクト管理\)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB_(%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%AE%A1%E7%90%86))：9.2.5 期待される結果・結論と将来の対応
-- [スタック](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF)：10.2.3 データ構造・データベース
+- [スタック](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF)：10.2.4 データ構造・データベース
 - [ステークホルダー](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC)：9.2.2 役割
 - [ストーリーテリング](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E3%83%86%E3%83%AA%E3%83%B3%E3%82%B0)：8.4.2 表現技法
 - [ストローマン](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BC%E3%83%9E%E3%83%B3)：9.4.3 バイアス・誤謬・詭弁
@@ -195,12 +196,12 @@
 - [ゼロ和](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E5%92%8C)：5.4 秩序・安定, 7.3.4 最適化・戦略モデル
 - [ゼロ知識証明](https://ja.wikipedia.org/wiki/%E3%82%BC%E3%83%AD%E7%9F%A5%E8%AD%98%E8%A8%BC%E6%98%8E)：10.3.3 ネットワーク・セキュリティ
 
-- [ソート](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%88)：2.4.1 構造化による理解, 10.2.2 アルゴリズム
+- [ソート](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%88)：2.4.1 構造化による理解, 10.2.3 アルゴリズム
 - [ソフトウェア工学](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%A5%E5%AD%A6)：10.3.2 ソフトウェア
 
 - [タギング \(コンピュータ\)](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AE%E3%83%B3%E3%82%B0_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF))：2.4.3. ボトムアップ型
 - [タグ (メタデータ)](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B0_(%E3%83%A1%E3%82%BF%E3%83%87%E3%83%BC%E3%82%BF))：2.4.3. ボトムアップ型
-- [タプル](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%97%E3%83%AB)：10.2.3 データ構造・データベース
+- [タプル](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%97%E3%83%AB)：10.2.4 データ構造・データベース
 
 - [チェリー・ピッキング](https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%94%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0)：9.4.3 バイアス・誤謬・詭弁
 - [チャーチ＝チューリングのテーゼ](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%81%EF%BC%9D%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%86%E3%83%BC%E3%82%BC)：10.2.2 計算モデル
@@ -208,15 +209,15 @@
 - [チョークポイント](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)：4.3.2 操作・手順
 - [ツェルメロ＝フレンケル集合論](https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%AB%E3%83%A1%E3%83%AD%EF%BC%9D%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B1%E3%83%AB%E9%9B%86%E5%90%88%E8%AB%96)：3.4.3.1 集合
 
-- [データ](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF)：1.2.3.2 情報, 10.2.3 データ構造・データベース
+- [データ](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF)：1.2.3.2 情報, 10.2.4 データ構造・データベース
 - [データバリデーション](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%90%E3%83%AA%E3%83%87%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)：6.5.3 品質管理
-- [データベース](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)：2.4.4 関係性の構造, 10.2.3 データ構造・データベース
+- [データベース](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)：2.4.4 関係性の構造, 10.2.4 データ構造・データベース
 - [データ・クラスタリング](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0)：7.3.1.3 推計統計学
 - [データ前処理](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%89%8D%E5%87%A6%E7%90%86)：6.4.4.4 データの評価・前処理
 - [データ圧縮](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%9C%A7%E7%B8%AE)：1.2.2.3 伝達効率
 - [データ圧縮](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%9C%A7%E7%B8%AE)：1.2.3.2 情報
-- [データ型](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B)：10.2.3 データ構造・データベース
-- [データ構造](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)：2.4.4 関係性の構造, 10.2.3 データ構造・データベース
+- [データ型](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B)：10.2.4 データ構造・データベース
+- [データ構造](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)：2.4.4 関係性の構造, 10.2.4 データ構造・データベース
 - [データ移行](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E7%A7%BB%E8%A1%8C)：10.3.1 ハードウェア
 - [データ解析](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90)：6.4.4.4 データの評価・前処理
 - [データ障害](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E9%9A%9C%E5%AE%B3)：1.2.3.4 情報消去
@@ -258,13 +259,13 @@
 - [ノイズフィルター](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A4%E3%82%BA%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%BC)：1.2.2.3 伝達効率
 - [ノンパラメトリック手法](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%B3%E3%83%91%E3%83%A9%E3%83%A1%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF%E6%89%8B%E6%B3%95)：7.3.1.3 推計統計学
 - [ノイマン型](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A4%E3%83%9E%E3%83%B3%E5%9E%8B)：10.3.1 ハードウェア
-- [ノーフリーランチ定理](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%81%E5%AE%9A%E7%90%86)：10.2.2 アルゴリズム
+- [ノーフリーランチ定理](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%95%E3%83%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%81%E5%AE%9A%E7%90%86)：10.2.3 アルゴリズム
 - [のれん \(会計\)](https://ja.wikipedia.org/wiki/%E3%81%AE%E3%82%8C%E3%82%93_(%E4%BC%9A%E8%A8%88))：8.3 価値
 
 - [ハイパーパラメータ \(ベイズ統計学\)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF_(%E3%83%99%E3%82%A4%E3%82%BA%E7%B5%B1%E8%A8%88%E5%AD%A6))：7.2.3 変数・パラメーター
 - [ハイパーパラメータ \(機械学習\)](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%91%E3%83%BC%E3%83%91%E3%83%A9%E3%83%A1%E3%83%BC%E3%82%BF_(%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92))：7.2.3 変数・パラメーター
 - [ハッシュ関数](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E9%96%A2%E6%95%B0)：10.3.3 ネットワーク・セキュリティ
-- [ハッシュテーブル](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB)：10.2.3 データ構造・データベース
+- [ハッシュテーブル](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%83%E3%82%B7%E3%83%A5%E3%83%86%E3%83%BC%E3%83%96%E3%83%AB)：10.2.4 データ構造・データベース
 - [ハードウェア](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%BC%E3%83%89%E3%82%A6%E3%82%A7%E3%82%A2)：10.3.1 ハードウェア
 - [バイアス](https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9)：6.4.4.1 誤差, 7.4.2.2 バイアスと歪み, 9.4.3 バイアス・誤謬・詭弁
 - [バイオインフォマティクス](https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A4%E3%82%AA%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%9E%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)：7.5 数理モデルの応用分野例（参考）
@@ -363,12 +364,12 @@
 - [メカニズム](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0)：6.2.1 科学的方法
 - [メゾスコピック領域](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BE%E3%82%B9%E3%82%B3%E3%83%94%E3%83%83%E3%82%AF%E9%A0%98%E5%9F%9F)：5.6 システムの理解と運用
 - [メタアナリシス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B7%E3%82%B9)：6.2.2 実証研究
-- [メタヒューリスティクス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)：10.2.2 アルゴリズム
+- [メタヒューリスティクス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)：10.2.3 アルゴリズム
 - [メディア \(媒体\)](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2_(%E5%AA%92%E4%BD%93))：1.2.2.2 伝達媒体
 - [メディア・バイアス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9)：9.4.3 バイアス・誤謬・詭弁
 - [メモリオーダリング](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0)：10.3.1 ハードウェア
 - [メモリ階層](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A2%E3%83%AA%E9%9A%8E%E5%B1%A4)：10.3.1 ハードウェア
-- [メモ化](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A2%E5%8C%96)：10.2.2 アルゴリズム
+- [メモ化](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A2%E5%8C%96)：10.2.3 アルゴリズム
 - [メモリモデル \(プログラミング\)](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A2%E3%83%AA%E3%83%A2%E3%83%87%E3%83%AB_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0))：10.3.1 ハードウェア
 - [メンタルモデル](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%A2%E3%83%87%E3%83%AB)：1.4 概念, 6.2.3 仮説構築の基盤
 
@@ -391,7 +392,7 @@
 - [ラプラスの悪魔](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%97%E3%83%A9%E3%82%B9%E3%81%AE%E6%82%AA%E9%AD%94)：4.2.1 現象論的因果性
 - [ラプラス作用素](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%97%E3%83%A9%E3%82%B9%E4%BD%9C%E7%94%A8%E7%B4%A0)：3.5.2 演算・作用素 \(関数解析学\))
 - [ラベル付け](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%99%E3%83%AA%E3%83%B3%E3%82%B0)：1.4 概念
-- [ラムダ計算](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%83%80%E8%A8%88%E7%AE%97)：3.4.1.2 数学基礎論, 10.2.2 計算モデル
+- [ラムダ計算](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%A0%E3%83%80%E8%A8%88%E7%AE%97)：3.4.1.2 数学基礎論, 10.2.3 計算モデル
 - [ランキング](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0)：2.4.1 構造化による理解
 - [ランタイムシステム](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：10.3.2 ソフトウェア
 - [ランダウアーの原理](https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%B3%E3%83%80%E3%82%A6%E3%82%A2%E3%83%BC%E3%81%AE%E5%8E%9F%E7%90%86)：4.2.1 現象論的因果性
@@ -401,7 +402,7 @@
 - [リアプノフ安定](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%83%97%E3%83%8E%E3%83%95%E5%AE%89%E5%AE%9A)：5.5 変動・発展
 - [リーン生産方式](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%B3%E7%94%9F%E7%94%A3%E6%96%B9%E5%BC%8F)：6.5.2 生産管理
 - [リスクマネジメント](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%AF%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88)：4.3.3 計画
-- [リスト](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF)：10.2.3 データ構造・データベース
+- [リスト](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF)：10.2.4 データ構造・データベース
 - [リソース](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9)：4.3.3 計画
 - [リソース \(プロジェクト管理\)](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9_(%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%AE%A1%E7%90%86))：9.2.5 期待される結果・結論と将来の対応
 - [リスクアセスメント](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%A2%E3%82%BB%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88)：6.5.2 生産管理, 9.2.5 期待される結果・結論と将来の対応
@@ -435,7 +436,7 @@
 - [安全工学](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%AD%A6)：6.5.3 品質管理
 - [安定性理論](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%AE%9A%E6%80%A7%E7%90%86%E8%AB%96)：5.5 変動・発展
 - [暗号](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7)：10.3.3 ネットワーク・セキュリティ
-- [暗号理論](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）, 10.2.4 計算複雑性理論
+- [暗号理論](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）, 10.2.5 計算複雑性理論
 - [暗黙知](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%99%E7%9F%A5)：4.3.2 操作・手順, 8.4.4 表現しきれないもの
 
 - [意識のハード・プロブレム](https://ja.wikipedia.org/wiki/%E6%84%8F%E8%AD%98%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%83%BB%E3%83%97%E3%83%AD%E3%83%96%E3%83%AC%E3%83%A0)：1.3.3 意識・心情（気持ち）
@@ -532,7 +533,7 @@
 - [仮説検定](https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%AA%AC%E6%A4%9C%E5%AE%9A)：7.3.1.3 推計統計学
 - [仮想化](https://ja.wikipedia.org/wiki/%E4%BB%AE%E6%83%B3%E5%8C%96)：10.3.2 ソフトウェア
 - [家族的類似](https://ja.wikipedia.org/wiki/%E5%AE%B6%E6%97%8F%E7%9A%84%E9%A1%9E%E4%BC%BC)：2.4.6 定義
-- [型システム](https://ja.wikipedia.org/wiki/%E5%9E%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：10.2.3 データ構造・データベース
+- [型システム](https://ja.wikipedia.org/wiki/%E5%9E%8B%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：10.2.4 データ構造・データベース
 - [偏り](https://ja.wikipedia.org/wiki/%E5%81%8F%E3%82%8A)：6.4.4.1 誤差, 7.4.2.2 バイアスと歪み
 - [型理論](https://ja.wikipedia.org/wiki/%E5%9E%8B%E7%90%86%E8%AB%96)：3.3.2.6 論理学の関連分野（参考）
 - [学会 \(会議\)](https://ja.wikipedia.org/wiki/%E5%AD%A6%E4%BC%9A_(%E4%BC%9A%E8%AD%B0))：9.2.1 形式
@@ -551,7 +552,7 @@
 - [環境](https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83)：5.2 システムの構成
 - [環境・社会・企業統治](https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E3%83%BB%E7%A4%BE%E4%BC%9A%E3%83%BB%E4%BC%81%E6%A5%AD%E7%B5%B1%E6%B2%BB)：8.3 価値
 - [環境デザイン](https://ja.wikipedia.org/wiki/%E7%92%B0%E5%A2%83%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3)：8.4.3 情報の提示・デザイン
-- [関係データベース管理システム](https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：10.2.3 データ構造・データベース
+- [関係データベース管理システム](https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9%E7%AE%A1%E7%90%86%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：10.2.4 データ構造・データベース
 - [監査](https://ja.wikipedia.org/wiki/%E7%9B%A3%E6%9F%BB)：6.5.3 品質管理
 - [慣習](https://ja.wikipedia.org/wiki/%E6%85%A3%E7%BF%92)：8.4.5 コミュニケーション, 9.2.4 優先順位の決定
 - [干渉 \(物理学\) ](https://ja.wikipedia.org/wiki/%E5%B9%B2%E6%B8%89_(%E7%89%A9%E7%90%86%E5%AD%A6))：1.2.2.1 観測対象と媒体の相互作用
@@ -567,7 +568,7 @@
 - [観測問題](https://ja.wikipedia.org/wiki/%E8%A6%B3%E6%B8%AC%E5%95%8F%E9%A1%8C)：1.2.2.1 観測対象と媒体の相互作用
 - [観念](https://ja.wikipedia.org/wiki/%E8%A6%B3%E5%BF%B5)：1.2.1 存在, 1.4 概念
 - [観念論](https://ja.wikipedia.org/wiki/%E8%A6%B3%E5%BF%B5%E8%AB%96)：1.2.1 存在
-- [還元 \(計算複雑性理論\)](https://ja.wikipedia.org/wiki/%E9%82%84%E5%85%83_(%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%91%E6%80%A7%E7%90%86%E8%AB%96))：10.2.4 計算複雑性理論
+- [還元 \(計算複雑性理論\)](https://ja.wikipedia.org/wiki/%E9%82%84%E5%85%83_(%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%91%E6%80%A7%E7%90%86%E8%AB%96))：10.2.5 計算複雑性理論
 - [還元主義](https://ja.wikipedia.org/wiki/%E9%82%84%E5%85%83%E4%B8%BB%E7%BE%A9)：5.3 分析アプローチ
 - [間隔反復](https://ja.wikipedia.org/wiki/%E9%96%93%E9%9A%94%E5%8F%8D%E5%BE%A9)：1.2.3.1 データの記録・保存
 - [関係](https://ja.wikipedia.org/wiki/%E9%96%A2%E4%BF%82)：6.3.5 因子（群）Aと結果（群）Bの関係
@@ -582,7 +583,7 @@
 - [基底 \(線型代数学\)](https://ja.wikipedia.org/wiki/%E5%9F%BA%E5%BA%95_(%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6))：3.4.5 数学の諸分野（参考）
 - [希少性](https://ja.wikipedia.org/wiki/%E5%B8%8C%E5%B0%91%E6%80%A7)：8.3 価値
 - [幾何学](https://ja.wikipedia.org/wiki/%E5%B9%BE%E4%BD%95%E5%AD%A6)：3.4.5 数学の諸分野（参考）
-- [木構造 \(データ構造\)](https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%A7%8B%E9%80%A0_(%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0))：2.4.4 関係性の構造, 10.2.3 データ構造・データベース
+- [木構造 \(データ構造\)](https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%A7%8B%E9%80%A0_(%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0))：2.4.4 関係性の構造, 10.2.4 データ構造・データベース
 - [機械学習](https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)：7.2.2 モデルの構築手順による類型, 7.3.3 機械学習と深層学習, 7.4.3 モデルの改善・更新
 - [期待効用](https://ja.wikipedia.org/wiki/%E6%9C%9F%E5%BE%85%E5%8A%B9%E7%94%A8)：9.2.5 期待される結果・結論と将来の対応
 - [機能](https://ja.wikipedia.org/wiki/%E6%A9%9F%E8%83%BD)：2.3.2 評価指標
@@ -621,7 +622,7 @@
 - [境界条件](https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E6%9D%A1%E4%BB%B6)：2.4.6 定義
 - [境界線](https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E7%B7%9A)：5.2 システムの構成
 - [境界値問題](https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E5%80%A4%E5%95%8F%E9%A1%8C)：7.2.2 モデルの構築手順による類型
-- [境界要素法](https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E8%A6%81%E7%B4%A0%E6%B3%95)：10.2.2 アルゴリズム
+- [境界要素法](https://ja.wikipedia.org/wiki/%E5%A2%83%E7%95%8C%E8%A6%81%E7%B4%A0%E6%B3%95)：10.2.3 アルゴリズム
 - [強化学習](https://ja.wikipedia.org/wiki/%E5%BC%B7%E5%8C%96%E5%AD%A6%E7%BF%92)：7.3.3 機械学習と深層学習, 7.4.3 モデルの改善・更新
 - [共感](https://ja.wikipedia.org/wiki/%E5%85%B1%E6%84%9F)：8.3 価値, 8.4.5 コミュニケーション
 - [競技](https://ja.wikipedia.org/wiki/%E7%AB%B6%E6%8A%80)：9.3.3 決断・決着の手法
@@ -630,7 +631,7 @@
 - [共役](https://ja.wikipedia.org/wiki/%E5%85%B1%E5%BD%B9)：3.5.2 演算・作用素 \(関数解析学\))
 - [協力ゲーム](https://ja.wikipedia.org/wiki/%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0)：7.3.4 最適化・戦略モデル
 - [行列](https://ja.wikipedia.org/wiki/%E8%A1%8C%E5%88%97)：3.4.5 数学の諸分野（参考）
-- [局所探索法](https://ja.wikipedia.org/wiki/%E5%B1%80%E6%89%80%E6%8E%A2%E7%B4%A2%E6%B3%95)：10.2.2 アルゴリズム
+- [局所探索法](https://ja.wikipedia.org/wiki/%E5%B1%80%E6%89%80%E6%8E%A2%E7%B4%A2%E6%B3%95)：10.2.3 アルゴリズム
 - [極限](https://ja.wikipedia.org/wiki/%E6%A5%B5%E9%99%90)：3.5.2 演算・作用素 \(関数解析学\))
 - [極限 \(圏論\)](https://ja.wikipedia.org/wiki/%E6%A5%B5%E9%99%90_(%E5%9C%8F%E8%AB%96))：3.4.4.3 圏論
 - [巨人の肩の上](https://ja.wikipedia.org/wiki/%E5%B7%A8%E4%BA%BA%E3%81%AE%E8%82%A9%E3%81%AE%E4%B8%8A)：6.2.3 仮説構築の基盤
@@ -641,7 +642,7 @@
 - [議論領域](https://ja.wikipedia.org/wiki/%E8%AD%B0%E8%AB%96%E9%A0%98%E5%9F%9F)：3.2.2 論理学
 - [均衡](https://ja.wikipedia.org/wiki/%E5%9D%87%E8%A1%A1)：5.4 秩序・安定
 - [近似](https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BC%BC)：7.4.2.1 解釈可能性・不確実性
-- [近似アルゴリズム](https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BC%BC%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.2 アルゴリズム
+- [近似アルゴリズム](https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BC%BC%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.3 アルゴリズム
 - [近似による誤差](https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BC%BC%E3%81%AB%E3%82%88%E3%82%8B%E8%AA%A4%E5%B7%AE)：6.4.4.1 誤差
 - [金融工学](https://ja.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E5%B7%A5%E5%AD%A6)：7.5 数理モデルの応用分野例（参考）
 
@@ -650,7 +651,7 @@
 - [偶然](https://ja.wikipedia.org/wiki/%E5%81%B6%E7%84%B6)：4.2.2 分析的因果性, 6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）
 - [くすぐり](https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%99%E3%81%90%E3%82%8A)：1.3.1 知覚
 - [具体化](https://ja.wikipedia.org/wiki/%E5%85%B7%E4%BD%93%E7%9A%84%E6%80%9D%E8%80%83)：2.2.1 差異の抽出による個別化
-- [組合せ最適化](https://ja.wikipedia.org/wiki/%E7%B5%84%E5%90%88%E3%81%9B%E6%9C%80%E9%81%A9%E5%8C%96)：10.2.2 アルゴリズム
+- [組合せ最適化](https://ja.wikipedia.org/wiki/%E7%B5%84%E5%90%88%E3%81%9B%E6%9C%80%E9%81%A9%E5%8C%96)：10.2.3 アルゴリズム
 - [組合せ数学](https://ja.wikipedia.org/wiki/%E7%B5%84%E5%90%88%E3%81%9B%E6%95%B0%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [繰り返しゲーム](https://ja.wikipedia.org/wiki/%E7%B9%B0%E3%82%8A%E8%BF%94%E3%81%97%E3%82%B2%E3%83%BC%E3%83%A0)：7.3.4 最適化・戦略モデル
 - [群 \(数学\)](https://ja.wikipedia.org/wiki/%E7%BE%A4_(%E6%95%B0%E5%AD%A6))：3.4.4.2 集合の代数学
@@ -666,7 +667,7 @@
 - [経済](https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88)：5.2 システムの構成, 8.3 価値
 - [計算](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97)：4.3.2 操作・手順, 10.2.2 計算モデル
 - [計算可能性理論](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E5%8F%AF%E8%83%BD%E6%80%A7%E7%90%86%E8%AB%96)：3.2.2 論理学
-- [計算複雑性理論](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%91%E6%80%A7%E7%90%86%E8%AB%96)：10.2.4 計算複雑性理論
+- [計算複雑性理論](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%91%E6%80%A7%E7%90%86%E8%AB%96)：10.2.5 計算複雑性理論
 - [計算理論](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E7%90%86%E8%AB%96)：3.3.2.6 論理学の関連分野（参考）, 10.2 計算理論
 - [計算モデル](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E3%83%A2%E3%83%87%E3%83%AB)：10.2.2 計算モデル
 - [形式意味論](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E6%84%8F%E5%91%B3%E8%AB%96)：3.3.2.6 論理学の関連分野（参考）
@@ -686,7 +687,7 @@
 - [計量法に基づく計量単位一覧](https://ja.wikipedia.org/wiki/%E8%A8%88%E9%87%8F%E6%B3%95%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E8%A8%88%E9%87%8F%E5%8D%98%E4%BD%8D%E4%B8%80%E8%A6%A7)：6.3.3 量（参考）
 - [経路依存性](https://ja.wikipedia.org/wiki/%E7%B5%8C%E8%B7%AF%E4%BE%9D%E5%AD%98%E6%80%A7)：9.2.4 優先順位の決定
 - [欠測データ](https://ja.wikipedia.org/wiki/%E6%AC%A0%E6%B8%AC%E3%83%87%E3%83%BC%E3%82%BF)：6.4.4.4 データの評価・前処理, 7.4.1.6 データとモデルの限界
-- [決定可能性](https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%80%A7)：10.2.2 計算モデル
+- [決定可能性](https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E5%8F%AF%E8%83%BD%E6%80%A7)：3.4.1.2 数学基礎論、10.2.2 計算モデル
 - [決定係数](https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E4%BF%82%E6%95%B0)：6.4.3 検量線, 7.3.1.3 推計統計学, 7.4.1.2 予測誤差の指標
 - [決定不全](https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E4%B8%8D%E5%85%A8)：3.3.2.5 証明可能性の限界
 - [決定理論](https://ja.wikipedia.org/wiki/%E6%B1%BA%E5%AE%9A%E7%90%86%E8%AB%96)：7.3.4 最適化・戦略モデル, 7.5 数理モデルの応用分野例（参考）, 9.2.3 情報共有・判断の枠組み, 9.3.1 意思決定
@@ -700,7 +701,7 @@
 - [言語](https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E)：5.2 システムの構成, 8.4.2 表現技法
 - [言語の役割](https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E#.E8.A8.80.E8.AA.9E.E3.81.AE.E6.A9.9F.E8.83.BD)：1.4 概念
 - [言語哲学](https://ja.wikipedia.org/wiki/%E8%A8%80%E8%AA%9E%E5%93%B2%E5%AD%A6)：3.3.2.6 論理学の関連分野（参考）
-- [検索エンジン](https://ja.wikipedia.org/wiki/%E6%A4%9C%E7%B4%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)：10.2.2 アルゴリズム
+- [検索エンジン](https://ja.wikipedia.org/wiki/%E6%A4%9C%E7%B4%A2%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3)：10.2.3 アルゴリズム
 - [検出](https://ja.wiktionary.org/wiki/%E6%A4%9C%E5%87%BA)：1.2.2.4 観測
 - [検出限界](https://ja.wikipedia.org/wiki/%E6%A4%9C%E5%87%BA%E9%99%90%E7%95%8C)：6.4.5 分析法バリデーション（参考）
 - [現象](https://ja.wikipedia.org/wiki/%E7%8F%BE%E8%B1%A1)：1.2.1 存在
@@ -738,7 +739,7 @@
 - [工程能力指数](https://ja.wikipedia.org/wiki/%E5%B7%A5%E7%A8%8B%E8%83%BD%E5%8A%9B%E6%8C%87%E6%95%B0)：6.5.2 生産管理
 - [高・低文脈文化](https://ja.wikipedia.org/wiki/%E9%AB%98%E3%83%BB%E4%BD%8E%E6%96%87%E8%84%88%E6%96%87%E5%8C%96)：8.4.5 コミュニケーション
 - [光度 \(光学\)](https://ja.wikipedia.org/wiki/%E5%85%89%E5%BA%A6_(%E5%85%89%E5%AD%A6))：6.3.3 量（参考）
-- [勾配法](https://ja.wikipedia.org/wiki/%E5%8B%BE%E9%85%8D%E6%B3%95)：10.2.2 アルゴリズム
+- [勾配法](https://ja.wikipedia.org/wiki/%E5%8B%BE%E9%85%8D%E6%B3%95)：10.2.3 アルゴリズム
 - [公平](https://ja.wikipedia.org/wiki/%E5%85%AC%E5%B9%B3)：9.4.1 意見の違い
 - [項目応答理論 ](https://ja.wikipedia.org/wiki/%E9%A0%85%E7%9B%AE%E5%BF%9C%E7%AD%94%E7%90%86%E8%AB%96)：6.2.2 実証研究
 - [交絡](https://ja.wikipedia.org/wiki/%E4%BA%A4%E7%B5%A1)：6.3.5 因子（群）Aと結果（群）Bの関係, 6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）, 7.4.1.6 データとモデルの限界
@@ -766,17 +767,17 @@
 - [差異](https://ja.wikipedia.org/wiki/%E5%B7%AE%E7%95%B0)：2.2.1 差異の抽出による個別化
 - [差延](https://ja.wikipedia.org/wiki/%E5%B7%AE%E5%BB%B6)：2.2.1 差異の抽出による個別化
 - [差分の差分法](https://ja.wikipedia.org/wiki/%E5%B7%AE%E5%88%86%E3%81%AE%E5%B7%AE%E5%88%86%E6%B3%95)：7.3.2 因果推論
-- [差分法](https://ja.wikipedia.org/wiki/%E5%B7%AE%E5%88%86%E6%B3%95)：3.4.5 数学の諸分野（参考）, 10.2.2 アルゴリズム
+- [差分法](https://ja.wikipedia.org/wiki/%E5%B7%AE%E5%88%86%E6%B3%95)：3.4.5 数学の諸分野（参考）, 10.2.3 アルゴリズム
 - [座標](https://ja.wikipedia.org/wiki/%E5%BA%A7%E6%A8%99)：3.5.1 数
 - [再帰](https://ja.wikipedia.org/wiki/%E5%86%8D%E5%B8%B0)：3.4.2.2 証明技法
 - [再帰理論](https://ja.wikipedia.org/wiki/%E5%86%8D%E5%B8%B0%E7%90%86%E8%AB%96)：3.4.2.2 証明技法
 - [再現性](https://ja.wikipedia.org/wiki/%E5%86%8D%E7%8F%BE%E6%80%A7)：6.2.1 科学的方法, 6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）
 - [再現性の危機](https://ja.wikipedia.org/wiki/%E5%86%8D%E7%8F%BE%E6%80%A7%E3%81%AE%E5%8D%B1%E6%A9%9F)：6.2.1 科学的方法
-- [最急降下法](https://ja.wikipedia.org/wiki/%E6%9C%80%E6%80%A5%E9%99%8D%E4%B8%8B%E6%B3%95)：10.2.2 アルゴリズム
+- [最急降下法](https://ja.wikipedia.org/wiki/%E6%9C%80%E6%80%A5%E9%99%8D%E4%B8%8B%E6%B3%95)：10.2.3 アルゴリズム
 - [最小公倍数](https://ja.wikipedia.org/wiki/%E6%9C%80%E5%B0%8F%E5%85%AC%E5%80%8D%E6%95%B0)：3.5.2 演算・作用素 \(関数解析学\))
 - [最大公約数](https://ja.wikipedia.org/wiki/%E6%9C%80%E5%A4%A7%E5%85%AC%E7%B4%84%E6%95%B0)：3.5.2 演算・作用素 \(関数解析学\))
-- [最短経路問題](https://ja.wikipedia.org/wiki/%E6%9C%80%E7%9F%AD%E7%B5%8C%E8%B7%AF%E5%95%8F%E9%A1%8C)：10.2.2 アルゴリズム
-- [最適化問題](https://ja.wikipedia.org/wiki/%E6%9C%80%E9%81%A9%E5%8C%96%E5%95%8F%E9%A1%8C)：7.3.4 最適化・戦略モデル, 10.2.2 アルゴリズム
+- [最短経路問題](https://ja.wikipedia.org/wiki/%E6%9C%80%E7%9F%AD%E7%B5%8C%E8%B7%AF%E5%95%8F%E9%A1%8C)：10.2.3 アルゴリズム
+- [最適化問題](https://ja.wikipedia.org/wiki/%E6%9C%80%E9%81%A9%E5%8C%96%E5%95%8F%E9%A1%8C)：7.3.4 最適化・戦略モデル, 10.2.3 アルゴリズム
 - [最尤推定](https://ja.wikipedia.org/wiki/%E6%9C%80%E5%B0%A4%E6%8E%A8%E5%AE%9A)：7.3.1.3 推計統計学
 - [裁判](https://ja.wikipedia.org/wiki/%E8%A3%81%E5%88%A4)：9.4.5 調停・紛争解決
 - [削除](https://ja.wikipedia.org/wiki/%E5%89%8A%E9%99%A4)：1.2.3.4 情報消去
@@ -789,6 +790,7 @@
 - [作用・反作用](https://ja.wikipedia.org/wiki/%E9%81%8B%E5%8B%95%E3%81%AE%E7%AC%AC3%E6%B3%95%E5%89%87)：1.2.2.1 観測対象と媒体の相互作用
 - [散逸構造](https://ja.wikipedia.org/wiki/%E6%95%A3%E9%80%B8%E6%A7%8B%E9%80%A0)：5.5 変動・発展
 - [算術](https://ja.wikipedia.org/wiki/%E7%AE%97%E8%A1%93)：3.4.4.1 演算 \(数学\))
+- [算術の基本定理](https://ja.wikipedia.org/wiki/%E7%AE%97%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86)：3.4.4.1 演算 \(数学\))
 - [三体問題](https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BD%93%E5%95%8F%E9%A1%8C)：3.4.5 数学の諸分野（参考）
 - [三段論法](https://ja.wikipedia.org/wiki/%E4%B8%89%E6%AE%B5%E8%AB%96%E6%B3%95)：3.3.2.2 論証の形式
 
@@ -853,7 +855,7 @@
 - [社会的ネットワーク](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%9A%84%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)：5.3 分析アプローチ
 - [社会的少数者](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%B0%91%E6%95%B0%E8%80%85)：5.6 システムの理解と運用
 - [社会統計学](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%B5%B1%E8%A8%88%E5%AD%A6)：7.5 数理モデルの応用分野例（参考）
-- [弱形式](https://ja.wikipedia.org/wiki/%E5%BC%B1%E5%BD%A2%E5%BC%8F)：10.2.2 アルゴリズム
+- [弱形式](https://ja.wikipedia.org/wiki/%E5%BC%B1%E5%BD%A2%E5%BC%8F)：10.2.3 アルゴリズム
 - [尺度水準](https://ja.wikipedia.org/wiki/%E5%B0%BA%E5%BA%A6%E6%B0%B4%E6%BA%96)：2.3.2 評価指標, 6.3.2 定性・定量・尺度
 - [遮蔽](https://ja.wikipedia.org/wiki/%E9%81%AE%E8%94%BD)：1.2.2.1 観測対象と媒体の相互作用
 - [終域](https://ja.wikipedia.org/wiki/%E7%B5%82%E5%9F%9F)：3.4.3.3 写像
@@ -869,7 +871,7 @@
 - [自由主義](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E4%B8%BB%E7%BE%A9)：5.6 システムの理解と運用
 - [囚人のジレンマ](https://ja.wikipedia.org/wiki/%E5%9B%9A%E4%BA%BA%E3%81%AE%E3%82%B8%E3%83%AC%E3%83%B3%E3%83%9E)：5.6 システムの理解と運用, 7.3.4 最適化・戦略モデル
 - [集積回路](https://ja.wikipedia.org/wiki/%E9%9B%86%E7%A9%8D%E5%9B%9E%E8%B7%AF)：10.3.1 ハードウェア
-- [充足可能性問題](https://ja.wikipedia.org/wiki/%E5%85%85%E8%B6%B3%E5%8F%AF%E8%83%BD%E6%80%A7%E5%95%8F%E9%A1%8C)：3.3.2.4 論理の拡張, 3.3.2.6 論理学の関連分野（参考）, 10.2.4 計算複雑性理論
+- [充足可能性問題](https://ja.wikipedia.org/wiki/%E5%85%85%E8%B6%B3%E5%8F%AF%E8%83%BD%E6%80%A7%E5%95%8F%E9%A1%8C)：3.3.2.4 論理の拡張, 3.3.2.6 論理学の関連分野（参考）, 10.2.5 計算複雑性理論
 - [集団意思決定](https://ja.wikipedia.org/wiki/%E9%9B%86%E5%9B%A3%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A)：9.3.1 意思決定
 - [集団思考](https://ja.wikipedia.org/wiki/%E9%9B%86%E5%9B%A3%E6%80%9D%E8%80%83)：9.4.3 バイアス・誤謬・詭弁
 - [自由度](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%94%B1%E5%BA%A6)：5.6 システムの理解と運用
@@ -894,7 +896,7 @@
 - [順序集合](https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BA%8F%E9%9B%86%E5%90%88)：3.4.3.1 集合
 - [順序数](https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BA%8F%E6%95%B0)：3.5.1 数
 - [準同型](https://ja.wikipedia.org/wiki/%E6%BA%96%E5%90%8C%E5%9E%8B)：3.4.3.3 写像
-- [準ニュートン法](https://ja.wikipedia.org/wiki/%E6%BA%96%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E6%B3%95)：10.2.2 アルゴリズム
+- [準ニュートン法](https://ja.wikipedia.org/wiki/%E6%BA%96%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E6%B3%95)：10.2.3 アルゴリズム
 - [順応](https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BF%9C)：5.4 秩序・安定
 - [準備](https://ja.wiktionary.org/wiki/%E6%BA%96%E5%82%99)：4.3.3 計画
 - [状態空間 \(制御理論\)](https://ja.wikipedia.org/wiki/%E7%8A%B6%E6%85%8B%E7%A9%BA%E9%96%93_(%E5%88%B6%E5%BE%A1%E7%90%86%E8%AB%96))：7.2.2 モデルの構築手順による類型
@@ -928,7 +930,7 @@
 - [除法](https://ja.wikipedia.org/wiki/%E9%99%A4%E6%B3%95)：3.5.2 演算・作用素 \(関数解析学\))
 - [自律エージェント](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%BE%8B%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88)：5.5 変動・発展
 - [進化ゲーム](https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E3%82%B2%E3%83%BC%E3%83%A0)：7.3.4 最適化・戦略モデル
-- [進化的アルゴリズム](https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E7%9A%84%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.2 アルゴリズム
+- [進化的アルゴリズム](https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E7%9A%84%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.3 アルゴリズム
 - [進化的プログラミング](https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E7%9A%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)：7.2.2 モデルの構築手順による類型
 - [新規性](https://ja.wikipedia.org/wiki/%E6%96%B0%E8%A6%8F%E6%80%A7#:~:text=%E7%89%B9%E8%A8%B1%E5%88%B6%E5%BA%A6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E6%96%B0%E8%A6%8F%E6%80%A7,%E3%81%AE%E4%B8%80%E3%81%A4%E3%81%A7%E3%81%82%E3%82%8B%E3%80%82)：8.3 価値
 - [神経伝達](https://ja.wikipedia.org/wiki/%E7%A5%9E%E7%B5%8C%E4%BC%9D%E9%81%94)：1.2.2.2 伝達媒体
@@ -964,7 +966,7 @@
 - [数学的構造](https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%9A%84%E6%A7%8B%E9%80%A0)：3.4 数学的構造
 - [数学的対象](https://ja.wikipedia.org/wiki/%E6%95%B0%E5%AD%A6%E7%9A%84%E5%AF%BE%E8%B1%A1)：3.4.5 数学の諸分野（参考）
 - [数式](https://ja.wikipedia.org/wiki/%E6%95%B0%E5%BC%8F)：8.4.2 表現技法
-- [数値解析](https://ja.wikipedia.org/wiki/%E6%95%B0%E5%80%A4%E8%A7%A3%E6%9E%90)：3.4.5 数学の諸分野（参考）, 7.2.2 モデルの構築手順による類型, 10.2.2 アルゴリズム
+- [数値解析](https://ja.wikipedia.org/wiki/%E6%95%B0%E5%80%A4%E8%A7%A3%E6%9E%90)：3.4.5 数学の諸分野（参考）, 7.2.2 モデルの構築手順による類型, 10.2.3 アルゴリズム
 - [数理最適化](https://ja.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E6%9C%80%E9%81%A9%E5%8C%96)：3.4.5 数学の諸分野（参考）
 - [数理ファイナンス](https://ja.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%B3%E3%82%B9)：7.5 数理モデルの応用分野例（参考）
 - [数理モデル](https://ja.wikipedia.org/wiki/%E6%95%B0%E7%90%86%E3%83%A2%E3%83%87%E3%83%AB)：7.2.2 モデルの構築手順による類型
@@ -992,7 +994,6 @@
 - [正則性公理](https://ja.wikipedia.org/wiki/%E6%AD%A3%E5%89%87%E6%80%A7%E5%85%AC%E7%90%86)：3.2.1 集合
 - [生存分析](https://ja.wikipedia.org/wiki/%E7%94%9F%E5%AD%98%E5%88%86%E6%9E%90)：7.3.1.3 推計統計学
 - [製品](https://ja.wikipedia.org/wiki/%E8%A3%BD%E5%93%81)：8.4.2 表現技法
-- [整理](https://ja.wikipedia.org/wiki/%E6%95%B4%E7%90%86)：2.3 分類・整理
 - [積分変換](https://ja.wikipedia.org/wiki/%E7%A9%8D%E5%88%86%E5%A4%89%E6%8F%9B)：3.5.2 演算・作用素 \(関数解析学\))
 - [積分法](https://ja.wikipedia.org/wiki/%E7%A9%8D%E5%88%86%E6%B3%95)：3.4.5 数学の諸分野（参考）, 3.5.2 演算・作用素 \(関数解析学\))
 - [積率母関数](https://ja.wikipedia.org/wiki/%E7%A9%8D%E7%8E%87%E6%AF%8D%E9%96%A2%E6%95%B0)：7.3.1.2 確率過程
@@ -1008,7 +1009,7 @@
 - [戦争](https://ja.wikipedia.org/wiki/%E6%88%A6%E4%BA%89)：9.4.4 不正・紛争
 - [戦略投票](https://ja.wikipedia.org/wiki/%E6%88%A6%E7%95%A5%E6%8A%95%E7%A5%A8)：9.3.3 決断・決着の手法
 - [潜在変数](https://ja.wikipedia.org/wiki/%E6%BD%9C%E5%9C%A8%E5%A4%89%E6%95%B0)：6.3.1 系・因子・結果, 7.2.3 変数・パラメーター
-- [線型計画問題](https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E8%A8%88%E7%94%BB%E5%95%8F%E9%A1%8C)：10.2.2 アルゴリズム
+- [線型計画問題](https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E8%A8%88%E7%94%BB%E5%95%8F%E9%A1%8C)：10.2.3 アルゴリズム
 - [線型写像](https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E5%86%99%E5%83%8F)：3.5.2 演算・作用素 \(関数解析学\))
 - [線型性](https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E6%80%A7)：3.4.5 数学の諸分野（参考）
 - [線型代数学](https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6)：3.4.5 数学の諸分野（参考）
@@ -1083,7 +1084,7 @@
 - [脱構築](https://ja.wikipedia.org/wiki/%E8%84%B1%E6%A7%8B%E7%AF%89)：2.4.1 構造化による理解
 - [単位](https://ja.wikipedia.org/wiki/%E5%8D%98%E4%BD%8D)：6.3.3 量（参考）
 - [単位元](https://ja.wikipedia.org/wiki/%E5%8D%98%E4%BD%8D%E5%85%83)：3.4.4.2 集合の代数学
-- [探索](https://ja.wikipedia.org/wiki/%E6%8E%A2%E7%B4%A2)：7.3.4 最適化・戦略モデル, 10.2.2 アルゴリズム
+- [探索](https://ja.wikipedia.org/wiki/%E6%8E%A2%E7%B4%A2)：7.3.4 最適化・戦略モデル, 10.2.3 アルゴリズム
 - [探索的研究](https://ja.wikipedia.org/wiki/%E6%8E%A2%E7%B4%A2%E7%9A%84%E7%A0%94%E7%A9%B6)：6.2.1 科学的方法
 - [探索的データ解析](https://ja.wikipedia.org/wiki/%E6%8E%A2%E7%B4%A2%E7%9A%84%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90)：7.3.1.1 記述統計
 - [単射](https://ja.wikipedia.org/wiki/%E5%8D%98%E5%B0%84)：3.4.3.3 写像
@@ -1147,7 +1148,7 @@
 - [討論](https://ja.wikipedia.org/wiki/%E8%A8%8E%E8%AB%96)：9.2.1 形式
 - [動作経済の原則](https://ja.wikipedia.org/wiki/%E5%8B%95%E4%BD%9C%E7%B5%8C%E6%B8%88%E3%81%AE%E5%8E%9F%E5%89%87)：6.5.2 生産管理
 - [動詞](https://ja.wikipedia.org/wiki/%E5%8B%95%E8%A9%9E)：1.4 概念
-- [動的計画法](https://ja.wikipedia.org/wiki/%E5%8B%95%E7%9A%84%E8%A8%88%E7%94%BB%E6%B3%95)：10.2.2 アルゴリズム
+- [動的計画法](https://ja.wikipedia.org/wiki/%E5%8B%95%E7%9A%84%E8%A8%88%E7%94%BB%E6%B3%95)：10.2.3 アルゴリズム
 - [同一性](https://ja.wikipedia.org/wiki/%E5%90%8C%E4%B8%80%E6%80%A7)：3.2.2 論理学
 - [同型写像](https://ja.wikipedia.org/wiki/%E5%90%8C%E5%9E%8B%E5%86%99%E5%83%8F)：3.4.3.3 写像
 - [同型定理](https://ja.wikipedia.org/wiki/%E5%90%8C%E5%9E%8B%E5%AE%9A%E7%90%86)：3.4.3.3 写像
@@ -1166,9 +1167,9 @@
 - [独立変数と従属変数](https://ja.wikipedia.org/wiki/%E7%8B%AC%E7%AB%8B%E5%A4%89%E6%95%B0%E3%81%A8%E5%BE%93%E5%B1%9E%E5%A4%89%E6%95%B0)：7.2.3 変数・パラメーター
 - [徳倫理学](https://ja.wikipedia.org/wiki/%E5%BE%B3%E5%80%AB%E7%90%86%E5%AD%A6)：8.3 価値
 - [図書分類法](https://ja.wikipedia.org/wiki/%E5%9B%B3%E6%9B%B8%E5%88%86%E9%A1%9E%E6%B3%95)：2.4.1 構造化による理解
-- [凸最適化](https://ja.wikipedia.org/wiki/%E5%87%B8%E6%9C%80%E9%81%A9%E5%8C%96)：10.2.2 アルゴリズム
+- [凸最適化](https://ja.wikipedia.org/wiki/%E5%87%B8%E6%9C%80%E9%81%A9%E5%8C%96)：10.2.3 アルゴリズム
 - [取引](https://ja.wikipedia.org/wiki/%E5%8F%96%E5%BC%95)：9.3.2 対立意見の対応
-- [貪欲法](https://ja.wikipedia.org/wiki/%E8%B2%AA%E6%AC%B2%E6%B3%95)：10.2.2 アルゴリズム
+- [貪欲法](https://ja.wikipedia.org/wiki/%E8%B2%AA%E6%AC%B2%E6%B3%95)：10.2.3 アルゴリズム
 
 - [内在価値](https://ja.wikipedia.org/wiki/%E5%86%85%E5%9C%A8%E4%BE%A1%E5%80%A4)：8.3 価値
 - [内生性](https://ja.wikipedia.org/wiki/%E5%86%85%E7%94%9F%E6%80%A7)：7.2.3 変数・パラメーター
@@ -1178,7 +1179,7 @@
 
 - [二階述語論理](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%9A%8E%E8%BF%B0%E8%AA%9E%E8%AB%96%E7%90%86)：3.2.2 論理学
 - [二項関係](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%A0%85%E9%96%A2%E4%BF%82)：3.4.3.2 二項関係
-- [二次計画法](https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E8%A8%88%E7%94%BB%E6%B3%95)：10.2.2 アルゴリズム
+- [二次計画法](https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E8%A8%88%E7%94%BB%E6%B3%95)：10.2.3 アルゴリズム
 - [二重盲検法](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%87%8D%E7%9B%B2%E6%A4%9C%E6%B3%95)：6.3.4 探索空間・データサンプリングの設計, 7.3.2 因果推論
 - [二乗平均平方根誤差](https://ja.wikipedia.org/wiki/%E4%BA%8C%E4%B9%97%E5%B9%B3%E5%9D%87%E5%B9%B3%E6%96%B9%E6%A0%B9%E8%AA%A4%E5%B7%AE)：7.4.1.2 予測誤差の指標
 - [二進法](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%80%B2%E6%B3%95)：3.5.1 数
@@ -1203,7 +1204,7 @@
 - [場合の数](https://ja.wikipedia.org/wiki/%E5%A0%B4%E5%90%88%E3%81%AE%E6%95%B0)：7.3.1.2 確率過程
 - [排中律](https://ja.wikipedia.org/wiki/%E6%8E%92%E4%B8%AD%E5%BE%8B)：3.2.2 論理学
 - [背理法](https://ja.wikipedia.org/wiki/%E8%83%8C%E7%90%86%E6%B3%95)：3.4.2.2 証明技法
-- [配列](https://ja.wikipedia.org/wiki/%E9%85%8D%E5%88%97)：10.2.3 データ構造・データベース
+- [配列](https://ja.wikipedia.org/wiki/%E9%85%8D%E5%88%97)：10.2.4 データ構造・データベース
 - [媒介変数](https://ja.wikipedia.org/wiki/%E5%AA%92%E4%BB%8B%E5%A4%89%E6%95%B0)：7.2.3 変数・パラメーター
 - [陪審定理](https://ja.wikipedia.org/wiki/%E9%99%AA%E5%AF%A9%E5%AE%9A%E7%90%86)：9.3.3 決断・決着の手法
 - [波及効果](https://ja.wikipedia.org/wiki/%E6%B3%A2%E5%8F%8A%E5%8A%B9%E6%9E%9C)：9.2.5 期待される結果・結論と将来の対応
@@ -1213,7 +1214,7 @@
 - [発振回路](https://ja.wikipedia.org/wiki/%E7%99%BA%E6%8C%AF%E5%9B%9E%E8%B7%AF)：5.4 秩序・安定
 - [発明](https://ja.wikipedia.org/wiki/%E7%99%BA%E6%98%8E)：6.2.1 科学的方法
 - [場の空気](https://ja.wikipedia.org/wiki/%E5%A0%B4%E3%81%AE%E7%A9%BA%E6%B0%97)：8.4.2 表現技法
-- [幅優先探索](https://ja.wikipedia.org/wiki/%E5%B9%85%E5%84%AA%E5%85%88%E6%8E%A2%E7%B4%A2)：10.2.2 アルゴリズム
+- [幅優先探索](https://ja.wikipedia.org/wiki/%E5%B9%85%E5%84%AA%E5%85%88%E6%8E%A2%E7%B4%A2)：10.2.3 アルゴリズム
 - [破滅的忘却](https://ja.wikipedia.org/wiki/%E7%A0%B4%E6%BB%85%E7%9A%84%E5%BF%98%E5%8D%B4)：7.4.3 モデルの改善・更新
 - [半導体](https://ja.wikipedia.org/wiki/%E5%8D%8A%E5%B0%8E%E4%BD%93)：10.3.1 ハードウェア
 - [反応速度](https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%BF%9C%E9%80%9F%E5%BA%A6)：4.3.1 事象の変化
@@ -1222,7 +1223,7 @@
 - [反射 \(生物学\)](https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%B0%84_(%E7%94%9F%E7%89%A9%E5%AD%A6))：1.3.1 知覚
 - [反射関係](https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%B0%84%E9%96%A2%E4%BF%82)：3.4.3.2 二項関係
 - [反証可能性](https://ja.wikipedia.org/wiki/%E5%8F%8D%E8%A8%BC%E5%8F%AF%E8%83%BD%E6%80%A7)：3.3.2.4 論理の拡張, 6.2.1 科学的方法
-- [反復法 \(数値計算\)](https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%BE%A9%E6%B3%95_(%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97))：10.2.2 アルゴリズム
+- [反復法 \(数値計算\)](https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%BE%A9%E6%B3%95_(%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97))：10.2.3 アルゴリズム
 - [汎函数計算](https://ja.wikipedia.org/wiki/%E6%B1%8E%E5%87%BD%E6%95%B0%E8%A8%88%E7%AE%97)：3.4.4.1 演算 \(数学\))
 - [汎用人工知能](https://ja.wikipedia.org/wiki/%E6%B1%8E%E7%94%A8%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)：7.2.2 モデルの構築手順による類型, 10.4.2 生成AIと社会的影響
 
@@ -1236,7 +1237,7 @@
 - [非形式論理学](https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86%E5%AD%A6)：3.2.2 論理学
 - [非古典論理](https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8F%A4%E5%85%B8%E8%AB%96%E7%90%86)：3.3.2.4 論理の拡張
 - [非線形システム論](https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E8%AB%96)：7.2.2 モデルの構築手順による類型
-- [非線形計画法](https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E8%A8%88%E7%94%BB%E6%B3%95)：10.2.2 アルゴリズム
+- [非線形計画法](https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E8%A8%88%E7%94%BB%E6%B3%95)：10.2.3 アルゴリズム
 - [非線形性](https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E6%80%A7)：3.4.5 数学の諸分野（参考）, 5.5 変動・発展
 - [非線形物理学](https://ja.wikipedia.org/wiki/%E9%9D%9E%E7%B7%9A%E5%BD%A2%E7%89%A9%E7%90%86%E5%AD%A6)：7.2.2 モデルの構築手順による類型
 - [必然性](https://ja.wikipedia.org/wiki/%E5%BF%85%E7%84%B6%E6%80%A7)：4.2.2 分析的因果性
@@ -1246,7 +1247,7 @@
 - [微分](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%88%86)：3.5.2 演算・作用素 \(関数解析学\))
 - [微分幾何学](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E5%B9%BE%E4%BD%95%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [微分作用素](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E4%BD%9C%E7%94%A8%E7%B4%A0)：3.5.2 演算・作用素 \(関数解析学\))
-- [微分方程式](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%BC%8F)：3.4.5 数学の諸分野（参考）, 10.2.2 アルゴリズム
+- [微分方程式](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%BC%8F)：3.4.5 数学の諸分野（参考）, 10.2.3 アルゴリズム
 - [微分法](https://ja.wikipedia.org/wiki/%E5%BE%AE%E5%88%86%E6%B3%95)：3.4.5 数学の諸分野（参考）
 - [非ホロノミック系](https://ja.wikipedia.org/wiki/%E9%9D%9E%E3%83%9B%E3%83%AD%E3%83%8E%E3%83%9F%E3%83%83%E3%82%AF%E7%B3%BB)：5.5 変動・発展
 - [秘密分散](https://ja.wikipedia.org/wiki/%E7%A7%98%E5%AF%86%E5%88%86%E6%95%A3)：10.3.3 ネットワーク・セキュリティ
@@ -1271,7 +1272,7 @@
 - [品質保証](https://ja.wikipedia.org/wiki/%E5%93%81%E8%B3%AA%E4%BF%9D%E8%A8%BC)：6.5.4 品質保証
 - [頻度主義統計学](https://ja.wikipedia.org/wiki/%E9%A0%BB%E5%BA%A6%E4%B8%BB%E7%BE%A9%E7%B5%B1%E8%A8%88%E5%AD%A6)：7.3.1.3 推計統計学
 
-- [深さ優先探索](https://ja.wikipedia.org/wiki/%E6%B7%B1%E3%81%95%E5%84%AA%E5%85%88%E6%8E%A2%E7%B4%A2)：10.2.2 アルゴリズム
+- [深さ優先探索](https://ja.wikipedia.org/wiki/%E6%B7%B1%E3%81%95%E5%84%AA%E5%85%88%E6%8E%A2%E7%B4%A2)：10.2.3 アルゴリズム
 - [不可知論](https://ja.wikipedia.org/wiki/%E4%B8%8D%E5%8F%AF%E7%9F%A5%E8%AB%96)：8.4.4 表現しきれないもの
 - [不確定性原理](https://ja.wikipedia.org/wiki/%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7%E5%8E%9F%E7%90%86)：1.2.2.1 観測対象と媒体の相互作用
 - [付帯性](https://ja.wikipedia.org/wiki/%E4%BB%98%E5%B8%AF%E6%80%A7)：2.2.1 差異の抽出による個別化
@@ -1286,7 +1287,7 @@
 - [複雑ネットワーク](https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)：5.3 分析アプローチ, 7.5 数理モデルの応用分野例（参考）
 - [複雑系](https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E7%B3%BB)：7.5 数理モデルの応用分野例（参考）
 - [複雑性](https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E6%80%A7)：5.6 システムの理解と運用
-- [複雑性クラス](https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E6%80%A7%E3%82%AF%E3%83%A9%E3%82%B9)：10.2.4 計算複雑性理論
+- [複雑性クラス](https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E6%80%A7%E3%82%AF%E3%83%A9%E3%82%B9)：10.2.5 計算複雑性理論
 - [複素解析](https://ja.wikipedia.org/wiki/%E8%A4%87%E7%B4%A0%E8%A7%A3%E6%9E%90)：3.4.5 数学の諸分野（参考）
 - [複素力学系](https://ja.wikipedia.org/wiki/%E8%A4%87%E7%B4%A0%E5%8A%9B%E5%AD%A6%E7%B3%BB)：3.4.5 数学の諸分野（参考）
 - [不確かさ \(測定\)](https://ja.wikipedia.org/wiki/%E4%B8%8D%E7%A2%BA%E3%81%8B%E3%81%95_(%E6%B8%AC%E5%AE%9A)：6.4.4 不確かさ \(測定\))・誤差・エラー
@@ -1297,7 +1298,7 @@
 - [文](https://ja.wikipedia.org/wiki/%E6%96%87)：3.2.2 論理学
 - [雰囲気](https://ja.wikipedia.org/wiki/%E9%9B%B0%E5%9B%B2%E6%B0%97)：8.3 価値
 - [文化](https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96)：8.3 価値, 8.4.5 コミュニケーション
-- [分割統治法](https://ja.wikipedia.org/wiki/%E5%88%86%E5%89%B2%E7%B5%B1%E6%B2%BB%E6%B3%95)：10.2.2 アルゴリズム
+- [分割統治法](https://ja.wikipedia.org/wiki/%E5%88%86%E5%89%B2%E7%B5%B1%E6%B2%BB%E6%B3%95)：10.2.3 アルゴリズム
 - [分散コンピューティング](https://ja.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)：10.3.1 ハードウェア
 - [分散制御システム](https://ja.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：5.4 秩序・安定
 - [分散表現](https://ja.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E8%A1%A8%E7%8F%BE)：7.3.3 機械学習と深層学習
@@ -1352,6 +1353,7 @@
 - [無意識](https://ja.wikipedia.org/wiki/%E7%84%A1%E6%84%8F%E8%AD%98)：1.3.3 意識・心情（気持ち）
 - [無限降下法](https://ja.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E9%99%8D%E4%B8%8B%E6%B3%95)：3.4.2.2 証明技法
 - [無作為抽出](https://ja.wikipedia.org/wiki/%E7%84%A1%E4%BD%9C%E7%82%BA%E6%8A%BD%E5%87%BA)：6.3.4 探索空間・データサンプリングの設計
+- [無矛盾](https://ja.wikipedia.org/wiki/%E7%84%A1%E7%9F%9B%E7%9B%BE)：3.4.1.2 数学基礎論
 - [無矛盾律](https://ja.wikipedia.org/wiki/%E7%84%A1%E7%9F%9B%E7%9B%BE%E5%BE%8B)：3.2.2 論理学
 
 - [名詞](https://ja.wikipedia.org/wiki/%E5%90%8D%E8%A9%9E)：1.4 概念
@@ -1364,7 +1366,7 @@
 - [物語](https://ja.wikipedia.org/wiki/%E7%89%A9%E8%AA%9E)：8.3 価値
 - [問題解決](https://ja.wikipedia.org/wiki/%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA)：6.2.2 実証研究
 
-- [焼きなまし法](https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E3%81%AA%E3%81%BE%E3%81%97%E6%B3%95)：10.2.2 アルゴリズム
+- [焼きなまし法](https://ja.wikipedia.org/wiki/%E7%84%BC%E3%81%8D%E3%81%AA%E3%81%BE%E3%81%97%E6%B3%95)：10.2.3 アルゴリズム
 - [約数](https://ja.wikipedia.org/wiki/%E7%B4%84%E6%95%B0)：3.5.2 演算・作用素 \(関数解析学\))
 - [役割](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%9A%84%E5%BD%B9%E5%89%B2)：2.3.2 評価指標
 
@@ -1373,7 +1375,7 @@
 - [有意](https://ja.wikipedia.org/wiki/%E6%9C%89%E6%84%8F)：7.3.1.3 推計統計学
 - [尤度比検定](https://ja.wikipedia.org/wiki/%E5%B0%A4%E5%BA%A6%E6%AF%94%E6%A4%9C%E5%AE%9A)：7.3.1.3 推計統計学
 - [有界入力有界出力安定性](https://ja.wikipedia.org/wiki/%E6%9C%89%E7%95%8C%E5%85%A5%E5%8A%9B%E6%9C%89%E7%95%8C%E5%87%BA%E5%8A%9B%E5%AE%89%E5%AE%9A%E6%80%A7)：5.4 秩序・安定
-- [有限要素法](https://ja.wikipedia.org/wiki/%E6%9C%89%E9%99%90%E8%A6%81%E7%B4%A0%E6%B3%95)：10.2.2 アルゴリズム
+- [有限要素法](https://ja.wikipedia.org/wiki/%E6%9C%89%E9%99%90%E8%A6%81%E7%B4%A0%E6%B3%95)：10.2.3 アルゴリズム
 - [有向非巡回グラフ](https://ja.wikipedia.org/wiki/%E6%9C%89%E5%90%91%E9%9D%9E%E5%B7%A1%E5%9B%9E%E3%82%B0%E3%83%A9%E3%83%95)：7.3.2 因果推論
 - [有効数字](https://ja.wikipedia.org/wiki/%E6%9C%89%E5%8A%B9%E6%95%B0%E5%AD%97)：6.4.4.1 誤差
 - [優先順位](https://ja.wikipedia.org/wiki/%E5%84%AA%E5%85%88%E9%A0%86%E4%BD%8D)：9.2.4 優先順位の決定
@@ -1388,7 +1390,7 @@
 - [予測区間](https://ja.wikipedia.org/wiki/%E4%BA%88%E6%B8%AC%E5%8C%BA%E9%96%93)：7.3.1.3 推計統計学
 
 - [乱塊法](https://ja.wikipedia.org/wiki/%E4%B9%B1%E5%A1%8A%E6%B3%95)：6.3.4 探索空間・データサンプリングの設計
-- [乱択アルゴリズム](https://ja.wikipedia.org/wiki/%E4%B9%B1%E6%8A%9E%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.2 アルゴリズム
+- [乱択アルゴリズム](https://ja.wikipedia.org/wiki/%E4%B9%B1%E6%8A%9E%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.3 アルゴリズム
 
 - [利益相反](https://ja.wikipedia.org/wiki/%E5%88%A9%E7%9B%8A%E7%9B%B8%E5%8F%8D)：9.4.4 不正・紛争
 - [理解](https://ja.wikipedia.org/wiki/%E7%90%86%E8%A7%A3)：9.3.1 意思決定
@@ -1413,7 +1415,7 @@
 - [量子焼きなまし法](https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E7%84%BC%E3%81%8D%E3%81%AA%E3%81%BE%E3%81%97%E6%B3%95)：10.3.4.1 量子コンピューティング
 - [量子論理](https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E8%AB%96%E7%90%86)：3.3.2.4 論理の拡張, 10.3.4.1 量子コンピューティング
 - [理論](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96)：6.2.3 仮説構築の基盤
-- [理論計算機科学](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)：10.2.2 アルゴリズム
+- [理論計算機科学](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)：10.2.3 アルゴリズム
 - [理論負荷性](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E8%B2%A0%E8%8D%B7%E6%80%A7)：1.3.2 認識, 6.2.1 科学的方法
 - [倫理](https://ja.wikipedia.org/wiki/%E5%80%AB%E7%90%86)：8.3 価値
 - [倫理学](https://ja.wikipedia.org/wiki/%E5%80%AB%E7%90%86%E5%AD%A6)：8.3 価値
