@@ -1,8 +1,8 @@
-site_name: 理解すること  〜初学者のための10の質問〜
-docs_dir: markdown
+site_name: The Understanding
+docs_dir: markdown/ja   #default root
 
 theme:
-  name: readthedocs
+  name: material
   language: ja
   features:
     - user_color_mode_toggle
@@ -10,16 +10,17 @@ theme:
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - navigation.tabs
     - search.suggest
 
 plugins:
-  - search             # 検索機能を有効化
+  - search
   - i18n:
       default_language: ja
       languages:
-        ja:
+        - locale: ja
           name: 日本語
-          docs_dir: /ja
+          default: true
           build: true
           nav:
             - ホーム: index.md
@@ -80,69 +81,69 @@ plugins:
                 - 10.4 人工知能: 10-4.md
             - あとがき: afterword.md
             - 索引: glossary.md
-        en:
+        - locale: en
           name: English
-          docs_dir: /en
+          docs_dir: markdown/en
           build: true
           nav:
-            - Home: index.en.md
-            - Preface: preface.en.md
+            - Home: index.md
+            - Preface: preface.md
             - Chapter 1 Obseravtion, Information:
-                - 1.1 Q.1: 1-1.en.md
-                - 1.2 Observation, Information Generation: 1-2.en.md
-                - 1.3 Perception, Recognition: 1-3.en.md
-                - 1.4 Concept: 1-4.en.md
+                - 1.1 Q.1: 1-1.md
+                - 1.2 Observation, Information Generation: 1-2.md
+                - 1.3 Perception, Recognition: 1-3.md
+                - 1.4 Concept: 1-4.md
             - Chapter 2 Classification, Structuring:
-                - 2.1 Q.2: 2-1.en.md
-                - 2.2 Comparison: 2-2.en.md
-                - 2.3 Classification, Sort-out: 2-3.en.md
-                - 2.4 Strucuturing of Information: 2-4.en.md
+                - 2.1 Q.2: 2-1.md
+                - 2.2 Comparison: 2-2.md
+                - 2.3 Classification, Sort-out: 2-3.md
+                - 2.4 Strucuturing of Information: 2-4.md
             - Chapter 3 Logic, Calculation:
-                - 3.1 Q.3: 3-1.en.md
-                - 3.2 Set, Logic: 3-2.en.md
-                - 3.3 Proposition, Argument: 3-3.en.md
-                - 3.4 Mathematical Structure: 3-4.en.md
-                - 3.5 Numbers, Operation: 3-5.en.md
+                - 3.1 Q.3: 3-1.md
+                - 3.2 Set, Logic: 3-2.md
+                - 3.3 Proposition, Argument: 3-3.md
+                - 3.4 Mathematical Structure: 3-4.md
+                - 3.5 Numbers, Operation: 3-5.md
             - Chapter 4 Causality, Process:
-                - 4.1 Q.4: 4-1.en.md
-                - 4.2 Causality: 4-2.en.md
-                - 4.3 Process: 4-3.en.md
+                - 4.1 Q.4: 4-1.md
+                - 4.2 Causality: 4-2.md
+                - 4.3 Process: 4-3.md
             - 第5章 Organization, System:
-                - 5.1 Q.5: 5-1.en.md
-                - 5.2 Structure of a System: 5-2.en.md
-                - 5.3 Analytical Approach: 5-3.en.md
-                - 5.4 Order, Stability: 5-4.en.md
-                - 5.5 Fluctuation, Evolution: 5-5.en.md
-                - 5.6 Understanding and Operation of Systems: 5-6.en.md
+                - 5.1 Q.5: 5-1.md
+                - 5.2 Structure of a System: 5-2.md
+                - 5.3 Analytical Approach: 5-3.md
+                - 5.4 Order, Stability: 5-4.md
+                - 5.5 Fluctuation, Evolution: 5-5.md
+                - 5.6 Understanding and Operation of Systems: 5-6.md
             - 第6章 Hypothesis, Verification:
-                - 6.1 Q.6: 6-1.en.md
-                - 6.2 Scientific Method, Hypothesis Building: 6-2.en.md
-                - 6.3 Design of Experimental Systems: 6-3.en.md
-                - 6.4 Management of Measurement and Analysis: 6-4.en.md
-                - 6.5 Production Management, Quality Control (Reference): 6-5.en.md
+                - 6.1 Q.6: 6-1.md
+                - 6.2 Scientific Method, Hypothesis Building: 6-2.md
+                - 6.3 Design of Experimental Systems: 6-3.md
+                - 6.4 Management of Measurement and Analysis: 6-4.md
+                - 6.5 Production Management, Quality Control (Reference): 6-5.md
             - 第7章 モデリング:
-                - 7.1 Q.7: 7-1.en.md
-                - 7.2 Mathematical Modeling: 7-2.en.md
-                - 7.3 Methods of Mathematical Models (Reference): 7-3.en.md
-                - 7.4 Model Evaluation and Interpretation: 7-4.en.md
-                - 7.5 Examples of Applied Fields of Mathematical Models (Reference): 7-5.en.md
+                - 7.1 Q.7: 7-1.md
+                - 7.2 Mathematical Modeling: 7-2.md
+                - 7.3 Methods of Mathematical Models (Reference): 7-3.md
+                - 7.4 Model Evaluation and Interpretation: 7-4.md
+                - 7.5 Examples of Applied Fields of Mathematical Models (Reference): 7-5.md
             - 第8章 Meaning, Value:
-                - 8.1 Q.8: 8-1.en.md
-                - 8.2 Meaning: 8-2.en.md
-                - 8.3 Value: 8-3.en.md
-                - 8.4 Expression: 8-4.en.md
+                - 8.1 Q.8: 8-1.md
+                - 8.2 Meaning: 8-2.md
+                - 8.3 Value: 8-3.md
+                - 8.4 Expression: 8-4.md
             - 第9章 Discussion, Decision Making:
-                - 9.1 Q.9: 9-1.en.md
-                - 9.2 Discussion: 9-2.en.md
-                - 9.3 Consensus: 9-3.en.md
-                - 9.4 Failutre of Discussion and Consensus Building: 9-4.en.md
+                - 9.1 Q.9: 9-1.md
+                - 9.2 Discussion: 9-2.md
+                - 9.3 Consensus: 9-3.md
+                - 9.4 Failutre of Discussion and Consensus Building: 9-4.md
             - 第10章 Computer:
-                - 10.1 Q.10: 10-1.en.md
-                - 10.2 Theory of Computation: 10-2.en.md
-                - 10.3 Basic Computer Components: 10-3.en.md
-                - 10.4 Artificial Intelligence: 10-4.en.md
-            - Afterword: afterword.en.md
-            - Glossary: glossary.en.md
+                - 10.1 Q.10: 10-1.md
+                - 10.2 Theory of Computation: 10-2.md
+                - 10.3 Basic Computer Components: 10-3.md
+                - 10.4 Artificial Intelligence: 10-4.md
+            - Afterword: afterword.md
+            - Glossary: glossary.md
 
 
 
