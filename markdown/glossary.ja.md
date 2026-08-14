@@ -804,6 +804,7 @@
 - [識別的モデル](https://ja.wikipedia.org/wiki/%E8%AD%98%E5%88%A5%E7%9A%84%E3%83%A2%E3%83%87%E3%83%AB)：7.2.1 数理モデルの分類軸
 - [自己意識](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%84%8F%E8%AD%98)：1.3.3 意識・心情（気持ち）
 - [思考実験](https://ja.wikipedia.org/wiki/%E6%80%9D%E8%80%83%E5%AE%9F%E9%A8%93)：1.3.3 意識・心情（気持ち）
+- [志向性](https://ja.wikipedia.org/wiki/%E5%BF%97%E5%90%91%E6%80%A7)：9.2.4 優先順位の決定
 - [事後確率](https://ja.wikipedia.org/wiki/%E4%BA%8B%E5%BE%8C%E7%A2%BA%E7%8E%87)：6.4.4.4 データの評価・前処理, 7.3.1.3 推計統計学
 - [自己教師あり学習](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%95%99%E5%B8%AB%E3%81%82%E3%82%8A%E5%AD%A6%E7%BF%92)：7.2.2 モデルの構築手順による類型
 - [自己言及](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E8%A8%80%E5%8F%8A)：1.3.3 意識・心情（気持ち）, 3.2.2 論理学
