@@ -24,6 +24,7 @@
 - [AI alignment](https://en.wikipedia.org/wiki/AI_alignment): 10.4.2 Generative AI and social impact
 - [Akaike information criterion](https://en.wikipedia.org/wiki/Akaike_information_criterion): 7.4.1.5 Model Selection and Complexity
 - [Algorithm](https://en.wikipedia.org/wiki/Algorithm): 10.2.3 Algorithms
+- [Algorithmic information theory](https://en.wikipedia.org/wiki/Algorithmic_information_theory): 1.2.3.2 Information
 - [All models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong): 7.4.2.3 Model Learning and Evaluation
 - [Ambiguity](https://en.wikipedia.org/wiki/Ambiguity): 2.4.6 Definition
 - [Amount of substance](https://en.wikipedia.org/wiki/Amount_of_substance): 6.3.3 Quantities (Reference)
@@ -57,6 +58,7 @@
 - [Automata theory](https://en.wikipedia.org/wiki/Automata_theory): 10.2.2 Computational Model
 - [Autonomous agent](https://en.wikipedia.org/wiki/Autonomous_agent): 5.5 Fluctuation and Evolution
 - [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis): 5.5 Fluctuation and Evolution
+- [Axiomatic Set Theory](https://en.wikipedia.org/wiki/Set_theory#Axiomatic_set_theory): 3.2.1 Set, 3.4.3.1 Axiomatic Set Theory
 - [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation): 7.3.3 Machine Learning and Deep Learning, 10.4.1 Symbolic AI and Connectionism
 - [Backward chaining](https://en.wikipedia.org/wiki/Backward_chaining): 3.3.2.2 Form of Argument
 - [Barter](https://en.wikipedia.org/wiki/Barter): 8.3 Value
@@ -151,6 +153,7 @@
 - [Clinical research](https://en.wikipedia.org/wiki/Clinical_research): 6.2.2 Empirical Research, 7.5 Examples of Applied Fields of Mathematical Models
 - [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing): 10.3.3 Network and Security
 - [Cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis): 2.2.2 Abstraction by Extracting Commonalities
+- [Code](https://en.wikipedia.org/wiki/Code): 1.2.3.2 Information
 - [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring): 10.3.2 Software
 - [Coefficient](https://en.wikipedia.org/wiki/Coefficient): 7.2.3 Variables and Parameters
 - [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance): 9.4.3 Bias, Fallacy, and Sophism
@@ -254,6 +257,7 @@
 - [Decision theory](https://en.wikipedia.org/wiki/Decision_theory): 7.3.4 Optimization and Strategy Models, 7.5 Examples of Applied Fields of Mathematical Models, 9.2.3 Framework for Information Sharing and Judgment, 9.3.1 Decision Making
 - [Decision-making](https://en.wikipedia.org/wiki/Decision-making): 9.3.1 Decision Making
 - [Decisional balance sheet](https://en.wikipedia.org/wiki/Decisional_balance_sheet): 9.2.5 Expected Results, Conclusions, and Future Actions
+- [Decoding methods](https://en.wikipedia.org/wiki/Decoding_methods): 1.2.2.4 Observation, 1.2.3.2 Information
 - [Deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning): 2.4.2 Top-Down Approach, 3.3.2.1 Basic Forms of Inference
 - [Deep learning](https://en.wikipedia.org/wiki/Deep_learning): 7.2.2 Typology by Model Construction Procedure, 7.3.3 Machine Learning and Deep Learning
 - [Degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom): 5.6 Understanding and Operation of Systems
@@ -320,7 +324,8 @@
 - [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning): 7.4.3 Model Improvement and Update
 - [Entertainment](https://en.wikipedia.org/wiki/Entertainment): 8.3 Value
 - [Entropy](https://en.wikipedia.org/wiki/Entropy): 4.2.1 Phenomenological Causality
-- [Entropy encoding](https://en.wikipedia.org/wiki/Entropy_encoding): 1.2.2.3 Transmission Efficiency
+- [Entropy \(information theory\)](https://en.wikipedia.org/wiki/Entropy_(information_theory)): 1.2.2.3 Transmission Efficiency, 1.2.3.2 Information
+- [Entropy encoding](https://en.wikipedia.org/wiki/Entropy_encoding): 1.2.3.2 Information
 - [Environment (systems)](https://en.wikipedia.org/wiki/Environment_(systems)): 5.2 Structure of a System
 - [Environmental design](https://en.wikipedia.org/wiki/Environmental_design): 8.4.3 Information Presentation and Design
 - [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance): 8.3 Value
@@ -470,6 +475,7 @@
 - [Informal organization](https://en.wikipedia.org/wiki/Informal_organization): 5.2 Structure of a System
 - [Informatics](https://en.wikipedia.org/wiki/Informatics): 5.3 Analytical Approach
 - [Information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry): 5.2 Structure of a System
+- [Information content](https://en.wikipedia.org/wiki/Information_content): 1.2.3.2 Infromation
 - [Information geometry](https://en.wikipedia.org/wiki/Information_geometry): 3.4.5 Areas of mathematics (Reference)
 - [Information overload](https://en.wikipedia.org/wiki/Information_overload): 10.4.2 Generative AI and Social Impact
 - [Information security](https://en.wikipedia.org/wiki/Information_security): 10.3.3 Network and Security
@@ -507,6 +513,7 @@
 - [Knowledge](https://en.wikipedia.org/wiki/Knowledge): 6.2.3 Foundation of Hypothesis Building
 - [Knowledge graph](https://en.wikipedia.org/wiki/Knowledge_graph): 2.4.4 Structure of Relationships
 - [Knowledge representation and reasoning](https://en.wikipedia.org/wiki/Knowledge_representation_and_reasoning): 10.4.1 Symbolic AI and Connectionism
+- [Kolmogorov complexity](https://en.wikipedia.org/wiki/Kolmogorov_complexity): 1.2.3.2 Information
 - [Kullback–Leibler divergence](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence): 4.2.1 Phenomenological Causality, 7.4.1.4 Indicators Based on Similarity and Information Content
 - [Labeling](https://en.wikipedia.org/wiki/Labeling): 1.4 Concept
 - [Lambda calculus](https://en.wikipedia.org/wiki/Lambda_calculus): 3.4.1.2 Foundations of mathematics, 10.2.2 Computational Model
@@ -644,6 +651,7 @@
 - [Nudge theory](https://en.wikipedia.org/wiki/Nudge_theory): 9.4.3 Bias, Fallacy, and Sophism
 - [Null hypothesis](https://en.wikipedia.org/wiki/Null_hypothesis): 7.3.1.3 Statistical Inference
 - [Numerical analysis](https://en.wikipedia.org/wiki/Numerical_analysis): 3.4.5 Areas of mathematics (Reference)
+- [Nyquist–Shannon sampling theorem](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem): 1.2.2.3 Transmission Efficiency
 - [Object-oriented programming](https://en.wikipedia.org/wiki/Object-oriented_programming): 10.3.2 Software
 - [Observational error](https://en.wikipedia.org/wiki/Observational_error): 6.4.4 Measurement Uncertainty, Observational Error, and Error, 7.4.1.6 Limitations of Data and Models, 9.4.3 Bias, Fallacy, and Sophism
 - [Occam's razor](https://en.wikipedia.org/wiki/Occam%27s_razor): 7.4.1.5 Model Selection and Complexity
@@ -870,6 +878,7 @@
 - [Serendipity](https://en.wikipedia.org/wiki/Serendipity): 6.2.3 Foundation of Hypothesis Building
 - [Series (mathematics)](https://en.wikipedia.org/wiki/Series_(mathematics)): 3.4.5 Areas of mathematics (Reference)
 - [Service (economics)](https://en.wikipedia.org/wiki/Service_(economics)): 6.5.2 Production management
+- [Set theory](https://en.wikipedia.org/wiki/Set_theory): 3.2.1 Set
 - [Settlement (litigation)](https://en.wikipedia.org/wiki/Settlement_(litigation)): 9.4.5 Mediation and Conflict Resolution
 - [Seven Basic Tools of Quality](https://en.wikipedia.org/wiki/Seven_Basic_Tools_of_Quality): 6.5.3 Quality Control
 - [Shakedown (continuum mechanics)](https://en.wikipedia.org/wiki/Shakedown_(continuum_mechanics)): 5.5 Fluctuation and Evolution

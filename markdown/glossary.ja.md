@@ -63,6 +63,7 @@
 - [アプリケーションプログラミングインタフェース](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)：10.3.2 ソフトウェア
 - [アポステリオリ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%82%B9%E3%83%86%E3%83%AA%E3%82%AA%E3%83%AA)：1.3.3 意識・心情（気持ち）
 - [アルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.3 アルゴリズム
+- [アルゴリズム情報理論](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96)：1.2.3.2 情報
 - [アローの不可能性定理](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AD%E3%83%BC%E3%81%AE%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%80%A7%E5%AE%9A%E7%90%86)：9.4.2 意思決定プロセスが含み持つ問題
 - [アンケート](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B1%E3%83%BC%E3%83%88)：6.2.2 実証研究, 9.2.4 優先順位の決定
 - [アンサンブル・ラーニング](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B5%E3%83%B3%E3%83%96%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0)：7.4.3 モデルの改善・更新
@@ -88,7 +89,7 @@
 - [エンコード](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%89)：1.2.2.4 観測
 - [エンターテインメント](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%86%E3%82%A4%E3%83%B3%E3%83%A1%E3%83%B3%E3%83%88)：8.3 価値
 - [エントロピー](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC)：4.2.1 現象論的因果性
-- [エントロピー符号](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E7%AC%A6%E5%8F%B7)：1.2.2.3 伝達効率
+- [エントロピー符号](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E7%AC%A6%E5%8F%B7)：1.2.3.2 情報
 - [エージェントベースモデル](https://ja.wikipedia.org/w/index.php?title=%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB&oldformat=true)：5.3 分析アプローチ
 - [エージェントベースモデル](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%83%99%E3%83%BC%E3%82%B9%E3%83%A2%E3%83%87%E3%83%AB)：7.2.2 モデルの構築手順による類型
 
@@ -139,6 +140,7 @@
 - [コピー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%94%E3%83%BC)：1.2.3.1 データの記録・保存
 - [コミュニケーション](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)：8.4.5 コミュニケーション
 - [コモンズの悲劇](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A2%E3%83%B3%E3%82%BA%E3%81%AE%E6%82%B2%E5%8A%87)：5.6 システムの理解と運用
+- [コルモゴロフ複雑性](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AB%E3%83%A2%E3%82%B4%E3%83%AD%E3%83%95%E8%A4%87%E9%9B%91%E6%80%A7)：1.2.3.2 情報
 - [コンティンジェンシープラン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3)：4.3.3 計画
 - [コンテクスト](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AF%E3%82%B9%E3%83%88)：1.4 概念, 8.2 意味
 - [コンテンツフィルタリング](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0)：1.2.2.3 伝達効率
@@ -214,8 +216,7 @@
 - [データベース](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)：2.4.4 関係性の構造, 10.2.4 データ構造・データベース
 - [データ・クラスタリング](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%83%BB%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0)：7.3.1.3 推計統計学
 - [データ前処理](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%89%8D%E5%87%A6%E7%90%86)：6.4.4.4 データの評価・前処理
-- [データ圧縮](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%9C%A7%E7%B8%AE)：1.2.2.3 伝達効率
-- [データ圧縮](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%9C%A7%E7%B8%AE)：1.2.3.2 情報
+- [データ圧縮](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%9C%A7%E7%B8%AE)：1.2.2.3 伝達効率、1.2.3.2 情報
 - [データ型](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E5%9E%8B)：10.2.4 データ構造・データベース
 - [データ構造](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)：2.4.4 関係性の構造, 10.2.4 データ構造・データベース
 - [データ移行](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E7%A7%BB%E8%A1%8C)：10.3.1 ハードウェア
@@ -919,7 +920,7 @@
 - [情報幾何学](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%B9%BE%E4%BD%95%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [情報検索](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2)：1.2.3.3 読み起こし・想起
 - [情報操作](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%93%8D%E4%BD%9C)：4.3.2 操作・手順
-- [情報量](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E9%87%8F)：1.2.3.2 情報, 4.2.1 現象論的因果性
+- [情報量](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E9%87%8F)：1.2.2.3 伝達効率、1.2.3.2 情報, 4.2.1 現象論的因果性
 - [証明](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E)：3.3.2.2 論証の形式
 - [証明 \(数学\)](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E_(%E6%95%B0%E5%AD%A6)：3.4.2 証明 \(数学\))
 - [証明可能性論理](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E%E5%8F%AF%E8%83%BD%E6%80%A7%E8%AB%96%E7%90%86)：3.3.2.4 論理の拡張
@@ -1263,6 +1264,7 @@
 - [表象](https://ja.wikipedia.org/wiki/%E8%A1%A8%E8%B1%A1)：1.2.1 存在, 1.4 概念
 - [標準型ゲーム](https://ja.wikipedia.org/wiki/%E6%A8%99%E6%BA%96%E5%9E%8B%E3%82%B2%E3%83%BC%E3%83%A0)：7.3.4 最適化・戦略モデル
 - [標本 \(統計学\)](https://ja.wikipedia.org/wiki/%E6%A8%99%E6%9C%AC_(%E7%B5%B1%E8%A8%88%E5%AD%A6))：6.3.4 探索空間・データサンプリングの設計, 7.3.1.2 確率過程
+- [標本化定理](https://ja.wikipedia.org/wiki/%E6%A8%99%E6%9C%AC%E5%8C%96%E5%AE%9A%E7%90%86)：1.2.2.3 伝達効率
 - [標本空間](https://ja.wikipedia.org/wiki/%E6%A8%99%E6%9C%AC%E7%A9%BA%E9%96%93)：6.3.4 探索空間・データサンプリングの設計, 7.3.1.2 確率過程
 - [標本平均・標本共分散](https://ja.wikipedia.org/wiki/%E6%A8%99%E6%9C%AC%E5%B9%B3%E5%9D%87%E3%83%BB%E6%A8%99%E6%9C%AC%E5%85%B1%E5%88%86%E6%95%A3)：7.3.1.1 記述統計
 - [広く使える情報量規準](https://ja.wikipedia.org/wiki/%E5%BA%83%E3%81%8F%E4%BD%BF%E3%81%88%E3%82%8B%E6%83%85%E5%A0%B1%E9%87%8F%E8%A6%8F%E6%BA%96)：7.4.1.5 モデル選択・複雑性
@@ -1278,12 +1280,12 @@
 - [不確定性原理](https://ja.wikipedia.org/wiki/%E4%B8%8D%E7%A2%BA%E5%AE%9A%E6%80%A7%E5%8E%9F%E7%90%86)：1.2.2.1 観測対象と媒体の相互作用
 - [付帯性](https://ja.wikipedia.org/wiki/%E4%BB%98%E5%B8%AF%E6%80%A7)：2.2.1 差異の抽出による個別化
 - [付帯性 (随伴性)](https://ja.wikipedia.org/wiki/%E4%BB%98%E5%B8%AF%E6%80%A7)：1.4 概念
-- [符号化方式](https://ja.wikipedia.org/wiki/%E7%AC%A6%E5%8F%B7%E5%8C%96%E6%96%B9%E5%BC%8F)：1.2.2.3 伝達効率
+- [符号化方式](https://ja.wikipedia.org/wiki/%E7%AC%A6%E5%8F%B7%E5%8C%96%E6%96%B9%E5%BC%8F)：1.2.3.2 情報
 - [符号理論](https://ja.wikipedia.org/wiki/%E7%AC%A6%E5%8F%B7%E7%90%86%E8%AB%96)：1.2.3.2 情報
 - [部屋の中の象](https://ja.wikipedia.org/wiki/%E9%83%A8%E5%B1%8B%E3%81%AE%E4%B8%AD%E3%81%AE%E8%B1%A1)：9.4.3 バイアス・誤謬・詭弁
 - [部分集合](https://ja.wikipedia.org/wiki/%E9%83%A8%E5%88%86%E9%9B%86%E5%90%88)：3.2.2 論理学
 - [復元](https://ja.wikipedia.org/wiki/%E5%BE%A9%E5%85%83)：1.2.3.3 読み起こし・想起
-- [復号手法](https://ja.wikipedia.org/wiki/%E5%BE%A9%E5%8F%B7%E6%89%8B%E6%B3%95)：1.2.2.4 観測
+- [復号手法](https://ja.wikipedia.org/wiki/%E5%BE%A9%E5%8F%B7%E6%89%8B%E6%B3%95)：1.2.2.4 観測、1.2.3.2 情報
 - [福祉](https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%A5%89)：8.3 価値
 - [複雑ネットワーク](https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)：5.3 分析アプローチ, 7.5 数理モデルの応用分野例（参考）
 - [複雑系](https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E7%B3%BB)：7.5 数理モデルの応用分野例（参考）
