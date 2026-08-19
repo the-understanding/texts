@@ -16,6 +16,7 @@
 - [Adaptation](https://en.wikipedia.org/wiki/Adaptation): 5.4 Order and Stability
 - [Addition](https://en.wikipedia.org/wiki/Addition): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics): 8.3 Value
+- [Affection](https://en.wikipedia.org/wiki/Affection): 8.3 Value
 - [Affordance](https://en.wikipedia.org/wiki/Affordance): 5.2 Structure of a System, 8.4.3 Information Presentation and Design
 - [Agenda (meeting)](https://en.wikipedia.org/wiki/Agenda_(meeting)): 9.2.3 Framework for Information Sharing and Judgment
 - [Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model): 5.3 Analytical Approach, 7.2.2 Typology by Model Construction Procedure
@@ -996,7 +997,7 @@
 - [Tournament](https://en.wikipedia.org/wiki/Tournament): 9.3.3 Methods of Decision/Settlement
 - [Traceability](https://en.wikipedia.org/wiki/Traceability): 6.4.4.3 Grasping and Reducing Errors
 - [Trade-off](https://en.wikipedia.org/wiki/Trade-off): 9.2.4 Determining Priority
-- [Tradition](https://en.wikipedia.org/wiki/Tradition): 8.4.5 Communication, 9.2.4 Determining Priority
+- [Tradition](https://en.wikipedia.org/wiki/Tradition): 8.3 Value, 8.4.5 Communication, 9.2.4 Determining Priority
 - [Tragedy of the commons](https://en.wikipedia.org/wiki/Tragedy_of_the_commons): 5.6 Understanding and Operation of Systems
 - [Training, validation, and test data sets](https://en.wikipedia.org/wiki/Training,_validation,_and_test_data_sets): 7.4.3 Model Improvement and Update
 - [Transfer learning](https://en.wikipedia.org/wiki/Transfer_learning): 7.4.3 Model Improvement and Update

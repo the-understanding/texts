@@ -428,7 +428,7 @@
 - [ワークフロー](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AD%E3%83%BC)：4.3.3 計画
 
 
-
+- [愛着](https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9D%80)：8.3 価値
 - [曖昧さ](https://ja.wikipedia.org/wiki/%E6%9B%96%E6%98%A7%E3%81%95)：2.4.6 定義
 - [赤池情報量規準](https://ja.wikipedia.org/wiki/%E8%B5%A4%E6%B1%A0%E6%83%85%E5%A0%B1%E9%87%8F%E8%A6%8F%E6%BA%96)：7.4.1.5 モデル選択・複雑性
 - [悪魔の証明](https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94%E3%81%AE%E8%A8%BC%E6%98%8E)：3.3.2.5 証明可能性の限界
@@ -1131,7 +1131,7 @@
 - [転移学習](https://ja.wikipedia.org/wiki/%E8%BB%A2%E7%A7%BB%E5%AD%A6%E7%BF%92)：7.4.3 モデルの改善・更新
 - [点推定](https://ja.wikipedia.org/wiki/%E7%82%B9%E6%8E%A8%E5%AE%9A)：7.3.1.3 推計統計学
 - [伝達](https://ja.wikipedia.org/wiki/%E4%BC%9D%E9%81%94)：1.2.2 伝達・通信, 1.2.2.2 伝達媒体
-- [伝統](https://ja.wikipedia.org/wiki/%E4%BC%9D%E7%B5%B1)：8.4.5 コミュニケーション, 9.2.4 優先順位の決定
+- [伝統](https://ja.wikipedia.org/wiki/%E4%BC%9D%E7%B5%B1)：8.3 価値、8.4.5 コミュニケーション, 9.2.4 優先順位の決定
 - [伝統に訴える論証](https://ja.wikipedia.org/wiki/%E4%BC%9D%E7%B5%B1%E3%81%AB%E8%A8%B4%E3%81%88%E3%82%8B%E8%AB%96%E8%A8%BC)：9.4.3 バイアス・誤謬・詭弁
 - [伝播](https://ja.wikipedia.org/wiki/%E4%BC%9D%E6%92%AD)：1.2.2.2 伝達媒体
 - [電流](https://ja.wikipedia.org/wiki/%E9%9B%BB%E6%B5%81)：6.3.3 量（参考）
