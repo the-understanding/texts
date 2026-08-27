@@ -63,7 +63,7 @@
 - [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation): 7.3.3 Machine Learning and Deep Learning, 10.4.1 Symbolic AI and Connectionism
 - [Backward chaining](https://en.wikipedia.org/wiki/Backward_chaining): 3.3.2.2 Form of Argument
 - [Barter](https://en.wikipedia.org/wiki/Barter): 8.3 Value
-- [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference): 7.3.1.3 Statistical Inference
+- [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference): 3.3.2.1 Basic Forms of Inference, 7.3.1.3 Statistical Inference
 - [Bayesian information criterion](https://en.wikipedia.org/wiki/Bayesian_information_criterion): 7.4.1.5 Model Selection and Complexity
 - [Bayesian network](https://en.wikipedia.org/wiki/Bayesian_network): 7.3.2 Causal Inference
 - [Bayesian statistics](https://en.wikipedia.org/wiki/Bayesian_statistics): 7.3.1.3 Statistical Inference
@@ -732,6 +732,7 @@
 - [Probability space](https://en.wikipedia.org/wiki/Probability_space): 7.3.1.2 Stochastic Process
 - [Probability theory](https://en.wikipedia.org/wiki/Probability_theory): 3.4.5 Areas of mathematics (Reference), 7.3.1.2 Stochastic Process
 - [Probatio diabolica](https://en.wikipedia.org/wiki/Probatio_diabolica): 3.3.2.5 Limits of Provability
+- [Problem of induction](https://en.wikipedia.org/wiki/Problem_of_induction): 3.3.2.1 Basic Forms of Inference
 - [Problem solving](https://en.wikipedia.org/wiki/Problem_solving): 6.2.2 Empirical Research
 - [Procedural memory](https://en.wikipedia.org/wiki/Procedural_memory): 4.3.2 Operations and Procedures
 - [Procedural programming](https://en.wikipedia.org/wiki/Procedural_programming): 10.2.2 Computational Model

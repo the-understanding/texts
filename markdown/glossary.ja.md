@@ -333,7 +333,7 @@
 - [ペアノの公理](https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%8E%E3%81%AE%E5%85%AC%E7%90%86)：3.5.1 数
 - [ベイジアンネットワーク](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%B8%E3%82%A2%E3%83%B3%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF)：7.3.2 因果推論
 - [ベイズ情報量規準](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%BA%E6%83%85%E5%A0%B1%E9%87%8F%E8%A6%8F%E6%BA%96)：7.4.1.5 モデル選択・複雑性
-- [ベイズ推定](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A)：7.3.1.3 推計統計学
+- [ベイズ推定](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%BA%E6%8E%A8%E5%AE%9A)：3.3.2.1 推論の基本形式、7.3.1.3 推計統計学
 - [ベイズ更新](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%BA%E6%9B%B4%E6%96%B0)：7.3.1.3 推計統計学
 - [ベイズ統計学](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%A4%E3%82%BA%E7%B5%B1%E8%A8%88%E5%AD%A6)：7.3.1.3 推計統計学
 - [ベクトル空間](https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB%E7%A9%BA%E9%96%93)：3.4.5 数学の諸分野（参考）
@@ -591,6 +591,7 @@
 - [帰結主義](https://ja.wikipedia.org/wiki/%E5%B8%B0%E7%B5%90%E4%B8%BB%E7%BE%A9)：8.3 価値
 - [帰納](https://ja.wikipedia.org/wiki/%E5%B8%B0%E7%B4%8D%E7%9A%84%E6%8E%A8%E8%AB%96)：2.4.3. ボトムアップ型
 - [帰納](https://ja.wikipedia.org/wiki/%E5%B8%B0%E7%B4%8D)：3.3.2.1 推論の基本形式
+- [帰納の問題](https://ja.wikipedia.org/wiki/%E5%B8%B0%E7%B4%8D%E3%81%AE%E5%95%8F%E9%A1%8C)：3.3.2.1 推論の基本形式
 - [詭弁](https://ja.wikipedia.org/wiki/%E8%A9%AD%E5%BC%81)：9.4.3 バイアス・誤謬・詭弁
 - [規範](https://ja.wikipedia.org/wiki/%E8%A6%8F%E7%AF%84)：5.4 秩序・安定
 - [規範倫理学](https://ja.wikipedia.org/wiki/%E8%A6%8F%E7%AF%84%E5%80%AB%E7%90%86%E5%AD%A6)：8.3 価値
