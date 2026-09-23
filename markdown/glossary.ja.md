@@ -123,7 +123,6 @@
 - [グラフ](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95)：8.4.2 表現技法
 - [グラフ \(離散数学\)](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95_(%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6))：2.4.4 関係性の構造
 - [グラフ理論](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）
-- [グルーピング](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%B9%E3%82%BF%E5%88%86%E6%9E%90)：2.2.2 共通点の抽出による抽象化
 - [クラス \(集合論\)](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%B9_(%E9%9B%86%E5%90%88%E8%AB%96))：3.2.1 集合
 - [グレシャムの法則](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B7%E3%83%A3%E3%83%A0%E3%81%AE%E6%B3%95%E5%89%87)：8.3 価値
 - [グレンジャー因果性](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E5%9B%A0%E6%9E%9C%E6%80%A7)：7.3.1.3 推計統計学, 7.3.2 因果推論
@@ -456,7 +455,7 @@
 - [意味論 \(論理学\)](https://ja.wikipedia.org/wiki/%E6%84%8F%E5%91%B3%E8%AB%96_(%E8%AB%96%E7%90%86%E5%AD%A6))：3.4.2.2 証明技法
 - [異常検知](https://ja.wikipedia.org/wiki/%E7%95%B0%E5%B8%B8%E6%A4%9C%E7%9F%A5)：7.3.1.3 推計統計学
 - [一階述語論理](https://ja.wikipedia.org/wiki/%E4%B8%80%E9%9A%8E%E8%BF%B0%E8%AA%9E%E8%AB%96%E7%90%86)：3.2.2 論理学
-- [一般化](https://ja.wikipedia.org/wiki/%E4%B8%80%E8%88%AC%E5%8C%96)：3.3.2.1 推論の基本形式
+- [一般化](https://ja.wikipedia.org/wiki/%E4%B8%80%E8%88%AC%E5%8C%96)：2.2.2 共通点の抽出による抽象化, 3.3.2.1 推論の基本形式
 - [一般システム理論](https://ja.wikipedia.org/wiki/%E4%B8%80%E8%88%AC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%90%86%E8%AB%96)：5.3 分析アプローチ
 - [一般化線形モデル](https://ja.wikipedia.org/wiki/%E4%B8%80%E8%88%AC%E5%8C%96%E7%B7%9A%E5%BD%A2%E3%83%A2%E3%83%87%E3%83%AB)：7.3.1.3 推計統計学
 - [一般化線形混合モデル](https://ja.wikipedia.org/wiki/%E4%B8%80%E8%88%AC%E5%8C%96%E7%B7%9A%E5%BD%A2%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB)：7.3.1.3 推計統計学
@@ -1447,6 +1446,7 @@
 - [論理演算子](https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E6%BC%94%E7%AE%97%E5%AD%90)：3.5.2 演算・作用素 \(関数解析学\))
 - [論理回路](https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E5%9B%9E%E8%B7%AF)：10.3.1 ハードウェア
 - [論理学](https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E5%AD%A6)：3.2.2 論理学
+- [論理学における公理系の一覧](https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E5%AD%A6%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E5%85%AC%E7%90%86%E7%B3%BB%E3%81%AE%E4%B8%80%E8%A6%A7)：3.3.1.1 命題論理
 - [論理包含](https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E5%8C%85%E5%90%AB)：3.2.2 論理学
 - [論理記号の一覧](https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E8%A8%98%E5%8F%B7%E3%81%AE%E4%B8%80%E8%A6%A7)：3.2.2 論理学
 - [論理形式](https://ja.wikipedia.org/wiki/%E8%AB%96%E7%90%86%E5%BD%A2%E5%BC%8F)：3.2.2 論理学

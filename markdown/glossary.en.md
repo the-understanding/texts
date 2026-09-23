@@ -153,7 +153,6 @@
 - [Class (set theory)](https://en.wikipedia.org/wiki/Class_(set_theory)): 3.2.1 Set
 - [Clinical research](https://en.wikipedia.org/wiki/Clinical_research): 6.2.2 Empirical Research, 7.5 Examples of Applied Fields of Mathematical Models
 - [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing): 10.3.3 Network and Security
-- [Cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis): 2.2.2 Abstraction by Extracting Commonalities
 - [Code](https://en.wikipedia.org/wiki/Code): 1.2.3.2 Information
 - [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring): 10.3.2 Software
 - [Coefficient](https://en.wikipedia.org/wiki/Coefficient): 7.2.3 Variables and Parameters
@@ -409,7 +408,7 @@
 - [Game theory](https://en.wikipedia.org/wiki/Game_theory): 3.4.5 Areas of mathematics (Reference), 5.4 Order and Stability, 7.3.4 Optimization and Strategy Models, 9.3.3 Methods of Decision/Settlement
 - [Garbage in, garbage out](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out): 6.4.4.4 Data Evaluation and Preprocessing
 - [Geidō](https://en.wikipedia.org/wiki/Geid%C5%8D): 8.3 Value
-- [Generalization](https://en.wikipedia.org/wiki/Generalization): 3.3.2.1 Basic Forms of Inference
+- [Generalization](https://en.wikipedia.org/wiki/Generalization): 2.2.2 Abstraction by Extracting Commonalities, 3.3.2.1 Basic Forms of Inference
 - [Generalized linear mixed model](https://en.wikipedia.org/wiki/Generalized_linear_mixed_model): 7.3.1.3 Statistical Inference
 - [Generalized linear model](https://en.wikipedia.org/wiki/Generalized_linear_model): 7.3.1.3 Statistical Inference
 - [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence): 7.3.3 Machine Learning and Deep Learning
@@ -549,6 +548,7 @@
 - [List (abstract data type)](https://en.wikipedia.org/wiki/List_(abstract_data_type)): 10.2.4 Data Structures and Databases
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases): 9.4.3 Bias, Fallacy, and Sophism
 - [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies): 9.4.3 Bias, Fallacy, and Sophism
+- [List of axiomatic systems in logic](https://en.wikipedia.org/wiki/List_of_axiomatic_systems_in_logic): 3.3.1.1 Propositional calculus
 - [Load (computing)](https://en.wikipedia.org/wiki/Load_(computing)): 1.2.3.3 Retrieval and Recall
 - [Local search (optimization)](https://en.wikipedia.org/wiki/Local_search_(optimization)): 10.2.3 Algorithms
 - [Logarithm](https://en.wikipedia.org/wiki/Logarithm): 3.5.2 Operation (mathematics) and Operator (physics)
