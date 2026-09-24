@@ -377,6 +377,7 @@
 - [Feature learning](https://en.wikipedia.org/wiki/Feature_learning): 7.3.3 Machine Learning and Deep Learning
 - [Feedback](https://en.wikipedia.org/wiki/Feedback): 5.4 Order and Stability, 6.3.6 Confirming the Relationship between Factor (Group) A and Result (Group) B
 - [Field (physics)](https://en.wikipedia.org/wiki/Field_(physics)): 5.2 Structure of a System
+- [Field research](https://en.wikipedia.org/wiki/Field_research): 6.2.1 Scientific method
 - [File format](https://en.wikipedia.org/wiki/File_format): 1.2.3.2 Information
 - [Filter (signal processing)](https://en.wikipedia.org/wiki/Filter_(signal_processing)): 1.2.2.3 Transmission Efficiency
 - [Financial engineering](https://en.wikipedia.org/wiki/Financial_engineering): 7.5 Examples of Applied Fields of Mathematical Models
@@ -704,6 +705,7 @@
 - [Phenomenology (philosophy)](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)): 6.2.2 Empirical Research
 - [Phugoid](https://en.wikipedia.org/wiki/Phugoid): 5.4 Order and Stability, 5.5 Fluctuation and Evolution
 - [Physical law](https://en.wikipedia.org/wiki/Physical_law): 6.2.3 Foundation of Hypothesis Building
+- [Pilot experiment](https://en.wikipedia.org/wiki/Pilot_experiment): 6.2.2 Empirical research
 - [Placebo](https://en.wikipedia.org/wiki/Placebo): 6.3.4 Search Space and Data Sampling Design
 - [Point estimation](https://en.wikipedia.org/wiki/Point_estimation): 7.3.1.3 Statistical Inference
 - [Positive feedback](https://en.wikipedia.org/wiki/Positive_feedback): 5.4 Order and Stability
@@ -856,6 +858,7 @@
 - [Scientific evidence](https://en.wikipedia.org/wiki/Scientific_evidence): 6.2.1 Scientific Method
 - [Scientific management](https://en.wikipedia.org/wiki/Scientific_management): 6.5.2 Production management
 - [Scientific modelling](https://en.wikipedia.org/wiki/Scientific_modelling): 7.2 Mathematical Modeling (Scientific)
+- [Scientific theory](https://en.wikipedia.org/wiki/Scientific_theory): 6.2.1 Scientific method
 - [Search algorithm](https://en.wikipedia.org/wiki/Search_algorithm): 10.2.3 Algorithms
 - [Search engine](https://en.wikipedia.org/wiki/Search_engine): 10.2.3 Algorithms
 - [Second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics): 4.2.1 Phenomenological Causality
@@ -976,7 +979,7 @@
 - [The Strategy of Conflict](https://en.wikipedia.org/wiki/The_Strategy_of_Conflict): 7.3.4 Optimization and Strategy Models
 - [Theme (literature)](https://en.wikipedia.org/wiki/Theme_(literature)): 8.4.1 Information Extraction and Grouping from Objects
 - [Theoretical computer science](https://en.wikipedia.org/wiki/Theoretical_computer_science): 10.2.3 Algorithms
-- [Theory](https://en.wikipedia.org/wiki/Theory): 6.2.3 Foundation of Hypothesis Building
+- [Theory](https://en.wikipedia.org/wiki/Theory): 6.2.1 Scientific method, 6.2.3 Foundation of Hypothesis Building
 - [Theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation): 10.2 Theory of computation
 - [Theory of forms](https://en.wikipedia.org/wiki/Theory_of_forms): 1.4 Concept
 - [Theory of value (economics)](https://en.wikipedia.org/wiki/Theory_of_value_(economics)): 8.3 Value

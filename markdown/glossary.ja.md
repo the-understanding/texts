@@ -298,6 +298,7 @@
 - [ファノの不等式](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%8E%E3%81%AE%E4%B8%8D%E7%AD%89%E5%BC%8F)：1.2.2.3 伝達効率
 - [ファン](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%B3)：8.3 価値
 - [フィードバック](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF)：5.4 秩序・安定, 6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）
+- [フィールドワーク](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%AF%E3%83%BC%E3%82%AF)：6.2.1 科学的方法
 - [フィルタ \(信号処理\)](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF_(%E4%BF%A1%E5%8F%B7%E5%87%A6%E7%90%86))：1.2.2.3 伝達効率
 - [フォークソノミー](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%82%BD%E3%83%8E%E3%83%9F%E3%83%BC)：2.4.3. ボトムアップ型
 - [フォーマット](https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%83%E3%83%88)：1.2.3.2 情報
@@ -508,6 +509,7 @@
 - [科学的証拠](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%9A%84%E8%A8%BC%E6%8B%A0)：6.2.1 科学的方法
 - [科学的方法](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%9A%84%E6%96%B9%E6%B3%95)：6.2.1 科学的方法
 - [化学反応](https://ja.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BF%9C)：4.3.1 事象の変化
+- [科学理論](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%90%86%E8%AB%96)：6.2.1 科学的方法
 - [可換環](https://ja.wikipedia.org/wiki/%E5%8F%AF%E6%8F%9B%E7%92%B0)：3.4.4.2 集合の代数学
 - [可逆](https://ja.wikipedia.org/wiki/%E5%8F%AF%E9%80%86)：4.2.1 現象論的因果性
 - [可逆計算](https://ja.wikipedia.org/wiki/%E5%8F%AF%E9%80%86%E8%A8%88%E7%AE%97#%E7%86%B1%E5%8A%9B%E5%AD%A6%E3%81%A8%E3%81%AE%E9%96%A2%E4%BF%82)：4.2.2 分析的因果性
@@ -577,7 +579,6 @@
 - [関数 (数学)](https://ja.wikipedia.org/wiki/%E9%96%A2%E6%95%B0_(%E6%95%B0%E5%AD%A6))：3.4.5 数学の諸分野（参考）
 - [関数解析学](https://ja.wikipedia.org/wiki/%E9%96%A2%E6%95%B0%E8%A7%A3%E6%9E%90%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [関連性](https://ja.wikipedia.org/wiki/%E9%96%A2%E9%80%A3%E6%80%A7)：6.3.5 因子（群）Aと結果（群）Bの関係, 8.2 意味
-
 - [基数](https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0)：3.5.1 数
 - [基礎方程式](https://ja.wikipedia.org/wiki/%E5%9F%BA%E7%A4%8E%E6%96%B9%E7%A8%8B%E5%BC%8F)：7.2.2 モデルの構築手順による類型
 - [基底 \(線型代数学\)](https://ja.wikipedia.org/wiki/%E5%9F%BA%E5%BA%95_(%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6))：3.4.5 数学の諸分野（参考）
@@ -646,7 +647,6 @@
 - [近似アルゴリズム](https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BC%BC%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.3 アルゴリズム
 - [近似による誤差](https://ja.wikipedia.org/wiki/%E8%BF%91%E4%BC%BC%E3%81%AB%E3%82%88%E3%82%8B%E8%AA%A4%E5%B7%AE)：6.4.4.1 誤差
 - [金融工学](https://ja.wikipedia.org/wiki/%E9%87%91%E8%9E%8D%E5%B7%A5%E5%AD%A6)：7.5 数理モデルの応用分野例（参考）
-
 - [空間認識能力](https://ja.wikipedia.org/wiki/%E7%A9%BA%E9%96%93%E8%AA%8D%E8%AD%98%E8%83%BD%E5%8A%9B)：1.3.2 認識
 - [空集合](https://ja.wikipedia.org/wiki/%E7%A9%BA%E9%9B%86%E5%90%88)：3.2.1 集合
 - [偶然](https://ja.wikipedia.org/wiki/%E5%81%B6%E7%84%B6)：4.2.2 分析的因果性, 6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）
@@ -850,6 +850,7 @@
 - [社会システム理論](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E7%90%86%E8%AB%96)：5.3 分析アプローチ
 - [社会科学](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6)：6.2.1 科学的方法
 - [社会貢献](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E8%B2%A2%E7%8C%AE)：8.3 価値
+- [社会実験](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E5%AE%9F%E9%A8%93)：6.2.2 実証研究
 - [社会選択理論](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E9%81%B8%E6%8A%9E%E7%90%86%E8%AB%96)：9.3.1 意思決定
 - [社会秩序](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E7%A7%A9%E5%BA%8F)：5.4 秩序・安定
 - [社会調査](https://ja.wikipedia.org/wiki/%E7%A4%BE%E4%BC%9A%E8%AA%BF%E6%9F%BB)：7.5 数理モデルの応用分野例（参考）
@@ -1417,7 +1418,7 @@
 - [量子もつれ](https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E3%82%82%E3%81%A4%E3%82%8C)：10.3.4.1 量子コンピューティング
 - [量子焼きなまし法](https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E7%84%BC%E3%81%8D%E3%81%AA%E3%81%BE%E3%81%97%E6%B3%95)：10.3.4.1 量子コンピューティング
 - [量子論理](https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E8%AB%96%E7%90%86)：3.3.2.4 論理の拡張, 10.3.4.1 量子コンピューティング
-- [理論](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96)：6.2.3 仮説構築の基盤
+- [理論](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96)：6.2.1 科学的方法、6.2.3 仮説構築の基盤
 - [理論計算機科学](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)：10.2.3 アルゴリズム
 - [理論負荷性](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E8%B2%A0%E8%8D%B7%E6%80%A7)：1.3.2 認識, 6.2.1 科学的方法
 - [倫理](https://ja.wikipedia.org/wiki/%E5%80%AB%E7%90%86)：8.3 価値
