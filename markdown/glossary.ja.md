@@ -1066,6 +1066,7 @@
 - [対象](https://ja.wikipedia.org/wiki/%E5%AF%BE%E8%B1%A1)：1.2.2.1 観測対象と媒体の相互作用
 - [対称関係](https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%A7%B0%E9%96%A2%E4%BF%82)：3.4.3.2 二項関係
 - [対称式](https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%A7%B0%E5%BC%8F)：3.4.4.2 集合の代数学
+- [対照実験](https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%85%A7%E5%AE%9F%E9%A8%93)：6.4.2 測定コントロール・対照実験
 - [対称性](https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%A7%B0%E6%80%A7)：3.4.4.2 集合の代数学
 - [対称性 \(物理学\)](https://ja.wikipedia.org/wiki/%E5%AF%BE%E7%A7%B0%E6%80%A7_(%E7%89%A9%E7%90%86%E5%AD%A6))：3.4.4.2 集合の代数学
 - [対数](https://ja.wikipedia.org/wiki/%E5%AF%BE%E6%95%B0)：3.5.2 演算・作用素 \(関数解析学\))

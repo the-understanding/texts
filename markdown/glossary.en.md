@@ -855,6 +855,7 @@
 - [Schema (psychology)](https://en.wikipedia.org/wiki/Schema_(psychology)): 1.4 Concept, 8.2 Meaning
 - [Science](https://en.wikipedia.org/wiki/Science): 6.2.1 Scientific Method
 - [Scientific consensus](https://en.wikipedia.org/wiki/Scientific_consensus): 6.2.1 Scientific Method
+- [Scientific control](https://en.wikipedia.org/wiki/Scientific_control): 6.4.2 Measurement Controls, Scientific control
 - [Scientific evidence](https://en.wikipedia.org/wiki/Scientific_evidence): 6.2.1 Scientific Method
 - [Scientific management](https://en.wikipedia.org/wiki/Scientific_management): 6.5.2 Production management
 - [Scientific modelling](https://en.wikipedia.org/wiki/Scientific_modelling): 7.2 Mathematical Modeling (Scientific)
