@@ -787,6 +787,7 @@
 - [Quantum statistical mechanics](https://en.wikipedia.org/wiki/Quantum_statistical_mechanics): 7.5 Examples of Applied Fields of Mathematical Models
 - [Quantum superposition](https://en.wikipedia.org/wiki/Quantum_superposition): 10.3.4.1 Quantum Computing
 - [Quantum supremacy](https://en.wikipedia.org/wiki/Quantum_supremacy): 10.3.4.1 Quantum Computing
+- [Quasi\-experiment](https://en.wikipedia.org/wiki/Quasi-experiment) study: 6.2.2 Empirical research
 - [Quasi-Newton method](https://en.wikipedia.org/wiki/Quasi-Newton_method): 10.2.3 Algorithms
 - [Qubit](https://en.wikipedia.org/wiki/Qubit): 10.3.4.1 Quantum Computing
 - [Questionnaire](https://en.wikipedia.org/wiki/Questionnaire): 6.2.2 Empirical Research, 9.2.4 Determining Priority
@@ -885,6 +886,7 @@
 - [Sensitivity and specificity](https://en.wikipedia.org/wiki/Sensitivity_and_specificity): 6.4.2 Measurement Controls, 7.4.1.3 Indicators of Classification Performance
 - [Sensor](https://en.wikipedia.org/wiki/Sensor): 1.2.2.4 Observation
 - [Sequent](https://en.wikipedia.org/wiki/Sequent): 3.3.2.2 Form of Argument, 3.4.2.3 Formal Proof
+- [Sequent calculus](https://en.wikipedia.org/wiki/Sequent_calculus): 3.3.2.2 Form of Argument
 - [Serendipity](https://en.wikipedia.org/wiki/Serendipity): 6.2.3 Foundation of Hypothesis Building
 - [Series (mathematics)](https://en.wikipedia.org/wiki/Series_(mathematics)): 3.4.5 Areas of mathematics (Reference)
 - [Service (economics)](https://en.wikipedia.org/wiki/Service_(economics)): 6.5.2 Production management
@@ -990,7 +992,7 @@
 - [Theory of forms](https://en.wikipedia.org/wiki/Theory_of_forms): 1.4 Concept
 - [Theory of value (economics)](https://en.wikipedia.org/wiki/Theory_of_value_(economics)): 8.3 Value
 - [Theory-ladenness](https://en.wikipedia.org/wiki/Theory-ladenness): 1.3.2 Recognition, 6.2.1 Scientific Method
-- [Thought experiment](https://en.wikipedia.org/wiki/Thought_experiment): 6.2.3 Foundation of Hypothesis
+- [Thought experiment](https://en.wikipedia.org/wiki/Thought_experiment): 6.2.3 Foundation of Hypothesis Building
 - [Thermodynamic equilibrium](https://en.wikipedia.org/wiki/Thermodynamic_equilibrium): 5.4 Order and Stability
 - [Thermodynamic temperature](https://en.wikipedia.org/wiki/Thermodynamic_temperature): 6.3.3 Quantities (Reference)
 - [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics#Equilibrium_thermodynamics): 7.5 Examples of Applied Fields of Mathematical Models

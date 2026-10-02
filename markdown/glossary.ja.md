@@ -155,8 +155,8 @@
 - [サプライチェーン・マネジメント](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%97%E3%83%A9%E3%82%A4%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88)：6.5.2 生産管理
 - [サロゲートモデル](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AD%E3%82%B2%E3%83%BC%E3%83%88%E3%83%A2%E3%83%87%E3%83%AB)：6.3.4 探索空間・データサンプリングの設計
 - [サービス](https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%93%E3%82%B9)：6.5.2 生産管理
-
-- [シークエント](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%88)：3.3.2.2 論証の形式, 3.4.2.3 形式証明
+- [シークエント](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%88)：3.3.2.2 論証の形式、3.4.2.3 形式証明
+- [シークエント計算](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%BC%E3%82%AF%E3%82%A8%E3%83%B3%E3%83%88%E8%A8%88%E7%AE%97)：3.3.2.2 論証の形式
 - [シェイクダウン \(連続体力学\)](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%82%A4%E3%82%AF%E3%83%80%E3%82%A6%E3%83%B3_(%E9%80%A3%E7%B6%9A%E4%BD%93%E5%8A%9B%E5%AD%A6))：5.5 変動・発展
 - [しきい値](https://ja.wikipedia.org/wiki/%E3%81%97%E3%81%8D%E3%81%84%E5%80%A4)：4.3.1 事象の変化
 - [システム](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：5.2 システムの構成
