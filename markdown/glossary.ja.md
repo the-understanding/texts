@@ -359,12 +359,12 @@
 
 - [ミクロ経済学](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%AF%E3%83%AD%E7%B5%8C%E6%B8%88%E5%AD%A6)：5.6 システムの理解と運用
 - [ミニマックス法](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8B%E3%83%9E%E3%83%83%E3%82%AF%E3%82%B9%E6%B3%95)：7.3.4 最適化・戦略モデル
-
 - [メイの定理](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%81%AE%E5%AE%9A%E7%90%86)：9.3.3 決断・決着の手法
 - [メカニズム](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AB%E3%83%8B%E3%82%BA%E3%83%A0)：6.2.1 科学的方法
 - [メゾスコピック領域](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BE%E3%82%B9%E3%82%B3%E3%83%94%E3%83%83%E3%82%AF%E9%A0%98%E5%9F%9F)：5.6 システムの理解と運用
 - [メタアナリシス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%82%A2%E3%83%8A%E3%83%AA%E3%82%B7%E3%82%B9)：6.2.2 実証研究
 - [メタヒューリスティクス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E3%83%92%E3%83%A5%E3%83%BC%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%AF%E3%82%B9)：10.2.3 アルゴリズム
+ [メタ論理学](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BF%E8%AB%96%E7%90%86%E5%AD%A6)：3.3.2.4 論理の拡張
 - [メディア \(媒体\)](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2_(%E5%AA%92%E4%BD%93))：1.2.2.2 伝達媒体
 - [メディア・バイアス](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9)：9.4.3 バイアス・誤謬・詭弁
 - [メモリオーダリング](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%A2%E3%83%AA%E3%82%AA%E3%83%BC%E3%83%80%E3%83%AA%E3%83%B3%E3%82%B0)：10.3.1 ハードウェア
@@ -1180,7 +1180,6 @@
 - [内包と外延](https://ja.wikipedia.org/wiki/%E5%86%85%E5%8C%85%E3%81%A8%E5%A4%96%E5%BB%B6)：2.2.3 個別・抽象の概念
 - [長さ](https://ja.wikipedia.org/wiki/%E9%95%B7%E3%81%95)：6.3.3 量（参考）
 - [名前](https://ja.wikipedia.org/wiki/%E5%90%8D%E5%89%8D)：1.4 概念
-
 - [二階述語論理](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%9A%8E%E8%BF%B0%E8%AA%9E%E8%AB%96%E7%90%86)：3.2.2 論理学
 - [二項関係](https://ja.wikipedia.org/wiki/%E4%BA%8C%E9%A0%85%E9%96%A2%E4%BF%82)：3.4.3.2 二項関係
 - [二次計画法](https://ja.wikipedia.org/wiki/%E4%BA%8C%E6%AC%A1%E8%A8%88%E7%94%BB%E6%B3%95)：10.2.3 アルゴリズム
@@ -1230,11 +1229,11 @@
 - [反復法 \(数値計算\)](https://ja.wikipedia.org/wiki/%E5%8F%8D%E5%BE%A9%E6%B3%95_(%E6%95%B0%E5%80%A4%E8%A8%88%E7%AE%97))：10.2.3 アルゴリズム
 - [汎函数計算](https://ja.wikipedia.org/wiki/%E6%B1%8E%E5%87%BD%E6%95%B0%E8%A8%88%E7%AE%97)：3.4.4.1 演算 \(数学\))
 - [汎用人工知能](https://ja.wikipedia.org/wiki/%E6%B1%8E%E7%94%A8%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)：7.2.2 モデルの構築手順による類型, 10.4.2 生成AIと社会的影響
-
 - [美](https://ja.wikipedia.org/wiki/%E7%BE%8E)：8.3 価値
 - [比較](https://ja.wikipedia.org/wiki/%E6%AF%94%E8%BC%83)：2.2 比較
 - [美学](https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%AD%A6)：8.3 価値
 - [非協力ゲーム](https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8D%94%E5%8A%9B%E3%82%B2%E3%83%BC%E3%83%A0)：7.3.4 最適化・戦略モデル
+- [非単調論理](https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8D%98%E8%AA%BF%E8%AB%96%E7%90%86)：3.3.2.4 論理の拡張
 - [秘匿マルチパーティ計算](https://ja.wikipedia.org/wiki/%E7%A7%98%E5%8C%BF%E3%83%9E%E3%83%AB%E3%83%81%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3%E8%A8%88%E7%AE%97)：10.3.3 ネットワーク・セキュリティ
 - [非可換環 ](https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8F%AF%E6%8F%9B%E7%92%B0)：3.4.4.2 集合の代数学
 - [非可算集合](https://ja.wikipedia.org/wiki/%E9%9D%9E%E5%8F%AF%E7%AE%97%E9%9B%86%E5%90%88)：3.4.3.1 集合

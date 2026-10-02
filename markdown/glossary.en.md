@@ -201,6 +201,7 @@
 - [Consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making): 9.3 Consensus decision-making
 - [Consequentialism](https://en.wikipedia.org/wiki/Consequentialism): 8.3 Value
 - [Consistency](https://en.wikipedia.org/wiki/Consistency): 3.4.1.2 Foundations of mathematics
+- [Constructive logic](https://en.wikipedia.org/wiki/Constructive_logic): 3.3.2.4 Extensions of Logic
 - [Content-control software](https://en.wikipedia.org/wiki/Content-control_software): 1.2.2.3 Transmission Efficiency
 - [Context](https://en.wikipedia.org/wiki/Context_(language_use)): 1.4 Concept, 8.2 Meaning
 - [Contingency plan](https://en.wikipedia.org/wiki/Contingency_plan): 4.3.3 Planning
@@ -600,6 +601,7 @@
 - [Mesoscopic physics](https://en.wikipedia.org/wiki/Mesoscopic_physics): 5.6 Understanding and Operation of Systems
 - [Meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis): 6.2.2 Empirical Research
 - [Metaheuristic](https://en.wikipedia.org/wiki/Metaheuristic): 10.2.3 Algorithms
+- [Metalogic](https://en.wikipedia.org/wiki/Metalogic): 3.3.2.4 Extensions of Logic
 - [Metastability](https://en.wikipedia.org/wiki/Metastability): 5.5 Fluctuation and Evolution
 - [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics): 5.6 Understanding and Operation of Systems
 - [Minimax](https://en.wikipedia.org/wiki/Minimax): 7.3.4 Optimization and Strategy Models
@@ -641,6 +643,7 @@
 - [Nonlinear dynamics](https://en.wikipedia.org/wiki/Nonlinear_dynamics): 7.2.2 Typology by Model Construction Procedure
 - [Nonlinear programming](https://en.wikipedia.org/wiki/Nonlinear_programming): 10.2.3 Algorithms
 - [Nonlinear system](https://en.wikipedia.org/wiki/Nonlinear_system): 3.4.5 Areas of mathematics (Reference), 5.5 Fluctuation and Evolution
+- [Non\-monotonic logic](https://en.wikipedia.org/wiki/Non-monotonic_logic): 3.3.2.4 Extensions of Logic
 - [Nonparametric statistics](https://en.wikipedia.org/wiki/Nonparametric_statistics): 7.3.1.3 Statistical Inference
 - [Nonprofit organization](https://en.wikipedia.org/wiki/Nonprofit_organization): 8.3 Value
 - [Norm (social)](https://en.wikipedia.org/wiki/Norm_(social)): 5.4 Order and Stability
