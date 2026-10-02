@@ -1,7 +1,7 @@
 ## **Index (Limited to those with Wikipedia links)**
 
 - [4M (Safety engineering)](https://en.wikipedia.org/wiki/4M_(Safety_engineering)): 6.5.2 Production management
-- [A priori and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori): 1.3.3 Consciousness and Emotion
+- [A priori and a posteriori](https://en.wikipedia.org/wiki/A_priori_and_a_posteriori): 3.3.1.3 Relationships of Propositions
 - [Abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning): 3.3.2.1 Basic Forms of Inference
 - [Abstraction (computer science)](https://en.wikipedia.org/wiki/Abstraction_(computer_science)): 10.3.2 Software
 - [Academic conference](https://en.wikipedia.org/wiki/Academic_conference): 9.2.1 Formats
@@ -156,6 +156,7 @@
 - [Code](https://en.wikipedia.org/wiki/Code): 1.2.3.2 Information
 - [Code refactoring](https://en.wikipedia.org/wiki/Code_refactoring): 10.3.2 Software
 - [Coefficient](https://en.wikipedia.org/wiki/Coefficient): 7.2.3 Variables and Parameters
+- [Cognition](https://en.wikipedia.org/wiki/Cognition): 1.3.3 Consciousness, Cognition and Emotion
 - [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance): 9.4.3 Bias, Fallacy, and Sophism
 - [Coincidence](https://en.wikipedia.org/wiki/Coincidence): 6.3.6 Confirming the Relationship between Factor (Group) A and Result (Group) B
 - [Collective action problem](https://en.wikipedia.org/wiki/Collective_action_problem): 9.4.2 Problems Inherent in the Decision-Making Process
@@ -192,10 +193,11 @@
 - [Conflict resolution](https://en.wikipedia.org/wiki/Conflict_resolution): 9.4.5 Mediation and Conflict Resolution
 - [Confounding](https://en.wikipedia.org/wiki/Confounding): 6.3.5 Relationship between Factor (Group) A and Result (Group) B, 7.4.1.6 Limitations of Data and Models
 - [Confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix): 7.4.1.3 Indicators of Classification Performance
+- [Cognitive bias](https://en.wikipedia.org/wiki/Cognitive_bias)1.3.3 Consciousness, Cognition, and Emotion, 7.4.2.2 Bias and Distortion
 - [Conjunction (grammar)](https://en.wikipedia.org/wiki/Conjunction_(grammar)): 8.4.2 Expressive Techniques
 - [Connection (mathematics)](https://en.wikipedia.org/wiki/Connection_(mathematics)): 3.4.5 Areas of mathematics (Reference)
 - [Connectionism](https://en.wikipedia.org/wiki/Connectionism): 10.4.1 Symbolic AI and Connectionism
-- [Consciousness](https://en.wikipedia.org/wiki/Consciousness): 1.3.2 Recognition, 1.3.3 Consciousness and Emotion
+- [Consciousness](https://en.wikipedia.org/wiki/Consciousness): 1.3.2 Recognition, 1.3.3 Consciousness, Cognition and Emotion
 - [Consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making): 9.3 Consensus decision-making
 - [Consequentialism](https://en.wikipedia.org/wiki/Consequentialism): 8.3 Value
 - [Consistency](https://en.wikipedia.org/wiki/Consistency): 3.4.1.2 Foundations of mathematics
@@ -416,7 +418,7 @@
 - [Generative model](https://en.wikipedia.org/wiki/Generative_model): 7.2.1 Classification Axes of Mathematical Models
 - [Genre](https://en.wikipedia.org/wiki/Genre): 8.4.1 Information Extraction and Grouping from Objects
 - [Geometry](https://en.wikipedia.org/wiki/Geometry): 3.4.5 Areas of mathematics (Reference)
-- [Gestalt psychology](https://en.wikipedia.org/wiki/Gestalt_psychology): 1.3.3 Consciousness and Emotion
+- [Gestalt psychology](https://en.wikipedia.org/wiki/Gestalt_psychology): 1.3.3 Consciousness, Cognition, and Emotion
 - [Gift](https://en.wikipedia.org/wiki/Gift): 8.4.5 Communication
 - [Github](https://github.com/the-understanding/texts): Understanding: 10 Questions for Beginners
 - [Goodness of fit](https://en.wikipedia.org/wiki/Goodness_of_fit): 7.4.1.5 Model Selection and Complexity
@@ -439,7 +441,7 @@
 - [Gödel's incompleteness theorems](https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems): 3.3.2.5 Limits of Provability
 - [Hallucination (artificial intelligence)](https://en.wikipedia.org/wiki/Hallucination_(artificial_intelligence)): 10.4.2 Generative AI and Social Impact
 - [Halting problem](https://en.wikipedia.org/wiki/Halting_problem): 10.2.2 Computational Model
-- [Hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness): 1.3.3 Consciousness and Emotion
+- [Hard problem of consciousness](https://en.wikipedia.org/wiki/Hard_problem_of_consciousness): 1.3.3 Consciousness, Cognition, and Emotion
 - [HARKing](https://en.wikipedia.org/wiki/HARKing): 7.4.2.2 Bias and Distortion
 - [Harmonic analysis](https://en.wikipedia.org/wiki/Harmonic_analysis): 3.4.5 Areas of mathematics (Reference)
 - [Hash function](https://en.wikipedia.org/wiki/Hash_function): 10.3.3 Network and Security
@@ -462,7 +464,7 @@
 - [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle): 3.2.2 Logic, 8.2 Meaning
 - [Hyperparameter](https://en.wikipedia.org/wiki/Hyperparameter): 7.2.3 Variables and Parameters
 - [Hyperparameter (machine learning)](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)): 7.2.3 Variables and Parameters
-- [Hypothetico-deductive model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model): 6.2.3 Foundation of Hypothesis Building
+- [Hypothetico-deductive model](https://en.wikipedia.org/wiki/Hypothetico-deductive_model): 3.3.2.1 Basic Forms of Inference, 6.2.3 Foundation of Hypothesis Building
 - [Hysteresis](https://en.wikipedia.org/wiki/Hysteresis): 4.3.1 Change in Events
 - [Ideal (ethics)](https://en.wikipedia.org/wiki/Ideal_(ethics)): 9.2.4 Determining Priority
 - [Ideology](https://en.wikipedia.org/wiki/Ideology): 5.2 Structure of a System
@@ -620,6 +622,7 @@
 - [N-of-1 trial](https://en.wikipedia.org/wiki/N-of-1_trial): 6.3.4 Search Space and Data Sampling Design
 - [Narrative](https://en.wikipedia.org/wiki/Narrative): 8.4.2 Expressive Techniques
 - [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium): 5.4 Order and Stability, 7.3.4 Optimization and Strategy Models
+- [Natural deduction](https://en.wikipedia.org/wiki/Natural_deduction): 3.3.2.1 Basic Forms of Inference
 - [Natural experiment](https://en.wikipedia.org/wiki/Natural_experiment): 6.3.4 Search Space and Data Sampling Design
 - [Natural number](https://en.wikipedia.org/wiki/Natural_number): 3.5.1 Number
 - [Natural science](https://en.wikipedia.org/wiki/Natural_science): 6.2.1 Scientific Method
@@ -717,7 +720,7 @@
 - [Pragmatics](https://en.wikipedia.org/wiki/Pragmatics): 8.2 Meaning
 - [Prediction](https://en.wikipedia.org/wiki/Prediction): 6.2.1 Scientific Method
 - [Prediction interval](https://en.wikipedia.org/wiki/Prediction_interval): 7.3.1.3 Statistical Inference
-- [Prejudice](https://en.wikipedia.org/wiki/Prejudice): 1.3.3 Consciousness and Emotion, 9.4.3 Bias, Fallacy, and Sophism
+- [Prejudice](https://en.wikipedia.org/wiki/Prejudice): 1.3.2 Recognition, 9.4.3 Bias, Fallacy, and Sophism
 - [PREP method](https://en.wikipedia.org/wiki/PREP_method): 8.4.2 Expressive Techniques
 - [Present value](https://en.wikipedia.org/wiki/Present_value): 8.3 Value
 - [Presentation](https://en.wikipedia.org/wiki/Presentation): 8.4.2 Expressive Techniques
@@ -765,7 +768,7 @@
 - [Publication bias](https://en.wikipedia.org/wiki/Publication_bias): 6.4.4.4 Data Evaluation and Preprocessing
 - [Purpose](https://en.wikipedia.org/wiki/Purpose): 4.3.2 Operations and Procedures, 9.2.4 Determining Priority
 - [Quadratic programming](https://en.wikipedia.org/wiki/Quadratic_programming): 10.2.3 Algorithms
-- [Qualia](https://en.wikipedia.org/wiki/Qualia): 1.3.3 Consciousness and Emotion, 8.4.4 Inexpressible Things
+- [Qualia](https://en.wikipedia.org/wiki/Qualia): 1.3.3 Consciousness, Cognition, and Emotion, 8.4.4 Inexpressible Things
 - [Qualitative analysis](https://en.wikipedia.org/wiki/Qualitative_research): 6.3.2 Qualitative, Quantitative, and Scale
 - [Qualitative research](https://en.wikipedia.org/wiki/Qualitative_research): 7.2.1 Classification Axes of Mathematical Models, 6.2.2 Empirical Research
 - [Quality assurance](https://en.wikipedia.org/wiki/Quality_assurance): 6.5.4 Quality Assurance
@@ -859,7 +862,7 @@
 - [Scientific evidence](https://en.wikipedia.org/wiki/Scientific_evidence): 6.2.1 Scientific Method
 - [Scientific management](https://en.wikipedia.org/wiki/Scientific_management): 6.5.2 Production management
 - [Scientific modelling](https://en.wikipedia.org/wiki/Scientific_modelling): 7.2 Mathematical Modeling (Scientific)
-- [Scientific theory](https://en.wikipedia.org/wiki/Scientific_theory): 6.2.1 Scientific method
+- [Scientific theory](https://en.wikipedia.org/wiki/Scientific_theory): 3.3.2.1 Basic Forms of Inference, 6.2.1 Scientific method
 - [Search algorithm](https://en.wikipedia.org/wiki/Search_algorithm): 10.2.3 Algorithms
 - [Search engine](https://en.wikipedia.org/wiki/Search_engine): 10.2.3 Algorithms
 - [Second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics): 4.2.1 Phenomenological Causality
@@ -867,6 +870,7 @@
 - [Secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation): 10.3.3 Network and Security
 - [Selection (biology)](https://en.wikipedia.org/wiki/Selection_(biology)): 5.5 Fluctuation and Evolution
 - [Self-organization](https://en.wikipedia.org/wiki/Self-organization): 5.5 Fluctuation and Evolution, 7.5 Examples of Applied Fields of Mathematical Models
+- [Self-reference](https://en.wikipedia.org/wiki/Self-reference): 1.3.2 Recognition
 - [Self-supervised learning](https://en.wikipedia.org/wiki/Self-supervised_learning): 7.2.2 Typology by Model Construction Procedure
 - [Semantic holism](https://en.wikipedia.org/wiki/Semantic_holism): 3.2.2 Logic, 8.2 Meaning
 - [Semantic semantics](https://en.wikipedia.org/wiki/Semantics): 3.3.2.6 Related Fields of Logic
@@ -945,6 +949,7 @@
 - [Structural stability](https://en.wikipedia.org/wiki/Structural_stability): 5.4 Order and Stability
 - [Structuralism](https://en.wikipedia.org/wiki/Structuralism): 2.4.1 Structuring of Information, 5.3 Analytical Approach
 - [Structured programming](https://en.wikipedia.org/wiki/Structured_programming): 10.3.2 Software
+- [Subject and object](https://en.wikipedia.org/wiki/Subject_(philosophy)): 1.3.2 Recognition
 - [Subtraction](https://en.wikipedia.org/wiki/Subtraction): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Summary statistics](https://en.wikipedia.org/wiki/Summary_statistics): 7.3.1.1 Descriptive Statistics
 - [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning): 7.2.2 Typology by Model Construction Procedure, 7.3.3 Machine Learning and Deep Learning
@@ -985,6 +990,7 @@
 - [Theory of forms](https://en.wikipedia.org/wiki/Theory_of_forms): 1.4 Concept
 - [Theory of value (economics)](https://en.wikipedia.org/wiki/Theory_of_value_(economics)): 8.3 Value
 - [Theory-ladenness](https://en.wikipedia.org/wiki/Theory-ladenness): 1.3.2 Recognition, 6.2.1 Scientific Method
+- [Thought experiment](https://en.wikipedia.org/wiki/Thought_experiment): 6.2.3 Foundation of Hypothesis
 - [Thermodynamic equilibrium](https://en.wikipedia.org/wiki/Thermodynamic_equilibrium): 5.4 Order and Stability
 - [Thermodynamic temperature](https://en.wikipedia.org/wiki/Thermodynamic_temperature): 6.3.3 Quantities (Reference)
 - [Thermodynamics](https://en.wikipedia.org/wiki/Thermodynamics#Equilibrium_thermodynamics): 7.5 Examples of Applied Fields of Mathematical Models

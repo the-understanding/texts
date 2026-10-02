@@ -59,9 +59,8 @@
 - [アノマリー](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8E%E3%83%9E%E3%83%AA%E3%83%BC)：7.4.3 モデルの改善・更新
 - [アフォーダンス](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%A9%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9)：5.2 システムの構成, 8.4.3 情報の提示・デザイン
 - [アブダクション](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%96%E3%83%80%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3)：3.3.2.1 推論の基本形式
-- [アプリオリ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%AA%E3%83%AA)：1.3.3 意識・心情（気持ち）
+- [ア・プリオリとア・ポステリオリ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%BB%E3%83%97%E3%83%AA%E3%82%AA%E3%83%AA%E3%81%A8%E3%82%A2%E3%83%BB%E3%83%9D%E3%82%B9%E3%83%86%E3%83%AA%E3%82%AA%E3%83%AA)：3.3.1.3 命題の関係性
 - [アプリケーションプログラミングインタフェース](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9)：10.3.2 ソフトウェア
-- [アポステリオリ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9D%E3%82%B9%E3%83%86%E3%83%AA%E3%82%AA%E3%83%AA)：1.3.3 意識・心情（気持ち）
 - [アルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.3 アルゴリズム
 - [アルゴリズム情報理論](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0%E6%83%85%E5%A0%B1%E7%90%86%E8%AB%96)：1.2.3.2 情報
 - [アローの不可能性定理](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AD%E3%83%BC%E3%81%AE%E4%B8%8D%E5%8F%AF%E8%83%BD%E6%80%A7%E5%AE%9A%E7%90%86)：9.4.2 意思決定プロセスが含み持つ問題
@@ -116,7 +115,7 @@
 - [キュムラント母関数](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A0%E3%83%A9%E3%83%B3%E3%83%88%E6%AF%8D%E9%96%A2%E6%95%B0)：7.3.1.2 確率過程
 - [キーバリュー型データベース](https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%83%90%E3%83%AA%E3%83%A5%E3%83%BC%E5%9E%8B%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9)：10.2.4 データ構造・データベース
 
-- [クオリア](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2)：1.3.3 意識・心情（気持ち）, 8.4.4 表現しきれないもの
+- [クオリア](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A2)：1.3.3 意識・認知・心情（気持ち）, 8.4.4 表現しきれないもの
 - [クオリティ・バイ・デザイン](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3)：6.3.4 探索空間・データサンプリングの設計, 6.5.3 品質管理
 - [クラウドコンピューティング](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)：10.3.3 ネットワーク・セキュリティ
 - [グラウンデッド・セオリー](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%E3%83%BB%E3%82%BB%E3%82%AA%E3%83%AA%E3%83%BC)：6.2.2 実証研究
@@ -130,7 +129,7 @@
 
 - [ケアの倫理](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%82%A2%E3%81%AE%E5%80%AB%E7%90%86)：8.3 価値
 - [ケーススタディ](https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%BC%E3%82%B9%E3%83%BB%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A3)：6.2.2 実証研究
-- [ゲシュタルト心理学](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%AB%E3%83%88%E5%BF%83%E7%90%86%E5%AD%A6)：1.3.3 意識・心情（気持ち）
+- [ゲシュタルト心理学](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B7%E3%83%A5%E3%82%BF%E3%83%AB%E3%83%88%E5%BF%83%E7%90%86%E5%AD%A6)：1.3.3 意識・認知・心情（気持ち）
 - [ゲーデルの不完全性定理](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%87%E3%83%AB%E3%81%AE%E4%B8%8D%E5%AE%8C%E5%85%A8%E6%80%A7%E5%AE%9A%E7%90%86)：3.3.2.5 証明可能性の限界
 - [ゲーム理論](https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%BC%E3%83%A0%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）, 5.4 秩序・安定, 7.3.4 最適化・戦略モデル, 9.3.3 決断・決着の手法
 
@@ -440,7 +439,7 @@
 - [暗号理論](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）, 10.2.5 計算複雑性理論
 - [暗黙知](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%99%E7%9F%A5)：4.3.2 操作・手順, 8.4.4 表現しきれないもの
 
-- [意識のハード・プロブレム](https://ja.wikipedia.org/wiki/%E6%84%8F%E8%AD%98%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%83%BB%E3%83%97%E3%83%AD%E3%83%96%E3%83%AC%E3%83%A0)：1.3.3 意識・心情（気持ち）
+- [意識のハード・プロブレム](https://ja.wikipedia.org/wiki/%E6%84%8F%E8%AD%98%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%83%BB%E3%83%97%E3%83%AD%E3%83%96%E3%83%AC%E3%83%A0)：1.3.3 意識・認知・心情（気持ち）
 - [位相幾何学](https://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E5%B9%BE%E4%BD%95%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [位相空間](https://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E7%A9%BA%E9%96%93)：3.4.5 数学の諸分野（参考）
 - [痛み](https://ja.wikipedia.org/wiki/%E7%97%9B%E3%81%BF)：1.3.1 知覚
@@ -450,7 +449,7 @@
 - [意義と意味](https://ja.wikipedia.org/wiki/%E6%84%8F%E7%BE%A9%E3%81%A8%E6%84%8F%E5%91%B3)：8.2 意味
 - [意義論](https://ja.wikipedia.org/wiki/%E6%84%8F%E7%BE%A9%E8%AB%96)：8.2 意味
 - [意思決定](https://ja.wikipedia.org/wiki/%E6%84%8F%E6%80%9D%E6%B1%BA%E5%AE%9A)：9.3.1 意思決定
-- [意識](https://ja.wikipedia.org/wiki/%E6%84%8F%E8%AD%98)：1.3.2 認識, 1.3.3 意識・心情（気持ち）
+- [意識](https://ja.wikipedia.org/wiki/%E6%84%8F%E8%AD%98)：1.3.2 認識, 1.3.3 意識・認知・心情（気持ち）
 - [意味](https://ja.wikipedia.org/wiki/%E6%84%8F%E5%91%B3)：8.2 意味, 8.3 価値
 - [意味の全体論](https://ja.wikipedia.org/wiki/%E6%84%8F%E5%91%B3%E3%81%AE%E5%85%A8%E4%BD%93%E8%AB%96)：3.2.2 論理学, 8.2 意味
 - [意味論 \(論理学\)](https://ja.wikipedia.org/wiki/%E6%84%8F%E5%91%B3%E8%AB%96_(%E8%AB%96%E7%90%86%E5%AD%A6))：3.4.2.2 証明技法
@@ -531,7 +530,7 @@
 - [数の暴力](https://ja.wikipedia.org/wiki/%E6%95%B0%E3%81%AE%E6%9A%B4%E5%8A%9B)：9.4.1 意見の違い
 - [仮設 \(数学\)](https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%A8%AD_(%E6%95%B0%E5%AD%A6))：3.4.2.1 数学基礎論
 - [仮説](https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%AA%AC)：6.2.2 実証研究, 6.2.3 仮説構築の基盤, 6.2.4 仮説検証の手順
-- [仮説演繹法](https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%AA%AC%E6%BC%94%E7%B9%B9%E6%B3%95)：6.2.3 仮説構築の基盤
+- [仮説演繹法](https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%AA%AC%E6%BC%94%E7%B9%B9%E6%B3%95)：3.3.2.1 推論の基本形式、6.2.3 仮説構築の基盤
 - [仮説検定](https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%AA%AC%E6%A4%9C%E5%AE%9A)：7.3.1.3 推計統計学
 - [仮想化](https://ja.wikipedia.org/wiki/%E4%BB%AE%E6%83%B3%E5%8C%96)：10.3.2 ソフトウェア
 - [家族的類似](https://ja.wikipedia.org/wiki/%E5%AE%B6%E6%97%8F%E7%9A%84%E9%A1%9E%E4%BC%BC)：2.4.6 定義
@@ -610,7 +609,7 @@
 - [基盤モデル](https://ja.wikipedia.org/wiki/%E5%9F%BA%E7%9B%A4%E3%83%A2%E3%83%87%E3%83%AB)：7.3.3 機械学習と深層学習
 - [記銘](https://ja.wikipedia.org/wiki/%E8%A8%98%E9%8A%98)：1.2.3.1 データの記録・保存
 - [帰無仮説](https://ja.wikipedia.org/wiki/%E5%B8%B0%E7%84%A1%E4%BB%AE%E8%AA%AC)：7.3.1.3 推計統計学
-- [気持ち](https://ja.wikipedia.org/wiki/%E6%B0%97%E6%8C%81%E3%81%A1)：1.3.3 意識・心情（気持ち）
+- [気持ち](https://ja.wikipedia.org/wiki/%E6%B0%97%E6%8C%81%E3%81%A1)：1.3.3 意識・認知・心情（気持ち）
 - [義務論](https://ja.wikipedia.org/wiki/%E7%BE%A9%E5%8B%99%E8%AB%96)：8.3 価値
 - [偽薬](https://ja.wikipedia.org/wiki/%E5%81%BD%E8%96%AC)：6.3.4 探索空間・データサンプリングの設計
 - [逆](https://ja.wikipedia.org/wiki/%E9%80%86)：3.2.2 論理学
@@ -801,22 +800,23 @@
 - [次元の呪い](https://ja.wikipedia.org/wiki/%E6%AC%A1%E5%85%83%E3%81%AE%E5%91%AA%E3%81%84)：7.4.1.5 モデル選択・複雑性
 - [次元削減](https://ja.wikipedia.org/wiki/%E6%AC%A1%E5%85%83%E5%89%8A%E6%B8%9B)：7.3.1.3 推計統計学
 - [時価](https://ja.wikipedia.org/wiki/%E6%99%82%E4%BE%A1)：8.3 価値
-- [自我](https://ja.wikipedia.org/wiki/%E8%87%AA%E6%88%91)：1.3.3 意識・心情（気持ち）
+- [自我](https://ja.wikipedia.org/wiki/%E8%87%AA%E6%88%91)：1.3.3 意識・認知・心情（気持ち）
 - [識別的モデル](https://ja.wikipedia.org/wiki/%E8%AD%98%E5%88%A5%E7%9A%84%E3%83%A2%E3%83%87%E3%83%AB)：7.2.1 数理モデルの分類軸
-- [自己意識](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%84%8F%E8%AD%98)：1.3.3 意識・心情（気持ち）
-- [思考実験](https://ja.wikipedia.org/wiki/%E6%80%9D%E8%80%83%E5%AE%9F%E9%A8%93)：1.3.3 意識・心情（気持ち）
+- [自己意識](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%84%8F%E8%AD%98)：1.3.3 意識・認知・心情（気持ち）
+- [思考実験](https://ja.wikipedia.org/wiki/%E6%80%9D%E8%80%83%E5%AE%9F%E9%A8%93)：6.2.3 仮説構築の基盤
 - [志向性](https://ja.wikipedia.org/wiki/%E5%BF%97%E5%90%91%E6%80%A7)：9.2.4 優先順位の決定
 - [事後確率](https://ja.wikipedia.org/wiki/%E4%BA%8B%E5%BE%8C%E7%A2%BA%E7%8E%87)：6.4.4.4 データの評価・前処理, 7.3.1.3 推計統計学
 - [自己教師あり学習](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E6%95%99%E5%B8%AB%E3%81%82%E3%82%8A%E5%AD%A6%E7%BF%92)：7.2.2 モデルの構築手順による類型
-- [自己言及](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E8%A8%80%E5%8F%8A)：1.3.3 意識・心情（気持ち）, 3.2.2 論理学
+- [自己言及](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E8%A8%80%E5%8F%8A)：1.3.2 認識, 3.2.2 論理学
 - [自己言及のパラドックス](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E8%A8%80%E5%8F%8A%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9)：3.3.2.5 証明可能性の限界
 - [自己組織化](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E7%B5%84%E7%B9%94%E5%8C%96)：5.5 変動・発展, 7.5 数理モデルの応用分野例（参考）
 - [自己相関](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E7%9B%B8%E9%96%A2)：7.3.1.3 推計統計学
 - [自己目的化](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%B7%B1%E7%9B%AE%E7%9A%84%E5%8C%96)：9.4.3 バイアス・誤謬・詭弁
-- [自然の斉一性](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E3%81%AE%E6%96%89%E4%B8%80%E6%80%A7)：6.2.1 科学的方法
+- [自然演繹](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E6%BC%94%E7%B9%B9)：3.3.2.1 推論の基本形式
 - [自然科学](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6)：6.2.1 科学的方法
 - [自然実験](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%AE%9F%E9%A8%93)：6.3.4 探索空間・データサンプリングの設計
 - [自然数](https://ja.wikipedia.org/wiki/%E5%9F%BA%E6%95%B0)：3.5.1 数
+- [自然の斉一性](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E3%81%AE%E6%96%89%E4%B8%80%E6%80%A7)：6.2.1 科学的方法
 - [自然変換](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E5%A4%89%E6%8F%9B)：3.4.4.3 圏論
 - [自然法則](https://ja.wikipedia.org/wiki/%E8%87%AA%E7%84%B6%E6%B3%95%E5%89%87)：6.2.3 仮説構築の基盤
 - [事実と価値の区別](https://ja.wikipedia.org/wiki/%E4%BA%8B%E5%AE%9F%E3%81%A8%E4%BE%A1%E5%80%A4%E3%81%AE%E5%8C%BA%E5%88%A5)：8.3 価値
@@ -883,7 +883,7 @@
 - [熟議民主主義](https://ja.wikipedia.org/wiki/%E7%86%9F%E8%AD%B0%E6%B0%91%E4%B8%BB%E4%B8%BB%E7%BE%A9)：9.4.1 意見の違い
 - [受信](https://ja.wikipedia.org/wiki/%E5%8F%97%E4%BF%A1)：1.2.2.4 観測
 - [受信者操作特性](https://ja.wikipedia.org/wiki/%E5%8F%97%E4%BF%A1%E8%80%85%E6%93%8D%E4%BD%9C%E7%89%B9%E6%80%A7)：7.4.1.3 分類性能の指標
-- [主体と客体](https://ja.wikipedia.org/wiki/%E4%B8%BB%E4%BD%93%E3%81%A8%E5%AE%A2%E4%BD%93)：1.3.3 意識・心情（気持ち）
+- [主体と客体](https://ja.wikipedia.org/wiki/%E4%B8%BB%E4%BD%93%E3%81%A8%E5%AE%A2%E4%BD%93)：1.3.2 認識
 - [述語](https://ja.wikipedia.org/wiki/%E8%BF%B0%E8%AA%9E)：3.2.2 論理学
 - [述語論理](https://ja.wikipedia.org/wiki/%E8%BF%B0%E8%AA%9E%E8%AB%96%E7%90%86)：3.2.2 論理学
 - [十進法](https://ja.wikipedia.org/wiki/%E5%8D%81%E9%80%B2%E6%B3%95)：3.5.1 数
@@ -907,7 +907,7 @@
 - [冗長化](https://ja.wikipedia.org/wiki/%E5%86%97%E9%95%B7%E5%8C%96)：1.2.3.1 データの記録・保存
 - [冗長性](https://ja.wikipedia.org/wiki/%E5%86%97%E9%95%B7%E6%80%A7)：4.3.3 計画, 5.4 秩序・安定
 - [焦点 \(言語学\)](https://ja.wikipedia.org/wiki/%E7%84%A6%E7%82%B9_(%E8%A8%80%E8%AA%9E%E5%AD%A6))：8.4.1  対象からの情報抽出とまとまり
-- [情動](https://ja.wikipedia.org/wiki/%E6%83%85%E5%8B%95)：1.3.3 意識・心情（気持ち）
+- [情動](https://ja.wikipedia.org/wiki/%E6%83%85%E5%8B%95)：1.3.3 意識・認知・心情（気持ち）
 - [常微分方程式](https://ja.wikipedia.org/wiki/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%BC%8F)：3.4.5 数学の諸分野（参考）
 - [商品](https://ja.wikipedia.org/wiki/%E5%95%86%E5%93%81)：6.5.2 生産管理
 - [商品ライフサイクルマネジメント](https://ja.wikipedia.org/wiki/%E5%95%86%E5%93%81%E3%83%A9%E3%82%A4%E3%83%95%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88)：6.5.5 維持・管理
@@ -942,7 +942,7 @@
 - [人工知能](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD)：10.4 人工知能
 - [人工知能の倫理](https://ja.wikipedia.org/wiki/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%81%AE%E5%80%AB%E7%90%86)：10.4.2 生成AIと社会的影響
 - [振動](https://ja.wikipedia.org/wiki/%E6%8C%AF%E5%8B%95)：5.4 秩序・安定
-- [心身問題](https://ja.wikipedia.org/wiki/%E5%BF%83%E8%BA%AB%E5%95%8F%E9%A1%8C)：1.3.3 意識・心情（気持ち）
+- [心身問題](https://ja.wikipedia.org/wiki/%E5%BF%83%E8%BA%AB%E5%95%8F%E9%A1%8C)：1.3.3 意識・認知・心情（気持ち）
 - [身体化された認知](https://ja.wikipedia.org/wiki/%E8%BA%AB%E4%BD%93%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E8%AA%8D%E7%9F%A5)：1.3.2 認識
 - [身体的記憶](https://ja.wikipedia.org/wiki/%E6%89%8B%E7%B6%9A%E3%81%8D%E8%A8%98%E6%86%B6)：4.3.2 操作・手順
 - [人道援助](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9)：8.3 価値
@@ -1008,7 +1008,7 @@
 - [説明可能なAI](https://ja.wikipedia.org/wiki/%E8%AA%AC%E6%98%8E%E5%8F%AF%E8%83%BD%E3%81%AAAI)：7.4.2.1 解釈可能性・不確実性, 10.4.2 生成AIと社会的影響
 - [説明責任](https://ja.wikipedia.org/wiki/%E8%AA%AC%E6%98%8E%E8%B2%AC%E4%BB%BB)：9.2.2 役割
 - [世論調査](https://ja.wikipedia.org/wiki/%E4%B8%96%E8%AB%96%E8%AA%BF%E6%9F%BB)：7.5 数理モデルの応用分野例（参考）
-- [先入観](https://ja.wikipedia.org/wiki/%E5%85%88%E5%85%A5%E8%A6%B3)：1.3.3 意識・心情（気持ち）, 9.4.3 バイアス・誤謬・詭弁
+- [先入観](https://ja.wikipedia.org/wiki/%E5%85%88%E5%85%A5%E8%A6%B3)：1.3.2 認識, 9.4.3 バイアス・誤謬・詭弁
 - [戦争](https://ja.wikipedia.org/wiki/%E6%88%A6%E4%BA%89)：9.4.4 不正・紛争
 - [戦略投票](https://ja.wikipedia.org/wiki/%E6%88%A6%E7%95%A5%E6%8A%95%E7%A5%A8)：9.3.3 決断・決着の手法
 - [潜在変数](https://ja.wikipedia.org/wiki/%E6%BD%9C%E5%9C%A8%E5%A4%89%E6%95%B0)：6.3.1 系・因子・結果, 7.2.3 変数・パラメーター
@@ -1194,9 +1194,9 @@
 - [認識](https://ja.wikipedia.org/wiki/%E8%AA%8D%E8%AD%98)：1.3.2 認識
 - [認識論](https://ja.wikipedia.org/wiki/%E8%AA%8D%E8%AD%98%E8%AB%96)：1.3.2 認識
 - [認証標準物質](https://ja.wikipedia.org/wiki/%E8%AA%8D%E8%A8%BC%E6%A8%99%E6%BA%96%E7%89%A9%E8%B3%AA)：6.4.2 測定コントロール
-- [認知](https://ja.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5)：1.3.2 認識
+- [認知](https://ja.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5)：1.3.3 意識・認知・心情（気持ち）
 - [認知的不協和](https://ja.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E7%9A%84%E4%B8%8D%E5%8D%94%E5%92%8C)：9.4.3 バイアス・誤謬・詭弁
-- [認知バイアス](https://ja.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9)：1.3.3 意識・心情（気持ち）, 7.4.2.2 バイアスと歪み
+- [認知バイアス](https://ja.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9)：1.3.3 意識・認知・心情（気持ち）, 7.4.2.2 バイアスと歪み
 - [認知バイアスの一覧](https://ja.wikipedia.org/wiki/%E8%AA%8D%E7%9F%A5%E3%83%90%E3%82%A4%E3%82%A2%E3%82%B9%E3%81%AE%E4%B8%80%E8%A6%A7)：9.4.3 バイアス・誤謬・詭弁
 
 - [熱力学温度](https://ja.wikipedia.org/wiki/%E7%86%B1%E5%8A%9B%E5%AD%A6%E6%B8%A9%E5%BA%A6)：6.3.3 量（参考）
@@ -1355,7 +1355,7 @@
 - [味覚](https://ja.wikipedia.org/wiki/%E5%91%B3%E8%A6%9A)：1.3.1 知覚
 - [民族誌](https://ja.wikipedia.org/wiki/%E6%B0%91%E6%97%8F%E8%AA%8C)：6.2.2 実証研究
 
-- [無意識](https://ja.wikipedia.org/wiki/%E7%84%A1%E6%84%8F%E8%AD%98)：1.3.3 意識・心情（気持ち）
+- [無意識](https://ja.wikipedia.org/wiki/%E7%84%A1%E6%84%8F%E8%AD%98)：1.3.3 意識・認知・心情（気持ち）
 - [無限降下法](https://ja.wikipedia.org/wiki/%E7%84%A1%E9%99%90%E9%99%8D%E4%B8%8B%E6%B3%95)：3.4.2.2 証明技法
 - [無作為抽出](https://ja.wikipedia.org/wiki/%E7%84%A1%E4%BD%9C%E7%82%BA%E6%8A%BD%E5%87%BA)：6.3.4 探索空間・データサンプリングの設計
 - [無矛盾](https://ja.wikipedia.org/wiki/%E7%84%A1%E7%9F%9B%E7%9B%BE)：3.4.1.2 数学基礎論
@@ -1419,7 +1419,7 @@
 - [量子もつれ](https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E3%82%82%E3%81%A4%E3%82%8C)：10.3.4.1 量子コンピューティング
 - [量子焼きなまし法](https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E7%84%BC%E3%81%8D%E3%81%AA%E3%81%BE%E3%81%97%E6%B3%95)：10.3.4.1 量子コンピューティング
 - [量子論理](https://ja.wikipedia.org/wiki/%E9%87%8F%E5%AD%90%E8%AB%96%E7%90%86)：3.3.2.4 論理の拡張, 10.3.4.1 量子コンピューティング
-- [理論](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96)：6.2.1 科学的方法、6.2.3 仮説構築の基盤
+- [理論](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96)：3.3.2.1 推論の基本形式、6.2.1 科学的方法、6.2.3 仮説構築の基盤
 - [理論計算機科学](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)：10.2.3 アルゴリズム
 - [理論負荷性](https://ja.wikipedia.org/wiki/%E7%90%86%E8%AB%96%E8%B2%A0%E8%8D%B7%E6%80%A7)：1.3.2 認識, 6.2.1 科学的方法
 - [倫理](https://ja.wikipedia.org/wiki/%E5%80%AB%E7%90%86)：8.3 価値
