@@ -280,6 +280,7 @@
 - [Detection limit](https://en.wikipedia.org/wiki/Detection_limit): 6.4.5 Analytical Method Validation
 - [Deterministic system](https://en.wikipedia.org/wiki/Deterministic_system)
 - [Developmentalism](https://en.wikipedia.org/wiki/Developmentalism): 8.3 Value
+- [DevOps](https://en.wikipedia.org/wiki/DevOps): 6.5.1 Development
 - [Dialectic](https://en.wikipedia.org/wiki/Dialectic): 3.3.2.2 Form of Argument, 9.3.2 Handling Opposing Opinions
 - [Difference in differences](https://en.wikipedia.org/wiki/Difference_in_differences): 7.3.2 Causal Inference
 - [Differential calculus](https://en.wikipedia.org/wiki/Differential_calculus): 3.4.5 Areas of mathematics (Reference)
@@ -940,7 +941,7 @@
 - [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind): 10.4.2 Generative AI and Social Impact
 - [Software engineering](https://en.wikipedia.org/wiki/Software_engineering): 10.3.2 Software
 - [Software framework](https://en.wikipedia.org/wiki/Software_framework): 5.2 Structure of a System
-- [Software testing](https://en.wikipedia.org/wiki/Software_testing): 4.3.4 Check and Correct
+- [Software testing](https://en.wikipedia.org/wiki/Software_testing): 4.3.4 Check and Correct, 6.5.3 Quality control
 - [Sophism](https://en.wikipedia.org/wiki/Sophism): 9.4.3 Bias, Fallacy, and Sophism
 - [Sorting algorithm](https://en.wikipedia.org/wiki/Sorting_algorithm): 2.4.1 Structuring of Information, 10.2.3 Algorithms
 - [Spaghetti code](https://en.wikipedia.org/wiki/Spaghetti_code): 5.6 Understanding and Operation of Systems

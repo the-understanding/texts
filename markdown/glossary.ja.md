@@ -10,6 +10,7 @@
 - [Data loss](https://en.wikipedia.org/wiki/Data_loss)：1.2.3.4 情報消去
 - [Data wrangling](https://en.wikipedia.org/wiki/Data_wrangling)：6.4.4.4 データの評価・前処理
 - [Decisional balance sheet](https://en.wikipedia.org/wiki/Decisional_balance_sheet)：9.2.5 期待される結果・結論と将来の対応
+- [DevOps](https://ja.wikipedia.org/wiki/DevOps)：6.5.1 開発
 - [Effect size](https://en.wikipedia.org/wiki/Effect_size)：6.3.4 探索空間・データサンプリングの設計
 - [Estimand](https://en.wikipedia.org/wiki/Estimand)：6.2.2 実証研究
 - [F値 \(評価指標\)](https://ja.wikipedia.org/wiki/F%E5%80%A4_(%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99))：7.4.1.3 分類性能の指標
@@ -198,7 +199,7 @@
 
 - [ソート](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%88)：2.4.1 構造化による理解, 10.2.3 アルゴリズム
 - [ソフトウェア工学](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E5%B7%A5%E5%AD%A6)：10.3.2 ソフトウェア
-- [ソフトウェアテスト](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88)：4.3.4 確認・訂正
+- [ソフトウェアテスト](https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%86%E3%82%B9%E3%83%88)：4.3.4 確認・訂正, 6.5.3 品質管理
 
 - [タギング \(コンピュータ\)](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AE%E3%83%B3%E3%82%B0_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF))：2.4.3. ボトムアップ型
 - [タグ (メタデータ)](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B0_(%E3%83%A1%E3%82%BF%E3%83%87%E3%83%BC%E3%82%BF))：2.4.3. ボトムアップ型
