@@ -42,10 +42,10 @@
 - [SCAMPER](https://en.wikipedia.org/wiki/SCAMPER)：9.2.3 情報共有・判断の枠組み
 - [SN比](https://ja.wikipedia.org/wiki/SN%E6%AF%94)：6.4.3 検量線
 - [Spoiler effect](https://en.wikipedia.org/wiki/Spoiler_effect)：9.4.2 意思決定プロセスが含み持つ問題
+- [Subitizing](https://en.wikipedia.org/wiki/Subitizing)：1.3.2 認識
 - [Systematic layout planning](https://en.wikipedia.org/wiki/Systematic_layout_planning)：6.5.2 生産管理
 - [Tetralemma](https://en.wikipedia.org/wiki/Tetralemma)：3.2.2 論理学
 - [Win\-Win](https://ja.wikipedia.org/wiki/Win-Win)：9.3.2 対立意見の対応
-
 
 
 
@@ -169,6 +169,7 @@
 - [シミュレーション](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%9F%E3%83%A5%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)：5.3 分析アプローチ, 7.2.2 モデルの構築手順による類型, 10.2.3 アルゴリズム
 - [シャノンの情報源符号化定理](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3%E3%81%AE%E6%83%85%E5%A0%B1%E6%)：1.2.3.2 情報
 - [シャノンの通信路符号化定理](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%8E%E3%83%B3%E3%81%AE%E9%80%9A%E4%BF%A1%E8%B7%AF%E7%AC%A6%E5%8F%B7%E5%8C%96%E5%AE%9A%E7%90%86)：1.2.2.3 伝達効率
+- [シャローパーサ](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%AD%E3%83%BC%E3%83%91%E3%83%BC%E3%82%B5)：1.3.2 認識
 - [ショアのアルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A7%E3%82%A2%E3%81%AE%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.3.4.1 量子コンピューティング
 - [シンプソンのパラドックス](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%97%E3%82%BD%E3%83%B3%E3%81%AE%E3%83%91%E3%83%A9%E3%83%89%E3%83%83%E3%82%AF%E3%82%B9)：7.4.2.2 バイアスと歪み
 - [シンボル](https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%B3%E3%83%9C%E3%83%AB)：8.2 意味
@@ -205,9 +206,10 @@
 - [タグ (メタデータ)](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%B0_(%E3%83%A1%E3%82%BF%E3%83%87%E3%83%BC%E3%82%BF))：2.4.3. ボトムアップ型
 - [タプル](https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%97%E3%83%AB)：10.2.4 データ構造・データベース
 
-- [チェリー・ピッキング](https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%94%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0)：9.4.3 バイアス・誤謬・詭弁
 - [チャーチ＝チューリングのテーゼ](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%81%EF%BC%9D%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%81%AE%E3%83%86%E3%83%BC%E3%82%BC)：10.2.2 計算モデル
+- [チャンク](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%82%AF)：1.3.2 認識
 - [チューリングマシン](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B7%E3%83%B3)：3.2.2 論理学, 10.2.2 計算モデル
+- [チェリー・ピッキング](https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%94%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0)：9.4.3 バイアス・誤謬・詭弁
 - [チョークポイント](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)：4.3.3 操作・手順
 
 - [ツェルメロ＝フレンケル集合論](https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%AB%E3%83%A1%E3%83%AD%EF%BC%9D%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B1%E3%83%AB%E9%9B%86%E5%90%88%E8%AB%96)：3.4.3.1 集合
@@ -427,6 +429,7 @@
 - [ロジカルシンキング](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B8%E3%82%AB%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%AD%E3%83%B3%E3%82%B0)：8.4.2 表現技法, 9.2.3 情報共有・判断の枠組み
 - [ロバストネス (情報工学)](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%82%B9%E3%83%88%E3%83%8D%E3%82%B9_(%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6))：5.4 秩序・安定
 
+- [ワーキングメモリ](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%A2%E3%83%AA)：1.3.2 認識
 - [ワークフロー](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AD%E3%83%BC)：4.3.2 計画
 
 

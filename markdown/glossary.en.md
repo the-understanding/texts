@@ -863,6 +863,7 @@
 - [Rubin causal model](https://en.wikipedia.org/wiki/Rubin_causal_model): 7.3.2 Causal Inference
 - [Rule](https://en.wikipedia.org/wiki/Rule): 5.2 Structure of a System, 5.4 Order and Stability
 - [Rule of law](https://en.wikipedia.org/wiki/Rule_of_law): 5.4 Order and Stability
+- [Rule of three](https://en.wikipedia.org/wiki/Rule_of_three): 1.3.2 Recognition
 - [Rule of thumb](https://en.wikipedia.org/wiki/Rule_of_thumb): 6.2.3 Foundation of Hypothesis Building
 - [Runtime system](https://en.wikipedia.org/wiki/Runtime_system): 10.3.2 Software
 
@@ -916,6 +917,7 @@
 - [Set theory](https://en.wikipedia.org/wiki/Set_theory): 3.2.1 Set
 - [Settlement (litigation)](https://en.wikipedia.org/wiki/Settlement_(litigation)): 9.4.5 Mediation and Conflict Resolution
 - [Seven Basic Tools of Quality](https://en.wikipedia.org/wiki/Seven_Basic_Tools_of_Quality): 6.5.3 Quality Control
+- [Shallow parsing](https://en.wikipedia.org/wiki/Shallow_parsing): 1.3.2 Recognition
 - [Shakedown (continuum mechanics)](https://en.wikipedia.org/wiki/Shakedown_(continuum_mechanics)): 5.5 Fluctuation and Evolution
 - [Shannon's source coding theorem](https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem): 1.2.3.2 Information
 - [Shor's algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm): 10.3.4.1 Quantum Computing
@@ -976,6 +978,7 @@
 - [Structuralism](https://en.wikipedia.org/wiki/Structuralism): 2.4.1 Structuring of Information, 5.3 Analytical Approach
 - [Structured programming](https://en.wikipedia.org/wiki/Structured_programming): 10.3.2 Software
 - [Subject and object](https://en.wikipedia.org/wiki/Subject_(philosophy)): 1.3.2 Recognition
+- [Subitizing](https://en.wikipedia.org/wiki/Subitizing): 1.3.2 Recognition
 - [Subtraction](https://en.wikipedia.org/wiki/Subtraction): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Summary statistics](https://en.wikipedia.org/wiki/Summary_statistics): 7.3.1.1 Descriptive Statistics
 - [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning): 7.2.2 Typology by Model Construction Procedure, 7.3.3 Machine Learning and Deep Learning
@@ -1089,6 +1092,7 @@
 - [Win-win game](https://en.wikipedia.org/wiki/Win-win_game): 9.3.2 Handling Opposing Opinions
 - [Work of art](https://en.wikipedia.org/wiki/Work_of_art): 8.4.2 Expressive Techniques
 - [Workflow](https://en.wikipedia.org/wiki/Workflow): 4.3.3 Planning
+- [Working memory](https://en.wikipedia.org/wiki/Working_memory): 1.3.2 Recognition
 
 - [Yield (engineering)](https://en.wikipedia.org/wiki/Yield_(engineering)): 6.5.3 Quality Control
 
