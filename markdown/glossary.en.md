@@ -29,6 +29,7 @@
 - [All models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong): 7.4.2.3 Model Learning and Evaluation
 - [Ambiguity](https://en.wikipedia.org/wiki/Ambiguity): 2.4.6 Definition
 - [Amount of substance](https://en.wikipedia.org/wiki/Amount_of_substance): 6.3.3 Quantities (Reference)
+- [Amplification](https://en.wikipedia.org/wiki/Amplification): 5.5 Fluctuation and Evolution
 - [Analog computer](https://en.wikipedia.org/wiki/Analog_computer): 10.2.1 Computer
 - [Analysis](https://en.wikipedia.org/wiki/Analysis): 6.4 Management of Measurement and Analysis
 - [Analytic hierarchy process](https://en.wikipedia.org/wiki/Analytic_hierarchy_process): 9.2.5 Expected Results, Conclusions, and Future Actions
@@ -84,7 +85,7 @@
 - [Boolean algebra (logic)](https://en.wikipedia.org/wiki/Boolean_algebra_(logic)): 3.3.1.1 Propositional calculus
 - [Boolean data type](https://en.wikipedia.org/wiki/Boolean_data_type): 2.3.2 Evaluation Metrics
 - [Bootstrapping (statistics)](https://en.wikipedia.org/wiki/Bootstrapping_(statistics)): 7.3.1.2 Stochastic Process
-- [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck): 4.3.3 Operations and Procedures
+- [Bottleneck](https://en.wikipedia.org/wiki/Bottleneck): 4.3.2 Operations and Procedures
 - [Bottom-up approach](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design): 2.4.3 Bottom-Up Approach
 - [Boundary (topology)](https://en.wikipedia.org/wiki/Boundary_(topology)): 5.2 Structure of a System
 - [Boundary element method](https://en.wikipedia.org/wiki/Boundary_element_method): 10.2.3 Algorithms
@@ -147,7 +148,7 @@
 - [Chaos theory](https://en.wikipedia.org/wiki/Chaos_theory): 3.4.5 Areas of mathematics (Reference), 5.6 Understanding and Operation of Systems
 - [Chemical reaction](https://en.wikipedia.org/wiki/Chemical_reaction): 4.3.1 Change in Events
 - [Cherry picking](https://en.wikipedia.org/wiki/Cherry_picking): 9.4.3 Bias, Fallacy, and Sophism
-- [Choke point](https://en.wikipedia.org/wiki/Choke_point): 4.3.3 Operations and Procedures
+- [Choke point](https://en.wikipedia.org/wiki/Choke_point): 4.3.2 Operations and Procedures
 - [Chronological order](https://en.wikipedia.org/wiki/Chronology): 4.2.2 Analytical Causality
 - [Church–Turing thesis](https://en.wikipedia.org/wiki/Church%E2%80%93Turing_thesis): 10.2.2 Computational Model
 - [Circadian rhythm](https://en.wikipedia.org/wiki/Circadian_rhythm): 5.4 Order and Stability
@@ -178,7 +179,7 @@
 - [Complex system](https://en.wikipedia.org/wiki/Complex_system): 7.5 Examples of Applied Fields of Mathematical Models
 - [Complexity](https://en.wikipedia.org/wiki/Complexity): 5.6 Understanding and Operation of Systems
 - [Complexity class](https://en.wikipedia.org/wiki/Complexity_class): 10.2.5 Computational Complexity Theory
-- [Computation](https://en.wikipedia.org/wiki/Computation): 4.3.3 Operations and Procedures, 10.2.2 Computational Model
+- [Computation](https://en.wikipedia.org/wiki/Computation): 4.3.2 Operations and Procedures, 10.2.2 Computational Model
 - [Computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory): 10.2.5 Computational Complexity Theory
 - [Computer](https://en.wikipedia.org/wiki/Computer): 10.2.1 Computer
 - [Computer hardware](https://en.wikipedia.org/wiki/Computer_hardware): 10.3.1 Computer hardware
@@ -359,12 +360,12 @@
 - [Evolutionary programming](https://en.wikipedia.org/wiki/Evolutionary_programming): 7.2.2 Typology by Model Construction Procedure
 - [Execution model](https://en.wikipedia.org/wiki/Execution_model): 10.3.2 Software
 - [Expected utility hypothesis](https://en.wikipedia.org/wiki/Expected_utility_hypothesis): 9.2.5 Expected Results, Conclusions, and Future Actions
-- [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning): 4.3.3 Operations and Procedures
+- [Experiential learning](https://en.wikipedia.org/wiki/Experiential_learning): 4.3.2 Operations and Procedures
 - [Experiment](https://en.wikipedia.org/wiki/Experiment): 6.2.4 Steps for Hypothesis Verification, 6.3 Design of Experimental Systems
 - [Expert system](https://en.wikipedia.org/wiki/Expert_system): 7.2.2 Typology by Model Construction Procedure, 10.4.1 Symbolic AI and Connectionism
 - [Explainable artificial intelligence](https://en.wikipedia.org/wiki/Explainable_artificial_intelligence): 7.4.2.1 Interpretability and Uncertainty, 10.4.2 Generative AI and Social Impact
 - [Explanation](https://en.wikipedia.org/wiki/Explanation): 8.4.5 Communication
-- [Explicit knowledge](https://en.wikipedia.org/wiki/Explicit_knowledge): 4.3.3 Operations and Procedures, 8.4.4 Inexpressible Things
+- [Explicit knowledge](https://en.wikipedia.org/wiki/Explicit_knowledge): 4.3.2 Operations and Procedures, 8.4.4 Inexpressible Things
 - [Exploratory data analysis](https://en.wikipedia.org/wiki/Exploratory_data_analysis): 7.3.1.1 Descriptive Statistics
 - [Exploratory research](https://en.wikipedia.org/wiki/Exploratory_research): 6.2.1 Scientific Method
 - [Exponentiation](https://en.wikipedia.org/wiki/Exponentiation): 3.5.2 Operation (mathematics) and Operator (physics)
@@ -759,9 +760,9 @@
 - [Probatio diabolica](https://en.wikipedia.org/wiki/Probatio_diabolica): 3.3.2.5 Limits of Provability
 - [Problem of induction](https://en.wikipedia.org/wiki/Problem_of_induction): 3.3.2.1 Basic Forms of Inference
 - [Problem solving](https://en.wikipedia.org/wiki/Problem_solving): 6.2.2 Empirical Research
-- [Procedural memory](https://en.wikipedia.org/wiki/Procedural_memory): 4.3.3 Operations and Procedures
+- [Procedural memory](https://en.wikipedia.org/wiki/Procedural_memory): 4.3.2 Operations and Procedures
 - [Procedural programming](https://en.wikipedia.org/wiki/Procedural_programming): 10.2.2 Computational Model
-- [Procedure](https://en.wikipedia.org/wiki/Procedure): 4.3.3 Operations and Procedures
+- [Procedure](https://en.wikipedia.org/wiki/Procedure): 4.3.2 Operations and Procedures
 - [Process](https://en.wikipedia.org/wiki/Process): 4.3 Process
 - [Process capability index](https://en.wikipedia.org/wiki/Process_capability_index): 6.5.2 Production management
 - [Process control](https://en.wikipedia.org/wiki/Process_control): 6.5.2 Production management
@@ -786,7 +787,7 @@
 - [Psychological manipulation](https://en.wikipedia.org/wiki/Psychological_manipulation): 4.3.1 Change in Events, 9.4.3 Bias, Fallacy, and Sophism
 - [Public-key cryptography](https://en.wikipedia.org/wiki/Public-key_cryptography): 10.3.3 Network and Security
 - [Publication bias](https://en.wikipedia.org/wiki/Publication_bias): 6.4.4.4 Data Evaluation and Preprocessing
-- [Purpose](https://en.wikipedia.org/wiki/Purpose): 4.3.3 Operations and Procedures, 9.2.4 Determining Priority
+- [Purpose](https://en.wikipedia.org/wiki/Purpose): 4.3.2 Operations and Procedures, 9.2.4 Determining Priority
 
 - [Quadratic programming](https://en.wikipedia.org/wiki/Quadratic_programming): 10.2.3 Algorithms
 - [Qualia](https://en.wikipedia.org/wiki/Qualia): 1.3.3 Consciousness, Cognition, and Emotion, 8.4.4 Inexpressible Things
@@ -820,7 +821,7 @@
 - [Randomized experiment](https://en.wikipedia.org/wiki/Randomized_experiment): 6.3.4 Search Space and Data Sampling Design
 - [Randomness](https://en.wikipedia.org/wiki/Randomness): 6.3.4 Search Space and Data Sampling Design
 - [Ranking](https://en.wikipedia.org/wiki/Ranking): 2.4.1 Structuring of Information
-- [Rate-determining step](https://en.wikipedia.org/wiki/Rate-determining_step): 4.3.3 Operations and Procedures
+- [Rate-determining step](https://en.wikipedia.org/wiki/Rate-determining_step): 4.3.2 Operations and Procedures
 - [Ratio](https://en.wikipedia.org/wiki/Ratio): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Rational choice theory](https://en.wikipedia.org/wiki/Rational_choice_theory): 5.6 Understanding and Operation of Systems, 8.3 Value
 - [Reaction rate](https://en.wikipedia.org/wiki/Reaction_rate): 4.3.1 Change in Events
@@ -954,10 +955,10 @@
 - [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)): 10.2.4 Data Structures and Databases
 - [Stakeholder (corporate)](https://en.wikipedia.org/wiki/Stakeholder_(corporate)): 9.2.2 Roles
 - [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation): 6.4.4.1 Observational error, 7.3.1.1 Descriptive Statistics
-- [Standard operating procedure](https://en.wikipedia.org/wiki/Standard_operating_procedure): 4.3.3 Operations and Procedures
+- [Standard operating procedure](https://en.wikipedia.org/wiki/Standard_operating_procedure): 4.3.2 Operations and Procedures
 - [Standardization](https://en.wikipedia.org/wiki/Standardization): 6.3.2 Qualitative, Quantitative, and Scale
 - [Standing on the shoulders of giants](https://en.wikipedia.org/wiki/Standing_on_the_shoulders_of_giants): 6.2.3 Foundation of Hypothesis Building
-- [State diagram](https://en.wikipedia.org/wiki/State_diagram): 4.3.3 Planning
+- [State diagram](https://en.wikipedia.org/wiki/State_diagram): 4.3.2 Operations and Procedures
 - [State-space representation](https://en.wikipedia.org/wiki/State-space_representation): 7.2.2 Typology by Model Construction Procedure
 - [Statistical classification](https://en.wikipedia.org/wiki/Statistical_classification): 7.3.1.3 Statistical Inference
 - [Statistical dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion): 6.4.4.1 Observational error
@@ -991,6 +992,7 @@
 - [Symbol](https://en.wikipedia.org/wiki/Symbol): 8.2 Meaning
 - [Symbol grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem): 8.2 Meaning, 10.2.5 Computational Complexity Theory, 10.4.1 Symbolic AI and Connectionism
 - [Symbolic artificial intelligence](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence): 10.4.1 Symbolic AI and Connectionism
+- [Synergy](https://en.wikipedia.org/wiki/Synergy): 5.5 Fluctuation and Evolution, 6.3.6 Confirming the Relationship between Factor (Group) A and Result (Group) B (Reference)
 - [System](https://en.wikipedia.org/wiki/System): 5.2 Structure of a System
 - [Systematic layout planning](https://en.wikipedia.org/wiki/Systematic_layout_planning): 6.5.2 Production management
 - [Systems engineering](https://en.wikipedia.org/wiki/Systems_engineering): 5.3 Analytical Approach
@@ -1000,7 +1002,7 @@
 - [Systems thinking](https://en.wikipedia.org/wiki/Systems_thinking): 5.3 Analytical Approach
 
 - [Table (information)](https://en.wikipedia.org/wiki/Table_(information)): 8.4.2 Expressive Techniques
-- [Tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge): 4.3.3 Operations and Procedures, 8.4.4 Inexpressible Things
+- [Tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge): 4.3.2 Operations and Procedures, 8.4.4 Inexpressible Things
 - [Tactical voting](https://en.wikipedia.org/wiki/Tactical_voting): 9.3.3 Methods of Decision/Settlement
 - [Tag (metadata)](https://en.wikipedia.org/wiki/Tag_(metadata)): 2.4.3 Bottom-Up Approach
 - [Technical debt](https://en.wikipedia.org/wiki/Technical_debt): 10.3.2 Software
@@ -1029,7 +1031,7 @@
 - [Threshold](https://en.wikipedia.org/wiki/Threshold_(disambiguation)): 4.3.1 Change in Events
 - [Time](https://en.wikipedia.org/wiki/Time): 6.3.3 Quantities (Reference)
 - [Time series](https://en.wikipedia.org/wiki/Time_series): 4.2.2 Analytical Causality, 7.3.1.3 Statistical Inference
-- [Tool](https://en.wikipedia.org/wiki/Tool): 4.3.3 Operations and Procedures
+- [Tool](https://en.wikipedia.org/wiki/Tool): 4.3.2 Operations and Procedures
 - [Top-down and bottom-up design](https://en.wikipedia.org/wiki/Top-down_and_bottom-up_design): 2.4.1 Understanding through Structuring, 2.4.2 Top-Down Approach
 - [Topological space](https://en.wikipedia.org/wiki/Topological_space): 3.4.5 Areas of mathematics (Reference)
 - [Topology](https://en.wikipedia.org/wiki/Topology): 3.4.5 Areas of mathematics (Reference)
@@ -1058,7 +1060,7 @@
 - [Understanding](https://en.wikipedia.org/wiki/Understanding): 9.3.1 Decision Making
 - [Uniformitarianism](https://en.wikipedia.org/wiki/Uniformitarianism): 6.2.1 Scientific Method
 - [Unit of measurement](https://en.wikipedia.org/wiki/Unit_of_measurement): 6.3.3 Quantities (Reference)
-- [Unit operation](https://en.wikipedia.org/wiki/Unit_operation): 4.3.3 Operations and Procedures
+- [Unit operation](https://en.wikipedia.org/wiki/Unit_operation): 4.3.2 Operations and Procedures
 - [Units of measurement](https://en.wikipedia.org/wiki/Units_of_measurement): 6.3.3 Quantities (Reference)
 - [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning): 7.2.2 Typology by Model Construction Procedure, 7.3.3 Machine Learning and Deep Learning
 - [Usability](https://en.wikipedia.org/wiki/Usability): 8.3 Value

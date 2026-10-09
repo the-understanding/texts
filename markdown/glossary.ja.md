@@ -51,7 +51,7 @@
 
 - [アクセシビリティ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B7%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3)：2.3.1 全体観・情報へのアクセス性
 - [アジェンダ](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%80)：9.2.3 情報共有・判断の枠組み
-- [アジャイルソフトウェア開発](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)：4.3.2 計画, 6.5.1 開発
+- [アジャイルソフトウェア開発](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)：4.3.3 計画, 6.5.1 開発
 - [アテンション \(機械学習\)](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%B3_(%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92))：1.3.2 認識, 7.3.3 機械学習と深層学習
 - [アトラクター](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%88%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC)：5.5 変動・発展
 - [アナムネーシス \(哲学\)](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%8A%E3%83%A0%E3%83%8D%E3%83%BC%E3%82%B7%E3%82%B9_(%E5%93%B2%E5%AD%A6))：1.2.3.3 読み起こし・想起
@@ -79,7 +79,7 @@
 - [インフォーマル・グループ](https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%AB%E3%83%BB%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%97)：5.2 システムの構成
 
 - [ウェルビーイング](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%AB%E3%83%93%E3%83%BC%E3%82%A4%E3%83%B3%E3%82%B0)：8.3 価値
-- [ウォーターフォール・モデル](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AB)：4.3.2 計画, 6.5.1 開発
+- [ウォーターフォール・モデル](https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A2%E3%83%87%E3%83%AB)：4.3.3 計画, 6.5.1 開発
 
 - [エキスパートシステム](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AD%E3%82%B9%E3%83%91%E3%83%BC%E3%83%88%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：7.2.2 モデルの構築手順による類型, 10.4.1 記号主義・コネクショニズム
 - [エチケット](https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%B1%E3%83%83%E3%83%88)：8.4.5 コミュニケーション
@@ -140,7 +140,7 @@
 - [コミュニケーション](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)：8.4.5 コミュニケーション
 - [コモンズの悲劇](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A2%E3%83%B3%E3%82%BA%E3%81%AE%E6%82%B2%E5%8A%87)：5.6 システムの理解と運用
 - [コルモゴロフ複雑性](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AB%E3%83%A2%E3%82%B4%E3%83%AD%E3%83%95%E8%A4%87%E9%9B%91%E6%80%A7)：1.2.3.2 情報
-- [コンティンジェンシープラン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3)：4.3.2 計画
+- [コンティンジェンシープラン](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%B3%E3%82%B7%E3%83%BC%E3%83%97%E3%83%A9%E3%83%B3)：4.3.3 計画
 - [コンテクスト](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%82%AF%E3%82%B9%E3%83%88)：1.4 概念, 8.2 意味
 - [コンテンツフィルタリング](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84%E3%83%95%E3%82%A3%E3%83%AB%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0)：1.2.2.3 伝達効率
 - [コンパイラ](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%83%91%E3%82%A4%E3%83%A9)：10.3.2 ソフトウェア
@@ -179,7 +179,7 @@
 
 - [スキーマ](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E)：1.4 概念, 8.2 意味
 - [スキーマ \(データベース\)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9E_(%E3%83%87%E3%83%BC%E3%82%BF%E3%83%99%E3%83%BC%E3%82%B9))：10.2.4 データ構造・データベース
-- [スケジュール](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB)：4.3.2 計画
+- [スケジュール](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB)：4.3.3 計画
 - [スケジュール \(プロジェクト管理\)](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%B1%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB_(%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%AE%A1%E7%90%86))：9.2.5 期待される結果・結論と将来の対応
 - [スタック](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF)：10.2.4 データ構造・データベース
 - [ステークホルダー](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AF%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC)：9.2.2 役割
@@ -210,7 +210,7 @@
 - [チャンク](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%B3%E3%82%AF)：1.3.2 認識
 - [チューリングマシン](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E3%83%9E%E3%82%B7%E3%83%B3)：3.2.2 論理学, 10.2.2 計算モデル
 - [チェリー・ピッキング](https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%94%E3%83%83%E3%82%AD%E3%83%B3%E3%82%B0)：9.4.3 バイアス・誤謬・詭弁
-- [チョークポイント](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)：4.3.3 操作・手順
+- [チョークポイント](https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%83%BC%E3%82%AF%E3%83%9D%E3%82%A4%E3%83%B3%E3%83%88)：4.3.2 操作・手順
 
 - [ツェルメロ＝フレンケル集合論](https://ja.wikipedia.org/wiki/%E3%83%84%E3%82%A7%E3%83%AB%E3%83%A1%E3%83%AD%EF%BC%9D%E3%83%95%E3%83%AC%E3%83%B3%E3%82%B1%E3%83%AB%E9%9B%86%E5%90%88%E8%AB%96)：3.4.3.1 集合
 
@@ -349,7 +349,7 @@
 - [ホーア論理](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%82%A2%E8%AB%96%E7%90%86)：3.3.2.6 論理学の関連分野（参考）
 - [ホーリズム](https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%BC%E3%83%AA%E3%82%BA%E3%83%A0)：5.3 分析アプローチ
 - [ボトムアップ手法](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%88%E3%83%A0%E3%82%A2%E3%83%83%E3%83%97%E6%89%8B%E6%B3%95)：2.4.3. ボトムアップ型
-- [ボトルネック](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%88%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF)：4.3.3 操作・手順
+- [ボトルネック](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%88%E3%83%AB%E3%83%8D%E3%83%83%E3%82%AF)：4.3.2 操作・手順
 - [ボランティア](https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%A9%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2)：8.3 価値
 - [ポジティブフィードバック](https://ja.wikipedia.org/wiki/%E6%AD%A3%E3%81%AE%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF)：5.4 秩序・安定
 - [ポスト構造主義](https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E6%A7%8B%E9%80%A0%E4%B8%BB%E7%BE%A9)：2.4.1 構造化による理解
@@ -406,9 +406,9 @@
 
 - [リアプノフ安定](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%83%97%E3%83%8E%E3%83%95%E5%AE%89%E5%AE%9A)：5.5 変動・発展
 - [リーン生産方式](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%BC%E3%83%B3%E7%94%9F%E7%94%A3%E6%96%B9%E5%BC%8F)：6.5.2 生産管理
-- [リスクマネジメント](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%AF%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88)：4.3.2 計画
+- [リスクマネジメント](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%AF%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88)：4.3.3 計画
 - [リスト](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%83%E3%82%AF)：10.2.4 データ構造・データベース
-- [リソース](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9)：4.3.2 計画
+- [リソース](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9)：4.3.3 計画
 - [リソース \(プロジェクト管理\)](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%BD%E3%83%BC%E3%82%B9_(%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E7%AE%A1%E7%90%86))：9.2.5 期待される結果・結論と将来の対応
 - [リスクアセスメント](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%B9%E3%82%AF%E3%82%A2%E3%82%BB%E3%82%B9%E3%83%A1%E3%83%B3%E3%83%88)：6.5.2 生産管理, 9.2.5 期待される結果・結論と将来の対応
 - [リッカート尺度](https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%83%E3%82%AB%E3%83%BC%E3%83%88%E5%B0%BA%E5%BA%A6)：6.3.2 定性・定量・尺度
@@ -430,7 +430,7 @@
 - [ロバストネス (情報工学)](https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%90%E3%82%B9%E3%83%88%E3%83%8D%E3%82%B9_(%E6%83%85%E5%A0%B1%E5%B7%A5%E5%AD%A6))：5.4 秩序・安定
 
 - [ワーキングメモリ](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AD%E3%83%B3%E3%82%B0%E3%83%A1%E3%83%A2%E3%83%AA)：1.3.2 認識
-- [ワークフロー](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AD%E3%83%BC)：4.3.2 計画
+- [ワークフロー](https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%95%E3%83%AD%E3%83%BC)：4.3.3 計画
 
 
 - [愛着](https://ja.wikipedia.org/wiki/%E6%84%9B%E7%9D%80)：8.3 価値
@@ -443,7 +443,7 @@
 - [安定性理論](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%AE%9A%E6%80%A7%E7%90%86%E8%AB%96)：5.5 変動・発展
 - [暗号](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7)：10.3.3 ネットワーク・セキュリティ
 - [暗号理論](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）, 10.2.5 計算複雑性理論
-- [暗黙知](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%99%E7%9F%A5)：4.3.3 操作・手順, 8.4.4 表現しきれないもの
+- [暗黙知](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%99%E7%9F%A5)：4.3.2 操作・手順, 8.4.4 表現しきれないもの
 
 - [意識のハード・プロブレム](https://ja.wikipedia.org/wiki/%E6%84%8F%E8%AD%98%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%83%BB%E3%83%97%E3%83%AD%E3%83%96%E3%83%AC%E3%83%A0)：1.3.3 意識・認知・心情（気持ち）
 - [位相幾何学](https://ja.wikipedia.org/wiki/%E4%BD%8D%E7%9B%B8%E5%B9%BE%E4%BD%95%E5%AD%A6)：3.4.5 数学の諸分野（参考）
@@ -665,13 +665,13 @@
 
 - [系](https://ja.wikipedia.org/wiki/%E7%B3%BB)：6.3.1 系・因子・結果
 - [系 \(数学\)](https://ja.wikipedia.org/wiki/%E7%B3%BB_(%E6%95%B0%E5%AD%A6))：3.4.1.1 形式体系
-- [経験](https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93)：4.3.3 操作・手順
-- [経験学習](https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93%E5%AD%A6%E7%BF%92)：4.3.3 操作・手順
+- [経験](https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93)：4.3.2 操作・手順
+- [経験学習](https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93%E5%AD%A6%E7%BF%92)：4.3.2 操作・手順
 - [経験則](https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93%E5%89%87)：6.2.3 仮説構築の基盤, 9.2.4 優先順位の決定
 - [経験的関係](https://ja.wikipedia.org/wiki/%E7%B5%8C%E9%A8%93%E7%9A%84%E9%96%A2%E4%BF%82)：6.2.3 仮説構築の基盤
 - [傾向スコア・マッチング](https://ja.wikipedia.org/wiki/%E5%82%BE%E5%90%91%E3%82%B9%E3%82%B3%E3%82%A2%E3%83%BB%E3%83%9E%E3%83%83%E3%83%81%E3%83%B3%E3%82%B0)：7.3.2 因果推論
 - [経済](https://ja.wikipedia.org/wiki/%E7%B5%8C%E6%B8%88)：5.2 システムの構成, 8.3 価値
-- [計算](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97)：4.3.3 操作・手順, 10.2.2 計算モデル
+- [計算](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97)：4.3.2 操作・手順, 10.2.2 計算モデル
 - [計算可能性理論](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E5%8F%AF%E8%83%BD%E6%80%A7%E7%90%86%E8%AB%96)：3.2.2 論理学
 - [計算複雑性理論](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E8%A4%87%E9%9B%91%E6%80%A7%E7%90%86%E8%AB%96)：10.2.5 計算複雑性理論
 - [計算理論](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E7%90%86%E8%AB%96)：3.3.2.6 論理学の関連分野（参考）, 10.2 計算理論
@@ -680,7 +680,7 @@
 - [形式科学](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%A7%91%E5%AD%A6)：6.2.1 科学的方法
 - [形式言語](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E8%A8%80%E8%AA%9E)：10.2.2 計算モデル
 - [形式体系](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E4%BD%93%E7%B3%BB)：3.2.2 論理学, 3.4.1.1 形式体系, 5.2 システムの構成, 6.2.3 仮説構築の基盤
-- [形式知](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%9F%A5)：4.3.3 操作・手順, 8.4.4 表現しきれないもの
+- [形式知](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%9F%A5)：4.3.2 操作・手順, 8.4.4 表現しきれないもの
 - [形式的検証](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E7%9A%84%E6%A4%9C%E8%A8%BC)：6.2.3 仮説構築の基盤
 - [形式文法](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E6%96%87%E6%B3%95)：10.2.2 計算モデル
 - [形式論理学](https://ja.wikipedia.org/wiki/%E5%BD%A2%E5%BC%8F%E8%AB%96%E7%90%86%E5%AD%A6)：3.2.2 論理学
@@ -908,11 +908,11 @@
 - [準同型](https://ja.wikipedia.org/wiki/%E6%BA%96%E5%90%8C%E5%9E%8B)：3.4.3.3 写像
 - [準ニュートン法](https://ja.wikipedia.org/wiki/%E6%BA%96%E3%83%8B%E3%83%A5%E3%83%BC%E3%83%88%E3%83%B3%E6%B3%95)：10.2.3 アルゴリズム
 - [順応](https://ja.wikipedia.org/wiki/%E9%A0%86%E5%BF%9C)：5.4 秩序・安定
-- [準備](https://ja.wiktionary.org/wiki/%E6%BA%96%E5%82%99)：4.3.2 計画
+- [準備](https://ja.wiktionary.org/wiki/%E6%BA%96%E5%82%99)：4.3.3 計画
 - [状態空間 \(制御理論\)](https://ja.wikipedia.org/wiki/%E7%8A%B6%E6%85%8B%E7%A9%BA%E9%96%93_(%E5%88%B6%E5%BE%A1%E7%90%86%E8%AB%96))：7.2.2 モデルの構築手順による類型
-- [状態遷移図](https://ja.wikipedia.org/wiki/%E7%8A%B6%E6%85%8B%E9%81%B7%E7%A7%BB%E5%9B%B3)：4.3.2 計画
+- [状態遷移図](https://ja.wikipedia.org/wiki/%E7%8A%B6%E6%85%8B%E9%81%B7%E7%A7%BB%E5%9B%B3)：4.3.3 計画
 - [冗長化](https://ja.wikipedia.org/wiki/%E5%86%97%E9%95%B7%E5%8C%96)：1.2.3.1 データの記録・保存
-- [冗長性](https://ja.wikipedia.org/wiki/%E5%86%97%E9%95%B7%E6%80%A7)：4.3.2 計画, 5.4 秩序・安定
+- [冗長性](https://ja.wikipedia.org/wiki/%E5%86%97%E9%95%B7%E6%80%A7)：4.3.3 計画, 5.4 秩序・安定
 - [焦点 \(言語学\)](https://ja.wikipedia.org/wiki/%E7%84%A6%E7%82%B9_(%E8%A8%80%E8%AA%9E%E5%AD%A6))：8.4.1  対象からの情報抽出とまとまり
 - [情動](https://ja.wikipedia.org/wiki/%E6%83%85%E5%8B%95)：1.3.3 意識・認知・心情（気持ち）
 - [常微分方程式](https://ja.wikipedia.org/wiki/%E5%B8%B8%E5%BE%AE%E5%88%86%E6%96%B9%E7%A8%8B%E5%BC%8F)：3.4.5 数学の諸分野（参考）
@@ -927,7 +927,7 @@
 - [情報学](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%AD%A6)：5.3 分析アプローチ
 - [情報幾何学](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E5%B9%BE%E4%BD%95%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [情報検索](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%A4%9C%E7%B4%A2)：1.2.3.3 読み起こし・想起
-- [情報操作](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%93%8D%E4%BD%9C)：4.3.3 操作・手順
+- [情報操作](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%93%8D%E4%BD%9C)：4.3.2 操作・手順
 - [情報量](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E9%87%8F)：1.2.2.3 伝達効率、1.2.3.2 情報, 4.2.1 現象論的因果性
 - [証明](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E)：3.3.2.2 論証の形式
 - [証明 \(数学\)](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E_(%E6%95%B0%E5%AD%A6)：3.4.2 証明 \(数学\))
@@ -951,7 +951,7 @@
 - [振動](https://ja.wikipedia.org/wiki/%E6%8C%AF%E5%8B%95)：5.4 秩序・安定
 - [心身問題](https://ja.wikipedia.org/wiki/%E5%BF%83%E8%BA%AB%E5%95%8F%E9%A1%8C)：1.3.3 意識・認知・心情（気持ち）
 - [身体化された認知](https://ja.wikipedia.org/wiki/%E8%BA%AB%E4%BD%93%E5%8C%96%E3%81%95%E3%82%8C%E3%81%9F%E8%AA%8D%E7%9F%A5)：1.3.2 認識
-- [身体的記憶](https://ja.wikipedia.org/wiki/%E6%89%8B%E7%B6%9A%E3%81%8D%E8%A8%98%E6%86%B6)：4.3.3 操作・手順
+- [身体的記憶](https://ja.wikipedia.org/wiki/%E6%89%8B%E7%B6%9A%E3%81%8D%E8%A8%98%E6%86%B6)：4.3.2 操作・手順
 - [人道援助](https://ja.wikipedia.org/wiki/%E4%BA%BA%E9%81%93%E6%8F%B4%E5%8A%A9)：8.3 価値
 - [深部感覚](https://ja.wikipedia.org/wiki/%E6%B7%B1%E9%83%A8%E6%84%9F%E8%A6%9A)：1.3.1 知覚
 - [進歩性](https://ja.wikipedia.org/wiki/%E9%80%B2%E6%AD%A9%E6%80%A7)：8.3 価値
@@ -1049,10 +1049,11 @@
 - [相空間](https://ja.wikipedia.org/wiki/%E7%9B%B8%E7%A9%BA%E9%96%93)：5.2 システムの構成
 - [相互作用](https://ja.wikipedia.org/wiki/%E7%9B%B8%E4%BA%92%E4%BD%9C%E7%94%A8)：5.2 システムの構成, 6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）
 - [相互情報量](https://ja.wikipedia.org/wiki/%E7%9B%B8%E4%BA%92%E6%83%85%E5%A0%B1%E9%87%8F)：1.2.3.2 情報
-- [相乗効果](https://ja.wikipedia.org/wiki/%E7%9B%B8%E4%B9%97%E5%8A%B9%E6%9E%9C)：6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）
+- [相乗効果](https://ja.wikipedia.org/wiki/%E7%9B%B8%E4%B9%97%E5%8A%B9%E6%9E%9C)：5.5 変動・発展、6.3.6 結果（群）Bに対する因子（群）Aの同定（参考）
 - [双対](https://ja.wikipedia.org/wiki/%E5%8F%8C%E5%AF%BE)：3.5.2 演算・作用素 \(関数解析学\))
 - [相転移](https://ja.wikipedia.org/wiki/%E7%9B%B8%E8%BB%A2%E7%A7%BB)：4.3.1 事象の変化, 5.5 変動・発展, 7.5 数理モデルの応用分野例（参考）
 - [創発](https://ja.wikipedia.org/wiki/%E5%89%B5%E7%99%BA)：5.5 変動・発展
+- [増幅](https://ja.wikipedia.org/wiki/%E5%A2%97%E5%B9%85)：5.5 変動・発展
 - [組織 \(社会科学\)](https://ja.wikipedia.org/wiki/%E7%B5%84%E7%B9%94_(%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6))：5.2 システムの構成
 - [素数](https://ja.wikipedia.org/wiki/%E7%B4%A0%E6%95%B0)：3.5.1 数
 - [測定](https://ja.wikipedia.org/wiki/%E6%B8%AC%E5%AE%9A)：6.4 測定・分析の管理
@@ -1100,7 +1101,7 @@
 - [探索的データ解析](https://ja.wikipedia.org/wiki/%E6%8E%A2%E7%B4%A2%E7%9A%84%E3%83%87%E3%83%BC%E3%82%BF%E8%A7%A3%E6%9E%90)：7.3.1.1 記述統計
 - [単射](https://ja.wikipedia.org/wiki/%E5%8D%98%E5%B0%84)：3.4.3.3 写像
 - [単集合](https://ja.wikipedia.org/wiki/%E5%8D%98%E9%9B%86%E5%90%88)：3.2.1 集合
-- [単位操作](https://ja.wikipedia.org/wiki/%E5%8D%98%E4%BD%8D%E6%93%8D%E4%BD%9C)：4.3.3 操作・手順
+- [単位操作](https://ja.wikipedia.org/wiki/%E5%8D%98%E4%BD%8D%E6%93%8D%E4%BD%9C)：4.3.2 操作・手順
 
 - [値域](https://ja.wikipedia.org/wiki/%E5%80%A4%E5%9F%9F)：3.4.3.3 写像
 - [知覚](https://ja.wikipedia.org/wiki/%E7%9F%A5%E8%A6%9A)：1.3.1 知覚
@@ -1134,8 +1135,8 @@
 - [定量的研究](https://ja.wikipedia.org/wiki/%E5%AE%9A%E9%87%8F%E7%9A%84%E7%A0%94%E7%A9%B6)：6.2.2 実証研究, 7.2.1 数理モデルの分類軸
 - [定量分析](https://ja.wikipedia.org/wiki/%E5%AE%9A%E9%87%8F%E5%88%86%E6%9E%90)：6.3.2 定性・定量・尺度
 - [適応 \(生物学\)](https://ja.wikipedia.org/wiki/%E9%81%A9%E5%BF%9C_(%E7%94%9F%E7%89%A9%E5%AD%A6))：5.4 秩序・安定
-- [手順](https://ja.wikipedia.org/wiki/%E6%89%8B%E9%A0%86)：4.3.3 操作・手順
-- [手順書](https://ja.wikipedia.org/wiki/%E6%89%8B%E9%A0%86%E6%9B%B8)：4.3.3 操作・手順
+- [手順](https://ja.wikipedia.org/wiki/%E6%89%8B%E9%A0%86)：4.3.2 操作・手順
+- [手順書](https://ja.wikipedia.org/wiki/%E6%89%8B%E9%A0%86%E6%9B%B8)：4.3.2 操作・手順
 - [手続き型プログラミング](https://ja.wikipedia.org/wiki/%E6%89%8B%E7%B6%9A%E3%81%8D%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)：10.2.2 計算モデル
 - [転移学習](https://ja.wikipedia.org/wiki/%E8%BB%A2%E7%A7%BB%E5%AD%A6%E7%BF%92)：7.4.3 モデルの改善・更新
 - [点推定](https://ja.wikipedia.org/wiki/%E7%82%B9%E6%8E%A8%E5%AE%9A)：7.3.1.3 推計統計学
@@ -1147,7 +1148,7 @@
 
 - [投票の逆理](https://ja.wikipedia.org/wiki/%E6%8A%95%E7%A5%A8%E3%81%AE%E9%80%86%E7%90%86)：9.4.2 意思決定プロセスが含み持つ問題
 - [等価交換](https://ja.wikipedia.org/wiki/%E7%AD%89%E4%BE%A1%E4%BA%A4%E6%8F%9B)：8.3 価値
-- [道具](https://ja.wikipedia.org/wiki/%E9%81%93%E5%85%B7)：4.3.3 操作・手順
+- [道具](https://ja.wikipedia.org/wiki/%E9%81%93%E5%85%B7)：4.3.2 操作・手順
 - [統計学](https://ja.wikipedia.org/wiki/%E7%B5%B1%E8%A8%88%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [統計学および機械学習の評価指標](https://ja.wikipedia.org/wiki/%E7%B5%B1%E8%A8%88%E5%AD%A6%E3%81%8A%E3%82%88%E3%81%B3%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%81%AE%E8%A9%95%E4%BE%A1%E6%8C%87%E6%A8%99)：7.4.1.1 評価の方法論
 - [統計的因果推論](https://ja.wikipedia.org/wiki/%E7%B5%B1%E8%A8%88%E7%9A%84%E5%9B%A0%E6%9E%9C%E6%8E%A8%E8%AB%96)：4.2.2 分析的因果性, 7.3.2 因果推論
@@ -1372,7 +1373,7 @@
 - [命題論理](https://ja.wikipedia.org/wiki/%E5%91%BD%E9%A1%8C%E8%AB%96%E7%90%86)：3.2.2 論理学
 - [命令型プログラミング](https://ja.wikipedia.org/wiki/%E5%91%BD%E4%BB%A4%E5%9E%8B%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)：10.2.2 計算モデル
 
-- [目的](https://ja.wikipedia.org/wiki/%E7%9B%AE%E7%9A%84)：4.3.3 操作・手順, 9.2.4 優先順位の決定
+- [目的](https://ja.wikipedia.org/wiki/%E7%9B%AE%E7%9A%84)：4.3.2 操作・手順, 9.2.4 優先順位の決定
 - [物](https://ja.wikipedia.org/wiki/%E7%89%A9)：1.4 概念
 - [物語](https://ja.wikipedia.org/wiki/%E7%89%A9%E8%AA%9E)：8.3 価値
 - [問題解決](https://ja.wikipedia.org/wiki/%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA)：6.2.2 実証研究
@@ -1410,7 +1411,7 @@
 - [離散数学](https://ja.wikipedia.org/wiki/%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6)：3.4.5 数学の諸分野（参考）, 7.5 数理モデルの応用分野例（参考）
 - [利子](https://ja.wikipedia.org/wiki/%E5%88%A9%E5%AD%90)：8.3 価値
 - [理想](https://ja.wikipedia.org/wiki/%E7%90%86%E6%83%B3)：9.2.4 優先順位の決定
-- [律速段階](https://ja.wikipedia.org/wiki/%E5%BE%8B%E9%80%9F%E6%AE%B5%E9%9A%8E)：4.3.3 操作・手順
+- [律速段階](https://ja.wikipedia.org/wiki/%E5%BE%8B%E9%80%9F%E6%AE%B5%E9%9A%8E)：4.3.2 操作・手順
 - [流行](https://ja.wikipedia.org/wiki/%E6%B5%81%E8%A1%8C)：8.3 価値
 - [流体力学](https://ja.wikipedia.org/wiki/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6)：5.5 変動・発展
 - [流体力学の無次元数一覧](https://ja.wikipedia.org/wiki/%E6%B5%81%E4%BD%93%E5%8A%9B%E5%AD%A6%E3%81%AE%E7%84%A1%E6%AC%A1%E5%85%83%E6%95%B0%E4%B8%80%E8%A6%A7)：5.5 変動・発展
