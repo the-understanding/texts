@@ -531,7 +531,7 @@
 - [確率論](https://ja.wikipedia.org/wiki/%E7%A2%BA%E7%8E%87%E8%AB%96)：3.4.5 数学の諸分野（参考）, 7.3.1.2 確率過程
 - [重ね合わせの原理](https://ja.wikipedia.org/wiki/%E9%87%8D%E3%81%AD%E5%90%88%E3%82%8F%E3%81%9B%E3%81%AE%E5%8E%9F%E7%90%86)：10.3.4.1 量子コンピューティング
 - [可算集合](https://ja.wikipedia.org/wiki/%E5%8F%AF%E7%AE%97%E9%9B%86%E5%90%88)：3.4.3.1 集合
-- [過剰適合](https://ja.wikipedia.org/wiki/%E9%81%8E%E5%89%B0%E9%81%A9%E5%90%88)：7.4.1.5 モデル選択・複雑性
+- [過剰適合](https://ja.wikipedia.org/wiki/%E9%81%8E%E5%89%B0%E9%81%A9%E5%90%88)：7.4.1.2 予測誤差の指標, 7.4.1.5 モデル選択・複雑性
 - [数](https://ja.wikipedia.org/wiki/%E6%95%B0)：3.5.1 数
 - [数の暴力](https://ja.wikipedia.org/wiki/%E6%95%B0%E3%81%AE%E6%9A%B4%E5%8A%9B)：9.4.1 意見の違い
 - [仮設 \(数学\)](https://ja.wikipedia.org/wiki/%E4%BB%AE%E8%A8%AD_(%E6%95%B0%E5%AD%A6))：3.4.2.1 数学基礎論

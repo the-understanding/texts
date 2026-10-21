@@ -700,7 +700,7 @@
 - [Oscillation](https://en.wikipedia.org/wiki/Oscillation): 5.4 Order and Stability
 - [Outlier](https://en.wikipedia.org/wiki/Outlier): 6.4.4.1 Observational error, 6.4.4.4 Data Evaluation and Preprocessing
 - [Output device](https://en.wikipedia.org/wiki/Output_device): 10.3.1 Computer hardware
-- [Overfitting](https://en.wikipedia.org/wiki/Overfitting): 7.4.1.5 Model Selection and Complexity
+- [Overfitting](https://en.wikipedia.org/wiki/Overfitting): 7.4.1.2 Indicators of Prediction Error, 7.4.1.5 Model Selection and Complexity
 
 - [P-hacking](https://en.wikipedia.org/wiki/P-hacking): 7.4.2.2 Bias and Distortion
 - [p-value](https://en.wikipedia.org/wiki/P-value): 7.3.1.3 Statistical Inference
