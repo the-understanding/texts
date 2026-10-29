@@ -21,6 +21,7 @@
 - [Graph database](https://en.wikipedia.org/wiki/Graph_database)：10.2.4 データ構造・データベース
 - [HARKing](https://ja.wikipedia.org/wiki/HARKing)：7.4.2.2 バイアスと歪み
 - [IMRAD](https://ja.wikipedia.org/wiki/IMRAD)：8.4.2 表現技法
+- [Lattice](https://ja.wikipedia.org/wiki/Lattice)：5.4 秩序・安定
 - [Transformer \(機械学習モデル\)](https://ja.wikipedia.org/wiki/Transformer_(%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92%E3%83%A2%E3%83%87%E3%83%AB))：7.3.3 機械学習と深層学習
 - [Lean \(証明アシスタント\)](https://ja.wikipedia.org/wiki/Lean_(%E8%A8%BC%E6%98%8E%E3%82%A2%E3%82%B7%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%88))：3.4.2.3 形式証明
 - [Learning rate](https://en.wikipedia.org/wiki/Learning_rate)：7.4.2.3 モデルの学習・評価
@@ -120,9 +121,10 @@
 - [クオリティ・バイ・デザイン](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%AA%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BB%E3%83%90%E3%82%A4%E3%83%BB%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3)：6.3.4 探索空間・データサンプリングの設計, 6.5.3 品質管理
 - [クラウドコンピューティング](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%A6%E3%83%89%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)：10.3.3 ネットワーク・セキュリティ
 - [グラウンデッド・セオリー](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%82%A6%E3%83%B3%E3%83%87%E3%83%83%E3%83%89%E3%83%BB%E3%82%BB%E3%82%AA%E3%83%AA%E3%83%BC)：6.2.2 実証研究
-- [グラフ](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95)：8.4.2 表現技法
+- [グラフ](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95)：5.4 秩序・安定、8.4.2 表現技法
 - [グラフ \(離散数学\)](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95_(%E9%9B%A2%E6%95%A3%E6%95%B0%E5%AD%A6))：2.4.4 関係性の構造
-- [グラフ理論](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）
+- [Category:グラフ不変量](https://ja.wikipedia.org/wiki/Category:%E3%82%B0%E3%83%A9%E3%83%95%E4%B8%8D%E5%A4%89%E9%87%8F)：5.4 秩序・安定
+- [グラフ理論](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%A9%E3%83%95%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）、5.3 分析アプローチ
 - [クラス \(集合論\)](https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%A9%E3%82%B9_(%E9%9B%86%E5%90%88%E8%AB%96))：3.2.1 集合
 - [グレシャムの法則](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%82%B7%E3%83%A3%E3%83%A0%E3%81%AE%E6%B3%95%E5%89%87)：8.3 価値
 - [グレンジャー因果性](https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC%E5%9B%A0%E6%9E%9C%E6%80%A7)：7.3.1.3 推計統計学, 7.3.2 因果推論
@@ -189,6 +191,7 @@
 - [スワップ取引](https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%83%83%E3%83%97%E5%8F%96%E5%BC%95)：8.3 価値
 
 - [セマンティック・ウェブ](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%9E%E3%83%B3%E3%83%86%E3%82%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%A6%E3%82%A7%E3%83%96)：2.4.1 構造化による理解
+- [セミラティス](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%9F%E3%83%A9%E3%83%86%E3%82%A3%E3%82%B9)：5.4 秩序・安定
 - [セレンディピティ](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AC%E3%83%B3%E3%83%87%E3%82%A3%E3%83%94%E3%83%86%E3%82%A3)：6.2.3 仮説構築の基盤
 - [センシング](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%82%B5)：1.2.2.4 観測
 - [センスメイキング](https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%82%B9%E3%83%A1%E3%82%A4%E3%82%AD%E3%83%B3%E3%82%B0)：8.2 意味
@@ -257,6 +260,7 @@
 
 - [ネガティブフィードバック](https://ja.wikipedia.org/wiki/%E8%B2%A0%E3%81%AE%E3%83%95%E3%82%A3%E3%83%BC%E3%83%89%E3%83%90%E3%83%83%E3%82%AF)：5.4 秩序・安定
 - [ネゲントロピー](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%B2%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC)：5.5 変動・発展
+- [ネットワーク・トポロジー](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%88%E3%83%9D%E3%83%AD%E3%82%B8%E3%83%BC)：5.4 秩序・安定
 - [ネットワーク理論](https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF%E7%90%86%E8%AB%96)：5.3 分析アプローチ
 
 - [ノイズ](https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%A4%E3%82%BA)：1.2.2.3 伝達効率, 6.4.4.1 誤差
@@ -589,7 +593,7 @@
 - [基底 \(線型代数学\)](https://ja.wikipedia.org/wiki/%E5%9F%BA%E5%BA%95_(%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6))：3.4.5 数学の諸分野（参考）
 - [希少性](https://ja.wikipedia.org/wiki/%E5%B8%8C%E5%B0%91%E6%80%A7)：8.3 価値
 - [幾何学](https://ja.wikipedia.org/wiki/%E5%B9%BE%E4%BD%95%E5%AD%A6)：3.4.5 数学の諸分野（参考）
-- [木構造 \(データ構造\)](https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%A7%8B%E9%80%A0_(%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0))：2.4.4 関係性の構造, 10.2.4 データ構造・データベース
+- [木構造 \(データ構造\)](https://ja.wikipedia.org/wiki/%E6%9C%A8%E6%A7%8B%E9%80%A0_(%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0))：2.4.4 関係性の構造、5.4 秩序・安定、10.2.4 データ構造・データベース
 - [機械学習](https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)：7.2.2 モデルの構築手順による類型, 7.3.3 機械学習と深層学習, 7.4.3 モデルの改善・更新, 10.4.2 生成AIと社会的影響
 - [期待効用](https://ja.wikipedia.org/wiki/%E6%9C%9F%E5%BE%85%E5%8A%B9%E7%94%A8)：9.2.5 期待される結果・結論と将来の対応
 - [機能](https://ja.wikipedia.org/wiki/%E6%A9%9F%E8%83%BD)：2.3.2 評価指標
@@ -795,7 +799,7 @@
 - [作用 \(物理学\)](https://ja.wikipedia.org/wiki/%E4%BD%9C%E7%94%A8_(%E7%89%A9%E7%90%86%E5%AD%A6))：4.2.1 現象論的因果性
 - [作用素 \(関数解析学\)](https://ja.wikipedia.org/wiki/%E4%BD%9C%E7%94%A8%E7%B4%A0_(%E9%96%A2%E6%95%B0%E8%A7%A3%E6%9E%90%E5%AD%A6)：3.5.2 演算・作用素 \(関数解析学\))
 - [作用・反作用](https://ja.wikipedia.org/wiki/%E9%81%8B%E5%8B%95%E3%81%AE%E7%AC%AC3%E6%B3%95%E5%89%87)：1.2.2.1 観測対象と媒体の相互作用
-- [散逸構造](https://ja.wikipedia.org/wiki/%E6%95%A3%E9%80%B8%E6%A7%8B%E9%80%A0)：5.5 変動・発展
+- [散逸構造](https://ja.wikipedia.org/wiki/%E6%95%A3%E9%80%B8%E6%A7%8B%E9%80%A0)：5.2 システムの構成、5.5 変動・発展
 - [算術](https://ja.wikipedia.org/wiki/%E7%AE%97%E8%A1%93)：3.4.4.1 演算 \(数学\))
 - [算術の基本定理](https://ja.wikipedia.org/wiki/%E7%AE%97%E8%A1%93%E3%81%AE%E5%9F%BA%E6%9C%AC%E5%AE%9A%E7%90%86)：3.4.4.1 演算 \(数学\))
 - [三体問題](https://ja.wikipedia.org/wiki/%E4%B8%89%E4%BD%93%E5%95%8F%E9%A1%8C)：3.4.5 数学の諸分野（参考）
@@ -1353,6 +1357,7 @@
 - [保持](https://ja.wikipedia.org/wiki/%E4%BF%9D%E6%8C%81)：1.2.3.1 データの記録・保存
 - [母集団](https://ja.wikipedia.org/wiki/%E6%AF%8D%E9%9B%86%E5%9B%A3)：7.3.1.2 確率過程
 - [保存](https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%AD%98)：1.2.3.1 データの記録・保存
+- [保存系](https://ja.wikipedia.org/wiki/%E4%BF%9D%E5%AD%98%E7%B3%BB)：5.2 システムの構成
 - [本質](https://ja.wikipedia.org/wiki/%E6%9C%AC%E8%B3%AA)：1.2.1 存在, 2.2.3 個別・抽象の概念
 - [本質主義](https://ja.wikipedia.org/wiki/%E6%9C%AC%E8%B3%AA%E4%B8%BB%E7%BE%A9)：1.2.1 存在
 - [翻訳](https://ja.wikipedia.org/wiki/%E7%BF%BB%E8%A8%B3)：8.2 意味
