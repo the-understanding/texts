@@ -36,6 +36,7 @@
 - [Anamnesis (philosophy)](https://en.wikipedia.org/wiki/Anamnesis_(philosophy)): 1.2.3.3 Retrieval and Recall
 - [Anomaly](https://en.wikipedia.org/wiki/Anomaly): 7.4.3 Model Improvement and Update
 - [Anomaly detection](https://en.wikipedia.org/wiki/Anomaly_detection): 7.3.1.3 Statistical Inference
+- [Anecdotal evidence](https://en.wikipedia.org/wiki/Anecdotal_evidence): 6.2.1 Scientific method
 - [API](https://en.wikipedia.org/wiki/API): 10.3.2 Software
 - [Appeal to tradition](https://en.wikipedia.org/wiki/Appeal_to_tradition): 9.4.3 Bias, Fallacy, and Sophism
 - [Applied mathematics](https://en.wikipedia.org/wiki/Applied_mathematics): 3.4.5 Areas of mathematics (Reference)
@@ -161,6 +162,7 @@
 - [Coefficient](https://en.wikipedia.org/wiki/Coefficient): 7.2.3 Variables and Parameters
 - [Cognition](https://en.wikipedia.org/wiki/Cognition): 1.3.3 Consciousness, Cognition and Emotion
 - [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance): 9.4.3 Bias, Fallacy, and Sophism
+- [Cohort study](https://en.wikipedia.org/wiki/Cohort_study): 6.2.1 Scientific method
 - [Coincidence](https://en.wikipedia.org/wiki/Coincidence): 6.3.6 Confirming the Relationship between Factor (Group) A and Result (Group) B
 - [Collective action problem](https://en.wikipedia.org/wiki/Collective_action_problem): 9.4.2 Problems Inherent in the Decision-Making Process
 - [Collegiality](https://en.wikipedia.org/wiki/Collegiality): 9.2.1 Formats
@@ -356,6 +358,7 @@
 - [Evaluation of binary classifiers](https://en.wikipedia.org/wiki/Evaluation_of_binary_classifiers): 7.4.1.1 Evaluation Methodology
 - [Event (philosophy)](https://en.wikipedia.org/wiki/Event_(philosophy)): 1.2.1 Existing, 6.3.1 System, Factor, and Result
 - [Evidence](https://en.wikipedia.org/wiki/Evidence): 9.2.3 Framework for Information Sharing and Judgment
+- [Evidence\-based medicine](https://en.wikipedia.org/wiki/Evidence-based_medicine): 6.2.1 Scientific method
 - [Evolutionary algorithm](https://en.wikipedia.org/wiki/Evolutionary_algorithm): 10.2.3 Algorithms
 - [Evolutionary game theory](https://en.wikipedia.org/wiki/Evolutionary_game_theory): 7.3.4 Optimization and Strategy Models
 - [Evolutionary programming](https://en.wikipedia.org/wiki/Evolutionary_programming): 7.2.2 Typology by Model Construction Procedure
@@ -732,6 +735,7 @@
 - [Phase space](https://en.wikipedia.org/wiki/Phase_space): 5.2 Structure of a System
 - [Phase transition](https://en.wikipedia.org/wiki/Phase_transition): 4.3.1 Change in Events, 5.5 Fluctuation and Evolution, 7.5 Examples of Applied Fields of Mathematical Models
 - [Phenomenology (philosophy)](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)): 6.2.2 Empirical Research
+- [Philosophy of science](https://en.wikipedia.org/wiki/Philosophy_of_science): 6.2.1 Scientific method
 - [Phugoid](https://en.wikipedia.org/wiki/Phugoid): 5.4 Order and Stability, 5.5 Fluctuation and Evolution
 - [Physical law](https://en.wikipedia.org/wiki/Physical_law): 6.2.3 Foundation of Hypothesis Building
 - [Pilot experiment](https://en.wikipedia.org/wiki/Pilot_experiment): 6.2.2 Empirical research
@@ -786,6 +790,7 @@
 - [Property (philosophy)](https://en.wikipedia.org/wiki/Property_(philosophy)): 2.2.1 Individualization by Extracting Differences, 2.3.2 Evaluation Metrics
 - [Proprioception](https://en.wikipedia.org/wiki/Proprioception): 1.3.1 Perception
 - [Prospect theory](https://en.wikipedia.org/wiki/Prospect_theory): 9.4.3 Bias, Fallacy, and Sophism
+- [Prospective cohort study](https://en.wikipedia.org/wiki/Prospective_cohort_study): 6.2.1 Scientific method
 - [Prototype](https://en.wikipedia.org/wiki/Prototype): 6.5.1 Development
 - [Prototype theory](https://en.wikipedia.org/wiki/Prototype_theory): 2.4.6 Definition
 - [Pseudorandom number generator](https://en.wikipedia.org/wiki/Pseudorandom_number_generator): 7.2.2 Typology by Model Construction Procedure, 6.3.4 Search Space and Data Sampling Design
@@ -854,6 +859,7 @@
 - [Resource](https://en.wikipedia.org/wiki/Resource): 4.3.3 Planning
 - [Resource (project management)](https://en.wikipedia.org/wiki/Resource_(project_management)): 9.2.5 Expected Results, Conclusions, and Future Actions
 - [Result](https://en.wikipedia.org/wiki/Result): 3.3.2.2 Form of Argument, 6.3.1 System, Factor, and Result
+- [Retrospective cohort study](https://en.wikipedia.org/wiki/Retrospective_cohort_study): 6.2.1 Scientific method
 - [Reverse engineering](https://en.wikipedia.org/wiki/Reverse_engineering): 3.3.2.1 Basic Forms of Inference, 6.3.6 Confirming the Relationship between Factor (Group) A and Result (Group) B
 - [Reversible computing](https://en.wikipedia.org/wiki/Reversible_computing): 4.2.2 Analytical Causality
 - [Reversible process (thermodynamics)](https://en.wikipedia.org/wiki/Reversible_process_(thermodynamics)): 4.2.1 Phenomenological Causality

@@ -139,6 +139,7 @@
 - [コサイン類似度](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B5%E3%82%A4%E3%83%B3%E9%A1%9E%E4%BC%BC%E5%BA%A6)：7.4.1.4 類似度・情報量に基づく指標
 - [コネクショニズム](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%8D%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8B%E3%82%BA%E3%83%A0)：10.4.1 記号主義・コネクショニズム
 - [コピー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%94%E3%83%BC)：1.2.3.1 データの記録・保存
+- [コホート研究](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9B%E3%83%BC%E3%83%88%E7%A0%94%E7%A9%B6)：6.2.1 科学的方法
 - [コミュニケーション](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%9F%E3%83%A5%E3%83%8B%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)：8.4.5 コミュニケーション
 - [コモンズの悲劇](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%A2%E3%83%B3%E3%82%BA%E3%81%AE%E6%82%B2%E5%8A%87)：5.6 システムの理解と運用
 - [コルモゴロフ複雑性](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AB%E3%83%A2%E3%82%B4%E3%83%AD%E3%83%95%E8%A4%87%E9%9B%91%E6%80%A7)：1.2.3.2 情報
@@ -330,7 +331,7 @@
 - [プログラム \(コンピュータ\)](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF))：10.3.2 ソフトウェア
 - [プログラム意味論](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E6%84%8F%E5%91%B3%E8%AB%96)：3.3.2.6 論理学の関連分野（参考）
 - [プロスペクト理論](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%B9%E3%83%9A%E3%82%AF%E3%83%88%E7%90%86%E8%AB%96)：9.4.3 バイアス・誤謬・詭弁
-- [プロセス](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9_(%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF)：4.3 プロセス)
+- [プロセス](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9_(%E6%9B%96%E6%98%A7%E3%81%95%E5%9B%9E%E9%81%BF))：4.3 プロセス
 - [プロセス制御](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E5%88%B6%E5%BE%A1)：6.5.2 生産管理
 - [プロダクトデザイン](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3)：8.4.3 情報の提示・デザイン
 - [プロトタイプ](https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AD%E3%83%88%E3%82%BF%E3%82%A4%E3%83%97)：6.5.1 開発
@@ -383,7 +384,7 @@
 - [メンタルモデル](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%A2%E3%83%87%E3%83%AB)：1.4 概念, 6.2.3 仮説構築の基盤
 
 - [モジュール](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B8%E3%83%A5%E3%83%BC%E3%83%AB)：5.2 システムの構成
-- [モデリング \(科学的\)](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_(%E7%A7%91%E5%AD%A6%E7%9A%84)：7.2 数理モデリング \(科学的\))
+- [モデリング \(科学的\)](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AA%E3%83%B3%E3%82%B0_(%E7%A7%91%E5%AD%A6%E7%9A%84))：7.2 数理モデリング \(科学的\)
 - [モデル \(自然科学\)](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AB_(%E8%87%AA%E7%84%B6%E7%A7%91%E5%AD%A6))：6.2.4 仮説検証の手順
 - [モデル崩壊](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AB%E5%B4%A9%E5%A3%8A)：7.4.3 モデルの改善・更新
 - [モデル理論](https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%87%E3%83%AB%E7%90%86%E8%AB%96)：3.3.2.6 論理学の関連分野（参考）
@@ -483,9 +484,9 @@
 - [疫学](https://ja.wikipedia.org/wiki/%E7%96%AB%E5%AD%A6)：4.2.2 分析的因果性, 7.3.2 因果推論
 - [演繹](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%B9%B9)：2.4.2 トップダウン型, 3.3.2.1 推論の基本形式
 - [演算](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97)：3.5.2 演算・作用素 \(関数解析学\))
-- [演算 \(数学\)](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97_(%E6%95%B0%E5%AD%A6)：3.4.4.1 演算 \(数学\))
-- [演算子 \(物理学\)](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97%E5%AD%90_(%E7%89%A9%E7%90%86%E5%AD%A6)：3.5.2 演算・作用素 \(関数解析学\))
-- [演算子 \(コンピュータ言語\)](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97%E5%AD%90_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E8%A8%80%E8%AA%9E)：3.5.2 演算・作用素 \(関数解析学\))
+- [演算 \(数学\)](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97_(%E6%95%B0%E5%AD%A6))：3.4.4.1 演算 \(数学\)
+- [演算子 \(物理学\)](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97%E5%AD%90_(%E7%89%A9%E7%90%86%E5%AD%A6))：3.5.2 演算・作用素 \(関数解析学\)
+- [演算子 \(コンピュータ言語\)](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97%E5%AD%90_(%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E8%A8%80%E8%AA%9E))：3.5.2 演算・作用素 \(関数解析学\)
 - [演算装置](https://ja.wikipedia.org/wiki/%E6%BC%94%E7%AE%97%E8%A3%85%E7%BD%AE)：10.3.1 ハードウェア
 - [贈り物](https://ja.wikipedia.org/wiki/%E8%B4%88%E3%82%8A%E7%89%A9)：8.4.5 コミュニケーション
 
@@ -517,6 +518,7 @@
 - [科学的管理法](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%9A%84%E7%AE%A1%E7%90%86%E6%B3%95)：6.5.2 生産管理
 - [科学的証拠](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%9A%84%E8%A8%BC%E6%8B%A0)：6.2.1 科学的方法
 - [科学的方法](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%9A%84%E6%96%B9%E6%B3%95)：6.2.1 科学的方法
+- [科学哲学](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6)：6.2.1 科学的方法
 - [化学反応](https://ja.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E5%8F%8D%E5%BF%9C)：4.3.1 事象の変化
 - [科学理論](https://ja.wikipedia.org/wiki/%E7%A7%91%E5%AD%A6%E7%90%86%E8%AB%96)：6.2.1 科学的方法
 - [可換環](https://ja.wikipedia.org/wiki/%E5%8F%AF%E6%8F%9B%E7%92%B0)：3.4.4.2 集合の代数学
@@ -771,7 +773,7 @@
 - [固有空間](https://ja.wikipedia.org/wiki/%E7%B7%9A%E5%9E%8B%E4%BB%A3%E6%95%B0%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [固有値と固有ベクトル](https://ja.wikipedia.org/wiki/%E5%9B%BA%E6%9C%89%E5%80%A4%E3%81%A8%E5%9B%BA%E6%9C%89%E3%83%99%E3%82%AF%E3%83%88%E3%83%AB)：3.4.4.1 演算 \(数学\))
 - [語用論](https://ja.wikipedia.org/wiki/%E8%AA%9E%E7%94%A8%E8%AB%96)：8.2 意味
-- [根拠に基づく医療](https://ja.wikipedia.org/wiki/%E6%A0%B9%E6%8B%A0%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%8C%BB%E7%99%82)：4.2.2 分析的因果性, 7.3.2 因果推論
+- [根拠に基づく医療](https://ja.wikipedia.org/wiki/%E6%A0%B9%E6%8B%A0%E3%81%AB%E5%9F%BA%E3%81%A5%E3%81%8F%E5%8C%BB%E7%99%82)：4.2.2 分析的因果性、6.2.1 科学的方法、7.3.2 因果推論
 - [混合モデル](https://ja.wikipedia.org/wiki/%E6%B7%B7%E5%90%88%E3%83%A2%E3%83%87%E3%83%AB)：7.3.1.3 推計統計学
 - [混同行列](https://ja.wikipedia.org/wiki/%E6%B7%B7%E5%90%8C%E8%A1%8C%E5%88%97)：7.4.1.3 分類性能の指標
 
@@ -797,7 +799,7 @@
 - [作用](https://ja.wikipedia.org/wiki/%E4%BD%9C%E7%94%A8)：3.5.2 演算・作用素 \(関数解析学\))
 - [作用 \(哲学\)](https://ja.wikipedia.org/wiki/%E4%BD%9C%E7%94%A8_(%E5%93%B2%E5%AD%A6))：4.2.1 現象論的因果性
 - [作用 \(物理学\)](https://ja.wikipedia.org/wiki/%E4%BD%9C%E7%94%A8_(%E7%89%A9%E7%90%86%E5%AD%A6))：4.2.1 現象論的因果性
-- [作用素 \(関数解析学\)](https://ja.wikipedia.org/wiki/%E4%BD%9C%E7%94%A8%E7%B4%A0_(%E9%96%A2%E6%95%B0%E8%A7%A3%E6%9E%90%E5%AD%A6)：3.5.2 演算・作用素 \(関数解析学\))
+- [作用素 \(関数解析学\)](https://ja.wikipedia.org/wiki/%E4%BD%9C%E7%94%A8%E7%B4%A0_(%E9%96%A2%E6%95%B0%E8%A7%A3%E6%9E%90%E5%AD%A6))：3.5.2 演算・作用素 \(関数解析学\)
 - [作用・反作用](https://ja.wikipedia.org/wiki/%E9%81%8B%E5%8B%95%E3%81%AE%E7%AC%AC3%E6%B3%95%E5%89%87)：1.2.2.1 観測対象と媒体の相互作用
 - [散逸構造](https://ja.wikipedia.org/wiki/%E6%95%A3%E9%80%B8%E6%A7%8B%E9%80%A0)：5.2 システムの構成、5.5 変動・発展
 - [算術](https://ja.wikipedia.org/wiki/%E7%AE%97%E8%A1%93)：3.4.4.1 演算 \(数学\))
@@ -934,7 +936,7 @@
 - [情報操作](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E6%93%8D%E4%BD%9C)：4.3.2 操作・手順
 - [情報量](https://ja.wikipedia.org/wiki/%E6%83%85%E5%A0%B1%E9%87%8F)：1.2.2.3 伝達効率、1.2.3.2 情報, 4.2.1 現象論的因果性
 - [証明](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E)：3.3.2.2 論証の形式
-- [証明 \(数学\)](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E_(%E6%95%B0%E5%AD%A6)：3.4.2 証明 \(数学\))
+- [証明 \(数学\)](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E_(%E6%95%B0%E5%AD%A6))：3.4.2 証明 \(数学\)
 - [証明可能性論理](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E%E5%8F%AF%E8%83%BD%E6%80%A7%E8%AB%96%E7%90%86)：3.3.2.4 論理の拡張
 - [証明責任](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E%E8%B2%AC%E4%BB%BB)：9.2.3 情報共有・判断の枠組み
 - [証明論](https://ja.wikipedia.org/wiki/%E8%A8%BC%E6%98%8E%E8%AB%96)：3.3.2.2 論証の形式, 3.4.2.1 数学基礎論
@@ -943,6 +945,7 @@
 - [初等幾何学](https://ja.wikipedia.org/wiki/%E5%88%9D%E7%AD%89%E5%B9%BE%E4%BD%95%E5%AD%A6)：3.4.5 数学の諸分野（参考）
 - [除法](https://ja.wikipedia.org/wiki/%E9%99%A4%E6%B3%95)：3.5.2 演算・作用素 \(関数解析学\))
 - [自律エージェント](https://ja.wikipedia.org/wiki/%E8%87%AA%E5%BE%8B%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88)：5.5 変動・発展
+- [事例証拠](https://ja.wikipedia.org/wiki/%E4%BA%8B%E4%BE%8B%E8%A8%BC%E6%8B%A0)：6.2.1 科学的方法
 - [進化ゲーム](https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E3%82%B2%E3%83%BC%E3%83%A0)：7.3.4 最適化・戦略モデル
 - [進化的アルゴリズム](https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E7%9A%84%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)：10.2.3 アルゴリズム
 - [進化的プログラミング](https://ja.wikipedia.org/wiki/%E9%80%B2%E5%8C%96%E7%9A%84%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)：7.2.2 モデルの構築手順による類型
@@ -1362,6 +1365,7 @@
 - [本質主義](https://ja.wikipedia.org/wiki/%E6%9C%AC%E8%B3%AA%E4%B8%BB%E7%BE%A9)：1.2.1 存在
 - [翻訳](https://ja.wikipedia.org/wiki/%E7%BF%BB%E8%A8%B3)：8.2 意味
 
+- 
 - [前向き連鎖](https://ja.wikipedia.org/wiki/%E5%89%8D%E5%90%91%E3%81%8D%E9%80%A3%E9%8E%96)：3.3.2.2 論証の形式
 
 - [味覚](https://ja.wikipedia.org/wiki/%E5%91%B3%E8%A6%9A)：1.3.1 知覚
