@@ -446,8 +446,8 @@
 - [安全教育](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%A8%E6%95%99%E8%82%B2)：6.5.4 品質保証
 - [安全工学](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%85%A8%E5%B7%A5%E5%AD%A6)：6.5.3 品質管理
 - [安定性理論](https://ja.wikipedia.org/wiki/%E5%AE%89%E5%AE%9A%E6%80%A7%E7%90%86%E8%AB%96)：5.5 変動・発展
-- [暗号](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7)：10.3.3 ネットワーク・セキュリティ
-- [暗号理論](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）, 10.2.5 計算複雑性理論
+- [暗号](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7)：1.2.3.2 情報、10.3.3 ネットワーク・セキュリティ
+- [暗号理論](https://ja.wikipedia.org/wiki/%E6%9A%97%E5%8F%B7%E7%90%86%E8%AB%96)：3.4.5 数学の諸分野（参考）、10.2.5 計算複雑性理論
 - [暗黙知](https://ja.wikipedia.org/wiki/%E6%9A%97%E9%BB%99%E7%9F%A5)：4.3.2 操作・手順, 8.4.4 表現しきれないもの
 
 - [意識のハード・プロブレム](https://ja.wikipedia.org/wiki/%E6%84%8F%E8%AD%98%E3%81%AE%E3%83%8F%E3%83%BC%E3%83%89%E3%83%BB%E3%83%97%E3%83%AD%E3%83%96%E3%83%AC%E3%83%A0)：1.3.3 意識・認知・心情（気持ち）
@@ -1318,6 +1318,7 @@
 - [雰囲気](https://ja.wikipedia.org/wiki/%E9%9B%B0%E5%9B%B2%E6%B0%97)：8.3 価値
 - [文化](https://ja.wikipedia.org/wiki/%E6%96%87%E5%8C%96)：8.3 価値, 8.4.5 コミュニケーション
 - [分割統治法](https://ja.wikipedia.org/wiki/%E5%88%86%E5%89%B2%E7%B5%B1%E6%B2%BB%E6%B3%95)：10.2.3 アルゴリズム
+- [分散型自律組織](https://ja.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E5%9E%8B%E8%87%AA%E5%BE%8B%E7%B5%84%E7%B9%94)：5.2 システムの構成
 - [分散コンピューティング](https://ja.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0)：10.3.1 ハードウェア
 - [分散制御システム](https://ja.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E5%88%B6%E5%BE%A1%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0)：5.4 秩序・安定
 - [分散表現](https://ja.wikipedia.org/wiki/%E5%88%86%E6%95%A3%E8%A1%A8%E7%8F%BE)：7.3.3 機械学習と深層学習

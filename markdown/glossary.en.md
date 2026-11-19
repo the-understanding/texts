@@ -261,6 +261,7 @@
 - [De Morgan's laws](https://en.wikipedia.org/wiki/De_Morgan%27s_laws): 3.2.2 Logic
 - [Debate](https://en.wikipedia.org/wiki/Debate): 9.2.1 Formats
 - [Debugging](https://en.wikipedia.org/wiki/Debugging): 10.3.2 Software
+- [Decentralized autonomous organization](https://en.wikipedia.org/wiki/Decentralized_autonomous_organization): 5.2 Structure of a System
 - [Decidability (logic)](https://en.wikipedia.org/wiki/Decidability_(logic)): 10.2.2 Computational Model
 - [Decidability \(logic\)](https://en.wikipedia.org/wiki/Decidability_(logic)): 3.4.1.2 Foundations of mathematics
 - [Decimal](https://en.wikipedia.org/wiki/Decimal): 3.5.1 Number
@@ -332,6 +333,7 @@
 - [Empirical evidence](https://en.wikipedia.org/wiki/Empirical_evidence): 6.2.2 Empirical Research
 - [Empirical relationship](https://en.wikipedia.org/wiki/Empirical_relationship): 6.2.3 Foundation of Hypothesis Building
 - [Encoder](https://en.wikipedia.org/wiki/Encoder): 1.2.2.4 Observation
+- [Encryption](https://en.wikipedia.org/wiki/Encryption): 1.2.3.2 Information
 - [Endogeneity (econometrics)](https://en.wikipedia.org/wiki/Endogeneity_(econometrics)): 7.2.3 Variables and Parameters
 - [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning): 7.4.3 Model Improvement and Update
 - [Entertainment](https://en.wikipedia.org/wiki/Entertainment): 8.3 Value
