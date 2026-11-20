@@ -59,9 +59,9 @@ plugins:
             - 第5章 組織・システム:
                 - 5.1 問5: 5-1.ja.md
                 - 5.2 システムの構成: 5-2.ja.md
-                - 5.3 分析アプローチ: 5-3.ja.md
-                - 5.4 秩序・安定: 5-4.ja.md
-                - 5.5 変動・発展: 5-5.ja.md
+                - 5.3 秩序・安定: 5-3.ja.md
+                - 5.4 変動・発展: 5-4.ja.md
+                - 5.5 分析アプローチ: 5-5.ja.md
                 - 5.6 システムの理解と運用: 5-6.ja.md
             - 第6章 仮説・検証:
                 - 6.1 問6: 6-1.ja.md
@@ -121,9 +121,9 @@ plugins:
             - Chapter 5 Organization, System:
                 - 5.1 Q.5: 5-1.en.md
                 - 5.2 Structure of a System: 5-2.en.md
-                - 5.3 Analytical Approach: 5-3.en.md
-                - 5.4 Order, Stability: 5-4.en.md
-                - 5.5 Fluctuation, Evolution: 5-5.en.md
+                - 5.3 Order, Stability: 5-3.en.md
+                - 5.4 Fluctuation, Evolution: 5-4.en.md
+                - 5.5 Analytical Approach: 5-5.en.md
                 - 5.6 Understanding and Operation of Systems: 5-6.en.md
             - Chapter 6 Hypothesis, Verification:
                 - 6.1 Q.6: 6-1.en.md

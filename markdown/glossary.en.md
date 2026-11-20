@@ -5,7 +5,7 @@
 - [Abductive reasoning](https://en.wikipedia.org/wiki/Abductive_reasoning): 3.3.2.1 Basic Forms of Inference
 - [Abstraction (computer science)](https://en.wikipedia.org/wiki/Abstraction_(computer_science)): 10.3.2 Software
 - [Academic conference](https://en.wikipedia.org/wiki/Academic_conference): 9.2.1 Formats
-- [Academic discipline](https://en.wikipedia.org/wiki/Academic_discipline): 8.3 Value
+- [Academic discipline](https://en.wikipedia.org/wiki/Academic_discipline): 8.3.4 Truth value
 - [Academic publishing](https://en.wikipedia.org/wiki/Academic_publishing): 8.4.2 Expressive Techniques, 9.2.1 Formats
 - [Accessibility](https://en.wikipedia.org/wiki/Accessibility): 2.3.1 Holistic View and Information Accessibility
 - [Acclimatization](https://en.wikipedia.org/wiki/Acclimatization): 5.4 Order and Stability
@@ -15,11 +15,11 @@
 - [Action (physics)](https://en.wikipedia.org/wiki/Action_(physics)): 4.2.1 Phenomenological Causality
 - [Adaptation](https://en.wikipedia.org/wiki/Adaptation): 5.4 Order and Stability
 - [Addition](https://en.wikipedia.org/wiki/Addition): 3.5.2 Operation (mathematics) and Operator (physics)
-- [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics): 8.3 Value
-- [Affection](https://en.wikipedia.org/wiki/Affection): 8.3 Value
+- [Aesthetics](https://en.wikipedia.org/wiki/Aesthetics): 8.3.5 Aesthetic value
+- [Affection](https://en.wikipedia.org/wiki/Affection): 8.3.6 Emotional and Cultural value
 - [Affordance](https://en.wikipedia.org/wiki/Affordance): 5.2 Structure of a System, 8.4.3 Information Presentation and Design
 - [Agenda (meeting)](https://en.wikipedia.org/wiki/Agenda_(meeting)): 9.2.3 Framework for Information Sharing and Judgment
-- [Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model): 5.3 Analytical Approach, 7.2.2 Typology by Model Construction Procedure
+- [Agent-based model](https://en.wikipedia.org/wiki/Agent-based_model): 5.5 Analytical Approach, 7.2.2 Typology by Model Construction Procedure
 - [Agile software development](https://en.wikipedia.org/wiki/Agile_software_development): 4.3.3 Planning, 6.5.1 Development
 - [Agnosticism](https://en.wikipedia.org/wiki/Agnosticism): 8.4.4 Inexpressible Things
 - [AI alignment](https://en.wikipedia.org/wiki/AI_alignment): 10.4.2 Generative AI and social impact
@@ -29,7 +29,7 @@
 - [All models are wrong](https://en.wikipedia.org/wiki/All_models_are_wrong): 7.4.2.3 Model Learning and Evaluation
 - [Ambiguity](https://en.wikipedia.org/wiki/Ambiguity): 2.4.6 Definition
 - [Amount of substance](https://en.wikipedia.org/wiki/Amount_of_substance): 6.3.3 Quantities (Reference)
-- [Amplification](https://en.wikipedia.org/wiki/Amplification): 5.5 Fluctuation and Evolution
+- [Amplification](https://en.wikipedia.org/wiki/Amplification): 5.4 Fluctuation and Evolution
 - [Analog computer](https://en.wikipedia.org/wiki/Analog_computer): 10.2.1 Computer
 - [Analysis](https://en.wikipedia.org/wiki/Analysis): 6.4 Management of Measurement and Analysis
 - [Analytic hierarchy process](https://en.wikipedia.org/wiki/Analytic_hierarchy_process): 9.2.5 Expected Results, Conclusions, and Future Actions
@@ -49,23 +49,24 @@
 - [Arithmetic logic unit](https://en.wikipedia.org/wiki/Arithmetic_logic_unit): 10.3.1 Computer hardware
 - [Array (data structure)](https://en.wikipedia.org/wiki/Array_(data_structure)): 10.2.4 Data Structures and Databases
 - [Arrow's impossibility theorem](https://en.wikipedia.org/wiki/Arrow%27s_impossibility_theorem): 9.4.2 Problems Inherent in the Decision-Making Process
-- [Art](https://en.wikipedia.org/wiki/Art): 8.3 Value
+- [Art](https://en.wikipedia.org/wiki/Art): 8.3.5 Aesthetic value
 - [Artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence): 7.2.2 Typology by Model Construction Procedure, 10.4.2 Generative AI and Social Impact
 - [Artificial intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence): 10.4 Artificial Intelligence
+- Atmosphere](https://en.wikipedia.org/wiki/Atmosphere_(architecture_and_spatial_design)): 8.3.6 Emotional and Cultural value
 - [Atmosphere (interpersonal)](https://en.wikipedia.org/wiki/Atmosphere_(interpersonal)): 8.4.2 Expressive Techniques
 - [Attention (machine learning)](https://en.wikipedia.org/wiki/Attention_(machine_learning)): 1.3.2 Recognition, 7.3.3 Machine Learning and Deep Learning
-- [Attractor](https://en.wikipedia.org/wiki/Attractor): 5.5 Fluctuation and Evolution
+- [Attractor](https://en.wikipedia.org/wiki/Attractor): 5.4 Fluctuation and Evolution
 - [Audit](https://en.wikipedia.org/wiki/Audit): 6.5.3 Quality Control
 - [Authority](https://en.wikipedia.org/wiki/Authority): 9.4.3 Bias, Fallacy, and Sophism
 - [Autocorrelation](https://en.wikipedia.org/wiki/Autocorrelation): 7.3.1.3 Statistical Inference
 - [Automata theory](https://en.wikipedia.org/wiki/Automata_theory): 10.2.2 Computational Model
-- [Autonomous agent](https://en.wikipedia.org/wiki/Autonomous_agent): 5.5 Fluctuation and Evolution
-- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis): 5.5 Fluctuation and Evolution
+- [Autonomous agent](https://en.wikipedia.org/wiki/Autonomous_agent): 5.4 Fluctuation and Evolution
+- [Autopoiesis](https://en.wikipedia.org/wiki/Autopoiesis): 5.4 Fluctuation and Evolution
 - [Axiomatic Set Theory](https://en.wikipedia.org/wiki/Set_theory#Axiomatic_set_theory): 3.2.1 Set, 3.4.3.1 Axiomatic Set Theory
 
 - [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation): 7.3.3 Machine Learning and Deep Learning, 10.4.1 Symbolic AI and Connectionism
 - [Backward chaining](https://en.wikipedia.org/wiki/Backward_chaining): 3.3.2.2 Form of Argument
-- [Barter](https://en.wikipedia.org/wiki/Barter): 8.3 Value
+- [Barter](https://en.wikipedia.org/wiki/Barter): 8.3.1 Value (economics)
 - [Bayesian inference](https://en.wikipedia.org/wiki/Bayesian_inference): 3.3.2.1 Basic Forms of Inference, 7.3.1.3 Statistical Inference
 - [Bayesian information criterion](https://en.wikipedia.org/wiki/Bayesian_information_criterion): 7.4.1.5 Model Selection and Complexity
 - [Bayesian network](https://en.wikipedia.org/wiki/Bayesian_network): 7.3.2 Causal Inference
@@ -77,7 +78,7 @@
 - [Binary number](https://en.wikipedia.org/wiki/Binary_number): 3.5.1 Number
 - [Binary relation](https://en.wikipedia.org/wiki/Binary_relation): 2.4.4 Structure of Relationships
 - [Bioinformatics](https://en.wikipedia.org/wiki/Bioinformatics): 7.5 Examples of Applied Fields of Mathematical Models
-- [Bistability](https://en.wikipedia.org/wiki/Bistability): 5.5 Fluctuation and Evolution
+- [Bistability](https://en.wikipedia.org/wiki/Bistability): 5.4 Fluctuation and Evolution
 - [Bit](https://en.wikipedia.org/wiki/Bit): 1.2.3.2 Information
 - [Black box](https://en.wikipedia.org/wiki/Black_box): 7.2.1 Classification Axes of Mathematical Models
 - [Blinded experiment](https://en.wikipedia.org/wiki/Blinded_experiment): 6.3.4 Search Space and Data Sampling Design, 7.3.2 Causal Inference
@@ -94,7 +95,7 @@
 - [Bounded rationality](https://en.wikipedia.org/wiki/Bounded_rationality): 9.3.1 Decision Making
 - [Bradford Hill criteria](https://en.wikipedia.org/wiki/Bradford_Hill_criteria): 4.2.2 Analytical Causality, 7.3.2 Causal Inference
 - [Brainstorming](https://en.wikipedia.org/wiki/Brainstorming): 9.2.3 Framework for Information Sharing and Judgment
-- [Brand](https://en.wikipedia.org/wiki/Brand): 8.3 Value
+- [Brand](https://en.wikipedia.org/wiki/Brand): 8.3.1 Value (economics)
 - [Breadth-first search](https://en.wikipedia.org/wiki/Breadth-first_search): 10.2.3 Algorithms
 - [Burden of proof (philosophy)](https://en.wikipedia.org/wiki/Burden_of_proof_(philosophy)): 9.2.3 Framework for Information Sharing and Judgment
 - [Business model](https://en.wikipedia.org/wiki/Business_model): 7.5 Examples of Applied Fields of Mathematical Models
@@ -110,43 +111,44 @@
 - [Catastrophic interference](https://en.wikipedia.org/wiki/Catastrophic_interference): 7.4.3 Model Improvement and Update
 - [Categorization](https://en.wikipedia.org/wiki/Categorization): 2.3 Classification and Organization, 2.4.1 Structuring of Information, 6.2.1 Scientific Method
 - [Category (categorization)](https://en.wikipedia.org/wiki/Categorization): 2.4.1 Understanding through Structuring
-- [Category:Cellular automata](https://en.wikipedia.org/wiki/Category:Cellular_automata): 5.5 Fluctuation and Evolution
+- [Category:Cellular automata](https://en.wikipedia.org/wiki/Category:Cellular_automata): 5.4 Fluctuation and Evolution
 - [Category:Conceptual systems](https://en.wikipedia.org/wiki/Category:Conceptual_systems): 5.2 Structure of a System
 - [Category:Economic liberalism](https://en.wikipedia.org/wiki/Category:Economic_liberalism): 5.4 Order and Stability
 - [Category:Electoral systems](https://en.wikipedia.org/wiki/Category:Electoral_systems): 9.3.3 Methods of Decision/Settlement
 - [Category:Genres by medium](https://en.wikipedia.org/wiki/Category:Genres_by_medium): 8.4.1 Information Extraction and Grouping from Objects
 - [Category:Homeostasis](https://en.wikipedia.org/wiki/Category:Homeostasis): 5.4 Order and Stability
 - [Category:Humor](https://en.wikipedia.org/wiki/Category:Humor): 8.4.5 Communication
-- [Category:Information systems](https://en.wikipedia.org/wiki/Category:Information_systems): 5.3 Analytical Approach
+- [Category:Information systems](https://en.wikipedia.org/wiki/Category:Information_systems): 5.5 Analytical Approach
 - [Category:Justification](https://en.wikipedia.org/wiki/Category:Justification): 9.2.3 Framework for Information Sharing and Judgment
 - [Category:Literary genres](https://en.wikipedia.org/wiki/Category:Literary_genres): 8.4.2 Expressive Techniques
 - [Category:Malfunctions](https://en.wikipedia.org/wiki/Category:Malfunctions): 6.5.3 Quality Control
-- [Category:Non-equilibrium thermodynamics](https://en.wikipedia.org/wiki/Category:Non-equilibrium_thermodynamics): 5.5 Fluctuation and Evolution
+- [Category:Non-equilibrium thermodynamics](https://en.wikipedia.org/wiki/Category:Non-equilibrium_thermodynamics): 5.4 Fluctuation and Evolution
 - [Category:Organizational theory](https://en.wikipedia.org/wiki/Category:Organizational_theory): 5.2 Structure of a System
 - [Category:Persuasion techniques](https://en.wikipedia.org/wiki/Category:Persuasion_techniques): 9.3.2 Handling Opposing Opinions
 - [Category:Point of view](https://en.wikipedia.org/wiki/Category:Point_of_view): 9.2.4 Determining Priority
 - [Category:Reliability engineering](https://en.wikipedia.org/wiki/Category:Reliability_engineering): 6.5.3 Quality Control
 - [Category:Rhetorical devices](https://en.wikipedia.org/wiki/Category:Rhetorical_devices): 8.4.2 Expressive Techniques
 - [Category:Syntax](https://en.wikipedia.org/wiki/Category:Syntax): 8.4.2 Expressive Techniques
-- [Category:Systems](https://en.wikipedia.org/wiki/Category:Systems): 5.3 Analytical Approach
-- [Category:Systems biology](https://en.wikipedia.org/wiki/Category:Systems_biology): 5.3 Analytical Approach
+- [Category:Systems](https://en.wikipedia.org/wiki/Category:Systems): 5.5 Analytical Approach
+- [Category:Systems biology](https://en.wikipedia.org/wiki/Category:Systems_biology): 5.5 Analytical Approach
 - [Category:Systems ecology](https://en.wikipedia.org/wiki/Category:Systems_ecology): 5.2 Structure of a System
-- [Category:Systems psychology](https://en.wikipedia.org/wiki/Category:Systems_psychology): 5.3 Analytical Approach
-- [Category:Systems theory](https://en.wikipedia.org/wiki/Category:Systems_theory): 5.3 Analytical Approach
+- [Category:Systems psychology](https://en.wikipedia.org/wiki/Category:Systems_psychology): 5.5 Analytical Approach
+- [Category:Systems theory](https://en.wikipedia.org/wiki/Category:Systems_theory): 5.5 Analytical Approach
 - [Category:Voting theory](https://en.wikipedia.org/wiki/Category:Voting_theory): 9.3.3 Methods of Decision/Settlement
 - [Causal analysis](https://en.wikipedia.org/wiki/Causal_analysis): 4.2.2 Analytical Causality
 - [Causal inference](https://en.wikipedia.org/wiki/Causal_inference): 4.2.2 Analytical Causality, 7.3.2 Causal Inference
 - [Causality](https://en.wikipedia.org/wiki/Causality): 4.2 Causality, 6.3.5 Relationship between Factor (Group) A and Result (Group) B, 7.3.2 Causal Inference
-- [Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton): 5.5 Fluctuation and Evolution, 10.2.2 Computational Model
+- [Cellular automaton](https://en.wikipedia.org/wiki/Cellular_automaton): 5.4 Fluctuation and Evolution, 10.2.2 Computational Model
 - [Central processing unit](https://en.wikipedia.org/wiki/Central_processing_unit): 10.3.1 Computer hardware
 - [Centrography](https://en.wikipedia.org/wiki/Centrography): 7.3.1.1 Descriptive Statistics
 - [Certified reference materials](https://en.wikipedia.org/wiki/Certified_reference_materials): 6.4.2 Measurement Controls
-- [Chain reaction](https://en.wikipedia.org/wiki/Chain_reaction): 4.3.1 Change in Events, 5.5 Fluctuation and Evolution
+- [Chain reaction](https://en.wikipedia.org/wiki/Chain_reaction): 4.3.1 Change in Events, 5.4 Fluctuation and Evolution
 - [Chain rule](https://en.wikipedia.org/wiki/Chain_rule): 6.4.4.2 Cumulative Error and Error Propagation
 - [Chairperson](https://en.wikipedia.org/wiki/Chairperson): 9.2.2 Roles
 - [Chance (philosophy)](https://en.wikipedia.org/wiki/Chance_(philosophy)): 4.2.2 Analytical Causality
 - [Change (philosophy)](https://en.wikipedia.org/wiki/Change_(philosophy)): 4.3.1 Change in Events
 - [Chaos theory](https://en.wikipedia.org/wiki/Chaos_theory): 3.4.5 Areas of mathematics (Reference), 5.6 Understanding and Operation of Systems
+- [Charisma](https://en.wikipedia.org/wiki/Charisma): 8.3.1 Value (economics)
 - [Chemical reaction](https://en.wikipedia.org/wiki/Chemical_reaction): 4.3.1 Change in Events
 - [Cherry picking](https://en.wikipedia.org/wiki/Cherry_picking): 9.4.3 Bias, Fallacy, and Sophism
 - [Choke point](https://en.wikipedia.org/wiki/Choke_point): 4.3.2 Operations and Procedures
@@ -179,7 +181,7 @@
 - [Complex conjugate](https://en.wikipedia.org/wiki/Complex_conjugate): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Complex dynamics](https://en.wikipedia.org/wiki/Complex_dynamics): 3.4.5 Areas of mathematics (Reference)
 - [Complex system](https://en.wikipedia.org/wiki/Complex_system): 7.5 Examples of Applied Fields of Mathematical Models
-- [Complexity](https://en.wikipedia.org/wiki/Complexity): 5.6 Understanding and Operation of Systems
+- [Complexity](https://en.wikipedia.org/wiki/Complexity): 5.6 Understanding and Operation of Systems, 7.4.1.6 Limitations of Data and Models
 - [Complexity class](https://en.wikipedia.org/wiki/Complexity_class): 10.2.5 Computational Complexity Theory
 - [Computation](https://en.wikipedia.org/wiki/Computation): 4.3.2 Operations and Procedures, 10.2.2 Computational Model
 - [Computational complexity theory](https://en.wikipedia.org/wiki/Computational_complexity_theory): 10.2.5 Computational Complexity Theory
@@ -205,15 +207,15 @@
 - [Consciousness](https://en.wikipedia.org/wiki/Consciousness): 1.3.2 Recognition, 1.3.3 Consciousness, Cognition and Emotion
 - [Consensus decision-making](https://en.wikipedia.org/wiki/Consensus_decision-making): 9.3 Consensus decision-making
 - [Conservative system](https://en.wikipedia.org/wiki/Conservative_system): 5.2 Structure of a System
-- [Consequentialism](https://en.wikipedia.org/wiki/Consequentialism): 8.3 Value
+- [Consequentialism](https://en.wikipedia.org/wiki/Consequentialism): 8.3.2 [Value \(ethics\)
 - [Consistency](https://en.wikipedia.org/wiki/Consistency): 3.4.1.2 Foundations of mathematics
 - [Constructive logic](https://en.wikipedia.org/wiki/Constructive_logic): 3.3.2.4 Extensions of Logic
 - [Content-control software](https://en.wikipedia.org/wiki/Content-control_software): 1.2.2.3 Transmission Efficiency
 - [Context](https://en.wikipedia.org/wiki/Context_(language_use)): 1.4 Concept, 8.2 Meaning
 - [Contingency plan](https://en.wikipedia.org/wiki/Contingency_plan): 4.3.3 Planning
 - [Continuous function](https://en.wikipedia.org/wiki/Continuous_function): 3.5.1 Number
-- [Continuum mechanics](https://en.wikipedia.org/wiki/Continuum_mechanics): 5.5 Fluctuation and Evolution
-- [Control engineering](https://en.wikipedia.org/wiki/Control_engineering): 5.4 Order and Stability, 7.5 Examples of Applied Fields of Mathematical Models
+- [Continuum mechanics](https://en.wikipedia.org/wiki/Continuum_mechanics): 5.4 Fluctuation and Evolution
+- [Control engineering](https://en.wikipedia.org/wiki/Control_engineering): 5.4 Order and Stability, 5.5 Analytical Approach, 7.5 Examples of Applied Fields of Mathematical Models
 - [Control theory](https://en.wikipedia.org/wiki/Control_theory): 5.4 Order and Stability, 6.2.1 Scientific Method
 - [Control unit](https://en.wikipedia.org/wiki/Control_unit): 10.3.1 Computer hardware
 - [Convergence of random variables](https://en.wikipedia.org/wiki/Convergence_of_random_variables): 7.2.3 Variables and Parameters
@@ -233,14 +235,14 @@
 - [Cross entropy](https://en.wikipedia.org/wiki/Cross_entropy): 4.2.1 Phenomenological Causality, 7.4.1.4 Indicators Based on Similarity and Information Content
 - [Cross-validation (statistics)](https://en.wikipedia.org/wiki/Cross-validation_(statistics)): 7.4.1.5 Model Selection and Complexity
 - [Cryptography](https://en.wikipedia.org/wiki/Cryptography): 3.4.5 Areas of mathematics (Reference), 10.2.5 Computational Complexity Theory
-- [Culture](https://en.wikipedia.org/wiki/Culture): 8.3 Value, 8.4.5 Communication
+- [Culture](https://en.wikipedia.org/wiki/Culture): 8.3.6 Emotional and Cultural value, 8.4.5 Communication
 - [Cumulant](https://en.wikipedia.org/wiki/Cumulant): 7.3.1.2 Stochastic Process
 - [Cumulative distribution function](https://en.wikipedia.org/wiki/Cumulative_distribution_function): 7.3.1.2 Stochastic Process
-- [Currency](https://en.wikipedia.org/wiki/Currency): 8.3 Value
+- [Currency](https://en.wikipedia.org/wiki/Currency): 8.3.1 Value (economics)
 - [Curry–Howard correspondence](https://en.wikipedia.org/wiki/Curry%E2%80%93Howard_correspondence): 3.4.1.2 Foundations of mathematics
 - [Curse of dimensionality](https://en.wikipedia.org/wiki/Curse_of_dimensionality): 7.4.1.5 Model Selection and Complexity
 - [Custom (law)](https://en.wikipedia.org/wiki/Custom_(law)): 8.4.5 Communication, 9.2.4 Determining Priority
-- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics): 5.3 Analytical Approach
+- [Cybernetics](https://en.wikipedia.org/wiki/Cybernetics): 5.5 Analytical Approach
 
 - [Data](https://en.wikipedia.org/wiki/Data): 1.2.3.2 Information, 10.2.4 Data Structures and Databases
 - [Data analysis](https://en.wikipedia.org/wiki/Data_analysis): 6.4.4.4 Data Evaluation and Preprocessing
@@ -271,20 +273,20 @@
 - [Decoding methods](https://en.wikipedia.org/wiki/Decoding_methods): 1.2.2.4 Observation, 1.2.3.2 Information
 - [Deductive reasoning](https://en.wikipedia.org/wiki/Deductive_reasoning): 2.4.2 Top-Down Approach, 3.3.2.1 Basic Forms of Inference
 - [Deep learning](https://en.wikipedia.org/wiki/Deep_learning): 7.2.2 Typology by Model Construction Procedure, 7.3.3 Machine Learning and Deep Learning
-- [Degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom): 5.6 Understanding and Operation of Systems
+- [Degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom): 5.6 Understanding and Operation of Systems, 7.2.3 Variables and Parameters
 - [Deliberative democracy](https://en.wikipedia.org/wiki/Deliberative_democracy): 9.4.1 Differences in Opinion
 - [Delphi method](https://en.wikipedia.org/wiki/Delphi_method): 9.2.4 Determining Priority
 - [Demand-driven](https://en.wikipedia.org/wiki/Demand-driven): 7.2.1 Classification Axes of Mathematical Models
-- [Deontology](https://en.wikipedia.org/wiki/Deontology): 8.3 Value
+- [Deontology](https://en.wikipedia.org/wiki/Deontology): 8.3.2 [Value \(ethics\)
 - [Dependent and independent variables](https://en.wikipedia.org/wiki/Dependent_and_independent_variables): 7.2.3 Variables and Parameters
 - [Derivation (linguistics)](https://en.wikipedia.org/wiki/Derivation_(linguistics)): 8.2 Meaning
 - [Derivative](https://en.wikipedia.org/wiki/Derivative): 3.5.2 Operation (mathematics) and Operator (physics)
-- [Design](https://en.wikipedia.org/wiki/Design): 8.3 Value
+- [Design](https://en.wikipedia.org/wiki/Design): 8.3.6 Emotional and Cultural value
 - [Design of experiments](https://en.wikipedia.org/wiki/Design_of_experiments): 6.3.4 Search Space and Data Sampling Design
-- [Desire](https://en.wikipedia.org/wiki/Desire): 8.3 Value
+- [Desire](https://en.wikipedia.org/wiki/Desire): 8.3.6 Emotional and Cultural value
 - [Detection limit](https://en.wikipedia.org/wiki/Detection_limit): 6.4.5 Analytical Method Validation
 - [Deterministic system](https://en.wikipedia.org/wiki/Deterministic_system)
-- [Developmentalism](https://en.wikipedia.org/wiki/Developmentalism): 8.3 Value
+- [Developmentalism](https://en.wikipedia.org/wiki/Developmentalism): 8.3.1 Value (economics)
 - [DevOps](https://en.wikipedia.org/wiki/DevOps): 6.5.1 Development
 - [Dialectic](https://en.wikipedia.org/wiki/Dialectic): 3.3.2.2 Form of Argument, 9.3.2 Handling Opposing Opinions
 - [Difference in differences](https://en.wikipedia.org/wiki/Difference_in_differences): 7.3.2 Causal Inference
@@ -294,10 +296,11 @@
 - [Differential operator](https://en.wikipedia.org/wiki/Differential_operator): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Diffusion](https://en.wikipedia.org/wiki/Diffusion): 4.3.1 Change in Events
 - [Diffusion model](https://en.wikipedia.org/wiki/Diffusion_model): 7.3.3 Machine Learning and Deep Learning
+- [Digital twin](https://en.wikipedia.org/wiki/Digital_twin): 7.2.1 Classification Axes of Mathematical Models
 - [Dignity](https://en.wikipedia.org/wiki/Dignity): 8.4.5 Communication
 - [Dilemma](https://en.wikipedia.org/wiki/Dilemma): 9.2.4 Determining Priority
 - [Dimensionality reduction](https://en.wikipedia.org/wiki/Dimensionality_reduction): 7.3.1.3 Statistical Inference
-- [Dimensionless numbers in fluid mechanics](https://en.wikipedia.org/wiki/Dimensionless_numbers_in_fluid_mechanics): 5.5 Fluctuation and Evolution
+- [Dimensionless numbers in fluid mechanics](https://en.wikipedia.org/wiki/Dimensionless_numbers_in_fluid_mechanics): 5.4 Fluctuation and Evolution
 - [Directed acyclic graph](https://en.wikipedia.org/wiki/Directed_acyclic_graph): 7.3.2 Causal Inference
 - [Directory (computing)](https://en.wikipedia.org/wiki/Directory_(computing)): 2.4.2 Top-Down Approach
 - [Discovery (observation)](https://en.wikipedia.org/wiki/Discovery_(observation)): 6.2.1 Scientific Method
@@ -305,7 +308,7 @@
 - [Discretization](https://en.wikipedia.org/wiki/Discretization): 3.5.1 Number
 - [Discriminative model](https://en.wikipedia.org/wiki/Discriminative_model): 7.2.1 Classification Axes of Mathematical Models
 - [Discussion](https://en.wikipedia.org/wiki/Discussion): 9.2.1 Formats
-- [Dissipative system](https://en.wikipedia.org/wiki/Dissipative_system): 5.2 Structure of a System, 5.5 Fluctuation and Evolution
+- [Dissipative system](https://en.wikipedia.org/wiki/Dissipative_system): 5.2 Structure of a System, 5.4 Fluctuation and Evolution
 - [Distributed computing](https://en.wikipedia.org/wiki/Distributed_computing): 10.3.1 Computer hardware
 - [Distributed control system](https://en.wikipedia.org/wiki/Distributed_control_system): 5.4 Order and Stability
 - [Divide-and-conquer algorithm](https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm): 10.2.3 Algorithms
@@ -321,6 +324,7 @@
 - [Economy](https://en.wikipedia.org/wiki/Economy): 5.2 Structure of a System
 - [Effect (psychology)](https://en.wikipedia.org/wiki/Effect_(psychology)): 4.3.1 Change in Events
 - [Effect size](https://en.wikipedia.org/wiki/Effect_size): 6.3.4 Search Space and Data Sampling Design
+- [Efficiency](https://en.wikipedia.org/wiki/Efficiency): 8.3.1 Value (economics)
 - [Electric current](https://en.wikipedia.org/wiki/Electric_current): 6.3.3 Quantities (Reference)
 - [Electronic filter](https://en.wikipedia.org/wiki/Electronic_filter): 1.2.2.3 Transmission Efficiency
 - [Electronic oscillator](https://en.wikipedia.org/wiki/Electronic_oscillator): 5.4 Order and Stability
@@ -328,21 +332,21 @@
 - [Elementary arithmetic](https://en.wikipedia.org/wiki/Elementary_arithmetic): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Elephant in the room](https://en.wikipedia.org/wiki/Elephant_in_the_room): 9.4.3 Bias, Fallacy, and Sophism
 - [Embedding](https://en.wikipedia.org/wiki/Embedding): 2.4.4 Structure of Relationships, 7.3.3 Machine Learning and Deep Learning
-- [Emergence](https://en.wikipedia.org/wiki/Emergence): 5.5 Fluctuation and Evolution
-- [Empathy](https://en.wikipedia.org/wiki/Empathy): 8.3 Value, 8.4.5 Communication
+- [Emergence](https://en.wikipedia.org/wiki/Emergence): 5.4 Fluctuation and Evolution
+- [Empathy](https://en.wikipedia.org/wiki/Empathy): 8.3.6 Emotional and Cultural value, 8.4.5 Communication
 - [Empirical evidence](https://en.wikipedia.org/wiki/Empirical_evidence): 6.2.2 Empirical Research
 - [Empirical relationship](https://en.wikipedia.org/wiki/Empirical_relationship): 6.2.3 Foundation of Hypothesis Building
 - [Encoder](https://en.wikipedia.org/wiki/Encoder): 1.2.2.4 Observation
 - [Encryption](https://en.wikipedia.org/wiki/Encryption): 1.2.3.2 Information
 - [Endogeneity (econometrics)](https://en.wikipedia.org/wiki/Endogeneity_(econometrics)): 7.2.3 Variables and Parameters
 - [Ensemble learning](https://en.wikipedia.org/wiki/Ensemble_learning): 7.4.3 Model Improvement and Update
-- [Entertainment](https://en.wikipedia.org/wiki/Entertainment): 8.3 Value
+- [Entertainment](https://en.wikipedia.org/wiki/Entertainment): 8.3.6 Emotional and Cultural value
 - [Entropy](https://en.wikipedia.org/wiki/Entropy): 4.2.1 Phenomenological Causality
 - [Entropy \(information theory\)](https://en.wikipedia.org/wiki/Entropy_(information_theory)): 1.2.2.3 Transmission Efficiency, 1.2.3.2 Information
 - [Entropy encoding](https://en.wikipedia.org/wiki/Entropy_encoding): 1.2.3.2 Information
 - [Environment (systems)](https://en.wikipedia.org/wiki/Environment_(systems)): 5.2 Structure of a System
 - [Environmental design](https://en.wikipedia.org/wiki/Environmental_design): 8.4.3 Information Presentation and Design
-- [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance): 8.3 Value
+- [Environmental, social, and corporate governance](https://en.wikipedia.org/wiki/Environmental,_social,_and_corporate_governance): 8.3.3 Social value
 - [Epidemiology](https://en.wikipedia.org/wiki/Epidemiology): 4.2.2 Analytical Causality, 7.3.2 Causal Inference
 - [Epoché](https://en.wikipedia.org/wiki/Epoch%C3%A9): 3.3.2.5 Limits of Provability
 - [Equilibrium](https://en.wikipedia.org/wiki/Equilibrium): 5.4 Order and Stability
@@ -351,9 +355,9 @@
 - [Error detection and correction](https://en.wikipedia.org/wiki/Error_detection_and_correction): 1.2.2.4 Observation
 - [Estimand](https://en.wikipedia.org/wiki/Estimand): 6.2.2 Empirical Research
 - [Estimator](https://en.wikipedia.org/wiki/Estimator): 7.2.3 Variables and Parameters
-- [Ethics](https://en.wikipedia.org/wiki/Ethics): 8.3 Value
+- [Ethics](https://en.wikipedia.org/wiki/Ethics): 8.3.2 [Value \(ethics\)
 - [Ethics of artificial intelligence](https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence): 10.4.2 Generative AI and Social Impact
-- [Ethics of care](https://en.wikipedia.org/wiki/Ethics_of_care): 8.3 Value
+- [Ethics of care](https://en.wikipedia.org/wiki/Ethics_of_care): 8.3.2 [Value \(ethics\)
 - [Ethnography](https://en.wikipedia.org/wiki/Ethnography): 6.2.2 Empirical Research
 - [Etiquette](https://en.wikipedia.org/wiki/Etiquette): 8.4.5 Communication
 - [Euclidean geometry](https://en.wikipedia.org/wiki/Euclidean_geometry): 3.4.5 Areas of mathematics (Reference)
@@ -381,13 +385,13 @@
 - [F-score](https://en.wikipedia.org/wiki/F-score): 7.4.1.3 Indicators of Classification Performance
 - [Facilitator](https://en.wikipedia.org/wiki/Facilitator): 9.2.2 Roles
 - [Factor (experimental design)](https://en.wikipedia.org/wiki/Factor_(experimental_design)): 6.3.1 System, Factor, and Result
-- [Fact–value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction): 8.3 Value
-- [Fad](https://en.wikipedia.org/wiki/Fad): 8.3 Value
+- [Fact–value distinction](https://en.wikipedia.org/wiki/Fact%E2%80%93value_distinction): 8.3.1 Value (economics)
+- [Fad](https://en.wikipedia.org/wiki/Fad): 8.3.6 Emotional and Cultural value
 - [Failure](https://en.wikipedia.org/wiki/Failure): 6.5.3 Quality Control
-- [Faith](https://en.wikipedia.org/wiki/Faith): 8.3 Value
+- [Faith](https://en.wikipedia.org/wiki/Faith): 8.3.2 [Value \(ethics\)
 - [Fallacy](https://en.wikipedia.org/wiki/Fallacy): 3.3.2.5 Limits of Provability, 9.4.3 Bias, Fallacy, and Sophism
-- [Fallacy of composition](https://en.wikipedia.org/wiki/Fallacy_of_composition): 5.3 Analytical Approach
-- [Fan (person)](https://en.wikipedia.org/wiki/Fan_(person)): 8.3 Value
+- [Fallacy of composition](https://en.wikipedia.org/wiki/Fallacy_of_composition): 5.5 Analytical Approach
+- [Fan (person)](https://en.wikipedia.org/wiki/Fan_(person)): 8.3.6 Emotional and Cultural value
 - [Fano's inequality](https://en.wikipedia.org/wiki/Fano%27s_inequality): 1.2.2.3 Transmission Efficiency
 - [Feature extraction](https://en.wikipedia.org/wiki/Feature_extraction): 6.2.1 Scientific Method, 6.4.4.4 Data Evaluation and Preprocessing
 - [Feature learning](https://en.wikipedia.org/wiki/Feature_learning): 7.3.3 Machine Learning and Deep Learning
@@ -402,8 +406,8 @@
 - [Finite difference method](https://en.wikipedia.org/wiki/Finite_difference_method): 3.4.5 Areas of mathematics (Reference), 10.2.3 Algorithms
 - [Finite element method](https://en.wikipedia.org/wiki/Finite_element_method): 10.2.3 Algorithms
 - [First-order logic](https://en.wikipedia.org/wiki/First-order_logic): 3.2.2 Logic
-- [Fluctuation](https://en.wikipedia.org/wiki/Fluctuation): 5.5 Fluctuation and Evolution
-- [Fluid dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics): 5.5 Fluctuation and Evolution
+- [Fluctuation](https://en.wikipedia.org/wiki/Fluctuation): 5.4 Fluctuation and Evolution
+- [Fluid dynamics](https://en.wikipedia.org/wiki/Fluid_dynamics): 5.4 Fluctuation and Evolution
 - [Focus (linguistics)](https://en.wikipedia.org/wiki/Focus_(linguistics)): 8.4.1 Information Extraction and Grouping from Objects
 - [Folksonomy](https://en.wikipedia.org/wiki/Folksonomy): 2.4.3 Bottom-Up Approach
 - [Formal grammar](https://en.wikipedia.org/wiki/Formal_grammar): 10.2.2 Computational Model
@@ -412,20 +416,20 @@
 - [Formal verification](https://en.wikipedia.org/wiki/Formal_verification): 6.2.3 Foundation of Hypothesis Building
 - [Formula](https://en.wikipedia.org/wiki/Formula): 3.4.1.1 Formal system, 8.4.2 Expressive Techniques
 - [Foundation model](https://en.wikipedia.org/wiki/Foundation_model): 7.3.3 Machine Learning and Deep Learning
-- [Fractal](https://en.wikipedia.org/wiki/Fractal): 3.4.5 Areas of mathematics (Reference), 5.5 Fluctuation and Evolution
+- [Fractal](https://en.wikipedia.org/wiki/Fractal): 3.4.5 Areas of mathematics (Reference), 5.4 Fluctuation and Evolution
 - [Frame problem](https://en.wikipedia.org/wiki/Frame_problem): 1.4 Concept, 10.4.1 Symbolic AI and Connectionism
 - [Free market](https://en.wikipedia.org/wiki/Free_market): 5.4 Order and Stability, 9.3.3 Methods of Decision/Settlement
 - [Frege's theorem](https://en.wikipedia.org/wiki/Frege%27s_theorem): 3.2.2 Logic, 3.5.1 Number, 8.2 Meaning
 - [Frequentist inference](https://en.wikipedia.org/wiki/Frequentist_inference): 7.3.1.3 Statistical Inference
 - [Functional analysis](https://en.wikipedia.org/wiki/Functional_analysis): 3.4.5 Areas of mathematics (Reference)
 - [Functional programming](https://en.wikipedia.org/wiki/Functional_programming): 10.2.2 Computational Model
-- [Fungibility](https://en.wikipedia.org/wiki/Fungibility): 8.3 Value
+- [Fungibility](https://en.wikipedia.org/wiki/Fungibility): 8.3.1 Value (economics)
 - [Fuzzy logic](https://en.wikipedia.org/wiki/Fuzzy_logic): 3.3.2.4 Extensions of Logic
 - [Fuzzy set](https://en.wikipedia.org/wiki/Fuzzy_set): 2.4.5 Problems in Structuring
 
 - [Game theory](https://en.wikipedia.org/wiki/Game_theory): 3.4.5 Areas of mathematics (Reference), 5.4 Order and Stability, 7.3.4 Optimization and Strategy Models, 9.3.3 Methods of Decision/Settlement
 - [Garbage in, garbage out](https://en.wikipedia.org/wiki/Garbage_in,_garbage_out): 6.4.4.4 Data Evaluation and Preprocessing
-- [Geidō](https://en.wikipedia.org/wiki/Geid%C5%8D): 8.3 Value
+- [Geidō](https://en.wikipedia.org/wiki/Geid%C5%8D): 8.3.5 Aesthetic value
 - [Generalization](https://en.wikipedia.org/wiki/Generalization): 2.2.2 Abstraction by Extracting Commonalities, 3.3.2.1 Basic Forms of Inference
 - [Generalized linear mixed model](https://en.wikipedia.org/wiki/Generalized_linear_mixed_model): 7.3.1.3 Statistical Inference
 - [Generalized linear model](https://en.wikipedia.org/wiki/Generalized_linear_model): 7.3.1.3 Statistical Inference
@@ -437,8 +441,8 @@
 - [Gift](https://en.wikipedia.org/wiki/Gift): 8.4.5 Communication
 - [Github](https://github.com/the-understanding/texts): Understanding: 10 Questions for Beginners
 - [Goodness of fit](https://en.wikipedia.org/wiki/Goodness_of_fit): 7.4.1.5 Model Selection and Complexity
-- [Goodwill (accounting)](https://en.wikipedia.org/wiki/Goodwill_(accounting)): 8.3 Value
-- [Gossen's laws](https://en.wikipedia.org/wiki/Gossen%27s_laws): 8.3 Value
+- [Goodwill (accounting)](https://en.wikipedia.org/wiki/Goodwill_(accounting)): 8.3.1 Value (economics)
+- [Gossen's laws](https://en.wikipedia.org/wiki/Gossen%27s_laws): 8.3.1 Value (economics)
 - [Governing equation](https://en.wikipedia.org/wiki/Governing_equation): 7.2.2 Typology by Model Construction Procedure
 - [Gradient method](https://en.wikipedia.org/wiki/Gradient_method): 10.2.3 Algorithms
 - [Granger causality](https://en.wikipedia.org/wiki/Granger_causality): 7.3.1.3 Statistical Inference, 7.3.2 Causal Inference
@@ -446,11 +450,11 @@
 - [Graph (discrete mathematics)](https://en.wikipedia.org/wiki/Graph_(discrete_mathematics)): 8.4.2 Expressive Techniques
 - [Graph database](https://en.wikipedia.org/wiki/Graph_database): 10.2.4 Data Structures and Databases
 - [Category:Graph invariants](https://en.wikipedia.org/wiki/Category:Graph_invariants): 5.4 Order and Stability
-- [Graph theory](https://en.wikipedia.org/wiki/Graph_theory): 3.4.5 Areas of mathematics (Reference), 5.3 Analytical Approach
+- [Graph theory](https://en.wikipedia.org/wiki/Graph_theory): 3.4.5 Areas of mathematics (Reference), 5.5 Analytical Approach
 - [Graphics processing unit](https://en.wikipedia.org/wiki/Graphics_processing_unit): 10.3.1 Computer hardware
 - [Greatest common divisor](https://en.wikipedia.org/wiki/Greatest_common_divisor): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Greedy algorithm](https://en.wikipedia.org/wiki/Greedy_algorithm): 10.2.3 Algorithms
-- [Gresham's law](https://en.wikipedia.org/wiki/Gresham%27s_law): 8.3 Value
+- [Gresham's law](https://en.wikipedia.org/wiki/Gresham%27s_law): 8.3.1 Value (economics)
 - [Grounded theory](https://en.wikipedia.org/wiki/Grounded_theory): 6.2.2 Empirical Research
 - [Group decision-making](https://en.wikipedia.org/wiki/Group_decision-making): 9.3.1 Decision Making
 - [Groupthink](https://en.wikipedia.org/wiki/Groupthink): 9.4.3 Bias, Fallacy, and Sophism
@@ -472,13 +476,13 @@
 - [Hierarchy](https://en.wikipedia.org/wiki/Hierarchy): 2.4.2 Top-Down Approach
 - [High-context and low-context cultures](https://en.wikipedia.org/wiki/High-context_and_low-context_cultures): 8.4.5 Communication
 - [Hoare logic](https://en.wikipedia.org/wiki/Hoare_logic): 3.3.2.6 Related Fields of Logic
-- [Hobby](https://en.wikipedia.org/wiki/Hobby): 8.3 Value
-- [Holism](https://en.wikipedia.org/wiki/Holism): 5.3 Analytical Approach
-- [Homeostasis](https://en.wikipedia.org/wiki/Homeostasis): 5.5 Fluctuation and Evolution
+- [Hobby](https://en.wikipedia.org/wiki/Hobby): 8.3.6 Emotional and Cultural value
+- [Holism](https://en.wikipedia.org/wiki/Holism): 5.5 Analytical Approach
+- [Homeostasis](https://en.wikipedia.org/wiki/Homeostasis): 5.4 Fluctuation and Evolution
 - [Homoscedasticity and heteroscedasticity](https://en.wikipedia.org/wiki/Homoscedasticity_and_heteroscedasticity): 6.4.4.1 Observational error
 - [House rule](https://en.wikipedia.org/wiki/House_rule): 5.6 Understanding and Operation of Systems
 - [Human error](https://en.wikipedia.org/wiki/Human_error): 6.5.3 Quality Control
-- [Humanitarian aid](https://en.wikipedia.org/wiki/Humanitarian_aid): 8.3 Value
+- [Humanitarian aid](https://en.wikipedia.org/wiki/Humanitarian_aid): 8.3.2 [Value \(ethics\)
 - [Hume's principle](https://en.wikipedia.org/wiki/Hume%27s_principle): 3.2.2 Logic, 8.2 Meaning
 - [Hyperparameter](https://en.wikipedia.org/wiki/Hyperparameter): 7.2.3 Variables and Parameters
 - [Hyperparameter (machine learning)](https://en.wikipedia.org/wiki/Hyperparameter_(machine_learning)): 7.2.3 Variables and Parameters
@@ -495,15 +499,15 @@
 - [Individualism](https://en.wikipedia.org/wiki/Individualism): 5.6 Understanding and Operation of Systems
 - [Industrial engineering](https://en.wikipedia.org/wiki/Industrial_engineering): 6.5.2 Production management
 - [Informal organization](https://en.wikipedia.org/wiki/Informal_organization): 5.2 Structure of a System
-- [Informatics](https://en.wikipedia.org/wiki/Informatics): 5.3 Analytical Approach
+- [Informatics](https://en.wikipedia.org/wiki/Informatics): 5.5 Analytical Approach
 - [Information asymmetry](https://en.wikipedia.org/wiki/Information_asymmetry): 5.2 Structure of a System
 - [Information content](https://en.wikipedia.org/wiki/Information_content): 1.2.3.2 Infromation
 - [Information geometry](https://en.wikipedia.org/wiki/Information_geometry): 3.4.5 Areas of mathematics (Reference)
 - [Information overload](https://en.wikipedia.org/wiki/Information_overload): 10.4.2 Generative AI and Social Impact
 - [Information security](https://en.wikipedia.org/wiki/Information_security): 10.3.3 Network and Security
-- [Information systems](https://en.wikipedia.org/wiki/Information_systems): 5.3 Analytical Approach
+- [Information systems](https://en.wikipedia.org/wiki/Information_systems): 5.5 Analytical Approach
 - [Initial value problem](https://en.wikipedia.org/wiki/Initial_value_problem): 7.2.2 Typology by Model Construction Procedure
-- [Innovation](https://en.wikipedia.org/wiki/Innovation): 5.5 Fluctuation and Evolution, 6.2.1 Scientific Method, 8.3 Value
+- [Innovation](https://en.wikipedia.org/wiki/Innovation): 5.4 Fluctuation and Evolution, 6.2.1 Scientific Method, 8.3.4 Truth value
 - [Input device](https://en.wikipedia.org/wiki/Input_device): 10.3.1 Computer hardware
 - [Input/output](https://en.wikipedia.org/wiki/Input/output): 10.3.2 Software
 - [Instruction pipelining](https://en.wikipedia.org/wiki/Instruction_pipelining): 10.3.1 Computer hardware
@@ -513,16 +517,16 @@
 - [Integral transform](https://en.wikipedia.org/wiki/Integral_transform): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit): 10.3.1 Computer hardware
 - [Intentionality](https://en.wikipedia.org/wiki/Intentionality): 9.2.4 Determining Priority
-- [Interest](https://en.wikipedia.org/wiki/Interest): 8.3 Value
+- [Interest](https://en.wikipedia.org/wiki/Interest): 8.3.1 Value (economics)
 - [International System of Units](https://en.wikipedia.org/wiki/International_System_of_Units): 6.3.3 Quantities (Reference)
 - [Internet](https://en.wikipedia.org/wiki/Internet): 10.3.3 Network and Security
 - [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things): 10.3.3 Network and Security
 - [Interpersonal relationship](https://en.wikipedia.org/wiki/Interpersonal_relationship): 8.4.5 Communication
 - [Interpretability](https://en.wikipedia.org/wiki/Interpretability)
 - [Interview](https://en.wikipedia.org/wiki/Interview): 6.2.2 Empirical Research
-- [Intrinsic value (finance)](https://en.wikipedia.org/wiki/Intrinsic_value_(finance)): 8.3 Value
+- [Intrinsic value (finance)](https://en.wikipedia.org/wiki/Intrinsic_value_(finance)): 8.3.1 Value (economics)
 - [Invention](https://en.wikipedia.org/wiki/Invention): 6.2.1 Scientific Method
-- [Inventive step and non-obviousness](https://en.wikipedia.org/wiki/Inventive_step_and_non-obviousness): 8.3 Value
+- [Inventive step and non-obviousness](https://en.wikipedia.org/wiki/Inventive_step_and_non-obviousness): 8.3.4 Truth value
 - [Inverse (logic)](https://en.wikipedia.org/wiki/Inverse_(logic)): 3.3.1.3 Relationships of Propositions
 - [Inverse element](https://en.wikipedia.org/wiki/Inverse_element): 3.4.4.2 Algebra of sets
 - [Inverse function](https://en.wikipedia.org/wiki/Inverse_function): 3.4.3.3 Map (mathematics)
@@ -531,7 +535,7 @@
 - [Item response theory](https://en.wikipedia.org/wiki/Item_response_theory): 6.2.2 Empirical Research
 - [Iterative method](https://en.wikipedia.org/wiki/Iterative_method): 10.2.3 Algorithms
 
-- [Journalism](https://en.wikipedia.org/wiki/Journalism): 8.3 Value
+- [Journalism](https://en.wikipedia.org/wiki/Journalism): 8.3.4 Truth value
 
 - [Key–value database](https://en.wikipedia.org/wiki/Key%E2%80%93value_database): 10.2.4 Data Structures and Databases
 - [Knowledge](https://en.wikipedia.org/wiki/Knowledge): 6.2.3 Foundation of Hypothesis Building
@@ -551,26 +555,27 @@
 - [Lattice](https://en.wikipedia.org/wiki/Lattice): 5.4 Order and Stability
 - [Law](https://en.wikipedia.org/wiki/Law): 5.2 Structure of a System
 - [Law (principle)](https://en.wikipedia.org/wiki/Law_(principle)): 3.4.1.1 Formal system, 6.2.3 Foundation of Hypothesis Building
-- [Law of demand](https://en.wikipedia.org/wiki/Law_of_demand): 8.3 Value
-- [Law of one price](https://en.wikipedia.org/wiki/Law_of_one_price): 8.3 Value
+- [Law of demand](https://en.wikipedia.org/wiki/Law_of_demand): 8.3.1 Value (economics)
+- [Law of one price](https://en.wikipedia.org/wiki/Law_of_one_price): 8.3.1 Value (economics)
 - [Laws of science](https://en.wikipedia.org/wiki/Laws_of_science): 6.2.3 Foundation of Hypothesis Building
+- [Leadership](https://en.wikipedia.org/wiki/Leadership): 8.3.1 Value (economics)
 - [Lean (proof assistant)](https://en.wikipedia.org/wiki/Lean_(proof_assistant)): 3.4.2.3 Formal Proof
 - [Lean manufacturing](https://en.wikipedia.org/wiki/Lean_manufacturing): 6.5.2 Production management
 - [Learning rate](https://en.wikipedia.org/wiki/Learning_rate): 7.4.2.3 Model Learning and Evaluation
 - [Least common multiple](https://en.wikipedia.org/wiki/Least_common_multiple): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Length](https://en.wikipedia.org/wiki/Length): 6.3.3 Quantities (Reference)
 - [Level of measurement](https://en.wikipedia.org/wiki/Level_of_measurement): 2.3.2 Evaluation Metrics, 6.3.2 Qualitative, Quantitative, and Scale
-- [Leverage point](https://en.wikipedia.org/wiki/Leverage_point): 5.5 Fluctuation and Evolution
+- [Leverage point](https://en.wikipedia.org/wiki/Leverage_point): 5.4 Fluctuation and Evolution
 - [Liberalism](https://en.wikipedia.org/wiki/Liberalism): 5.6 Understanding and Operation of Systems
 - [Library (computing)](https://en.wikipedia.org/wiki/Library_(computing)): 5.2 Structure of a System
 - [Likelihood-ratio test](https://en.wikipedia.org/wiki/Likelihood-ratio_test): 7.3.1.3 Statistical Inference
 - [Likert scale](https://en.wikipedia.org/wiki/Likert_scale): 6.3.2 Qualitative, Quantitative, and Scale
 - [Limit (mathematics)](https://en.wikipedia.org/wiki/Limit_(mathematics)): 3.5.2 Operation (mathematics) and Operator (physics)
-- [Limit cycle](https://en.wikipedia.org/wiki/Limit_cycle): 5.5 Fluctuation and Evolution
+- [Limit cycle](https://en.wikipedia.org/wiki/Limit_cycle): 5.4 Fluctuation and Evolution
 - [Line (geometry)](https://en.wikipedia.org/wiki/Line_(geometry)): 3.5.1 Number
 - [Linear map](https://en.wikipedia.org/wiki/Linear_map): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Linear programming](https://en.wikipedia.org/wiki/Linear_programming): 10.2.3 Algorithms
-- [Linear system](https://en.wikipedia.org/wiki/Linear_system): 5.5 Fluctuation and Evolution
+- [Linear system](https://en.wikipedia.org/wiki/Linear_system): 5.4 Fluctuation and Evolution
 - [List (abstract data type)](https://en.wikipedia.org/wiki/List_(abstract_data_type)): 10.2.4 Data Structures and Databases
 - [List of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases): 9.4.3 Bias, Fallacy, and Sophism
 - [List of fallacies](https://en.wikipedia.org/wiki/List_of_fallacies): 9.4.3 Bias, Fallacy, and Sophism
@@ -587,7 +592,7 @@
 - [Logos](https://en.wikipedia.org/wiki/Logos): 1.4 Concept
 - [Loss function](https://en.wikipedia.org/wiki/Loss_function): 7.4.1.4 Indicators Based on Similarity and Information Content
 - [Luminous intensity](https://en.wikipedia.org/wiki/Luminous_intensity): 6.3.3 Quantities (Reference)
-- [Lyapunov stability](https://en.wikipedia.org/wiki/Lyapunov_stability): 5.5 Fluctuation and Evolution
+- [Lyapunov stability](https://en.wikipedia.org/wiki/Lyapunov_stability): 5.4 Fluctuation and Evolution
 
 - [Machine learning](https://en.wikipedia.org/wiki/Machine_learning): 10.4.2 Generative AI and Social Impact
 - [Majority rule](https://en.wikipedia.org/wiki/Majority_rule): 9.3.3 Methods of Decision/Settlement
@@ -596,7 +601,7 @@
 - [Manners](https://en.wikipedia.org/wiki/Manners): 8.4.5 Communication
 - [Many-body problem](https://en.wikipedia.org/wiki/Many-body_problem): 3.4.5 Areas of mathematics (Reference), 5.6 Understanding and Operation of Systems
 - [Map](https://en.wikipedia.org/wiki/Map): 8.4.2 Expressive Techniques
-- [Market value](https://en.wikipedia.org/wiki/Market_value): 8.3 Value
+- [Market value](https://en.wikipedia.org/wiki/Market_value): 8.3.1 Value (economics)
 - [Markov chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo): 7.3.1.2 Stochastic Process
 - [Mass](https://en.wikipedia.org/wiki/Mass): 6.3.3 Quantities (Reference)
 - [Materials informatics](https://en.wikipedia.org/wiki/Materials_informatics): 7.5 Examples of Applied Fields of Mathematical Models
@@ -626,7 +631,7 @@
 - [Meta-analysis](https://en.wikipedia.org/wiki/Meta-analysis): 6.2.2 Empirical Research
 - [Metaheuristic](https://en.wikipedia.org/wiki/Metaheuristic): 10.2.3 Algorithms
 - [Metalogic](https://en.wikipedia.org/wiki/Metalogic): 3.3.2.4 Extensions of Logic
-- [Metastability](https://en.wikipedia.org/wiki/Metastability): 5.5 Fluctuation and Evolution
+- [Metastability](https://en.wikipedia.org/wiki/Metastability): 5.4 Fluctuation and Evolution
 - [Microeconomics](https://en.wikipedia.org/wiki/Microeconomics): 5.6 Understanding and Operation of Systems
 - [Minimax](https://en.wikipedia.org/wiki/Minimax): 7.3.4 Optimization and Strategy Models
 - [Minimum viable product](https://en.wikipedia.org/wiki/Minimum_viable_product): 6.5.1 Development
@@ -639,7 +644,7 @@
 - [Modular design](https://en.wikipedia.org/wiki/Modular_design): 5.2 Structure of a System
 - [Moment-generating function](https://en.wikipedia.org/wiki/Moment-generating_function): 7.3.1.2 Stochastic Process
 - [Monte Carlo method](https://en.wikipedia.org/wiki/Monte_Carlo_method): 6.3.4 Search Space and Data Sampling Design
-- [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system): 5.5 Fluctuation and Evolution
+- [Multi-agent system](https://en.wikipedia.org/wiki/Multi-agent_system): 5.4 Fluctuation and Evolution
 - [Multicollinearity](https://en.wikipedia.org/wiki/Multicollinearity): 7.3.1.3 Statistical Inference
 - [Multiple comparisons problem](https://en.wikipedia.org/wiki/Multiple_comparisons_problem): 7.3.1.3 Statistical Inference
 - [Multiplication](https://en.wikipedia.org/wiki/Multiplication): 3.5.2 Operation (mathematics) and Operator (physics)
@@ -647,39 +652,39 @@
 - [Multivariate analysis](https://en.wikipedia.org/wiki/Multivariate_analysis): 7.3.1.3 Statistical Inference
 
 - [N-of-1 trial](https://en.wikipedia.org/wiki/N-of-1_trial): 6.3.4 Search Space and Data Sampling Design
-- [Narrative](https://en.wikipedia.org/wiki/Narrative): 8.4.2 Expressive Techniques
+- [Narrative](https://en.wikipedia.org/wiki/Narrative): 8.3.6 Emotional and Cultural value, 8.4.2 Expressive Techniques
 - [Nash equilibrium](https://en.wikipedia.org/wiki/Nash_equilibrium): 5.4 Order and Stability, 7.3.4 Optimization and Strategy Models
 - [Natural deduction](https://en.wikipedia.org/wiki/Natural_deduction): 3.3.2.1 Basic Forms of Inference
 - [Natural experiment](https://en.wikipedia.org/wiki/Natural_experiment): 6.3.4 Search Space and Data Sampling Design
 - [Natural number](https://en.wikipedia.org/wiki/Natural_number): 3.5.1 Number
 - [Natural science](https://en.wikipedia.org/wiki/Natural_science): 6.2.1 Scientific Method
 - [Negative feedback](https://en.wikipedia.org/wiki/Negative_feedback): 5.4 Order and Stability
-- [Negentropy](https://en.wikipedia.org/wiki/Negentropy): 5.5 Fluctuation and Evolution
+- [Negentropy](https://en.wikipedia.org/wiki/Negentropy): 5.4 Fluctuation and Evolution
 - [Negotiation](https://en.wikipedia.org/wiki/Negotiation): 7.3.4 Optimization and Strategy Models, 9.2.1 Formats, 9.3.2 Handling Opposing Opinions
-- [Network theory](https://en.wikipedia.org/wiki/Network_theory): 5.3 Analytical Approach
+- [Network theory](https://en.wikipedia.org/wiki/Network_theory): 5.5 Analytical Approach
 - [Network topology](https://en.wikipedia.org/wiki/Network_topology): 5.4 Order and Stability
 - [Neural network](https://en.wikipedia.org/wiki/Neural_network): 7.2.2 Typology by Model Construction Procedure, 10.4.1 Symbolic AI and Connectionism
 - [No free lunch in search and optimization](https://en.wikipedia.org/wiki/No_free_lunch_in_search_and_optimization): 10.2.3 Algorithms
 - [Noise](https://en.wikipedia.org/wiki/Noise): 1.2.2.3 Transmission Efficiency, 6.4.4.1 Observational error
 - [Noisy-channel coding theorem](https://en.wikipedia.org/wiki/Noisy-channel_coding_theorem): 1.2.2.3 Transmission Efficiency
 - [Non-cooperative game theory](https://en.wikipedia.org/wiki/Non-cooperative_game_theory): 7.3.4 Optimization and Strategy Models
-- [Non-equilibrium thermodynamics](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics): 4.3.1 Change in Events, 5.5 Fluctuation and Evolution
+- [Non-equilibrium thermodynamics](https://en.wikipedia.org/wiki/Non-equilibrium_thermodynamics): 4.3.1 Change in Events, 5.4 Fluctuation and Evolution
 - [Non-Euclidean geometry](https://en.wikipedia.org/wiki/Non-Euclidean_geometry): 3.4.5 Areas of mathematics (Reference)
-- [Nonholonomic system](https://en.wikipedia.org/wiki/Nonholonomic_system): 5.5 Fluctuation and Evolution
+- [Nonholonomic system](https://en.wikipedia.org/wiki/Nonholonomic_system): 5.4 Fluctuation and Evolution
 - [Nonlinear dynamics](https://en.wikipedia.org/wiki/Nonlinear_dynamics): 7.2.2 Typology by Model Construction Procedure
 - [Nonlinear programming](https://en.wikipedia.org/wiki/Nonlinear_programming): 10.2.3 Algorithms
-- [Nonlinear system](https://en.wikipedia.org/wiki/Nonlinear_system): 3.4.5 Areas of mathematics (Reference), 5.5 Fluctuation and Evolution
+- [Nonlinear system](https://en.wikipedia.org/wiki/Nonlinear_system): 3.4.5 Areas of mathematics (Reference), 5.4 Fluctuation and Evolution
 - [Non\-monotonic logic](https://en.wikipedia.org/wiki/Non-monotonic_logic): 3.3.2.4 Extensions of Logic
 - [Nonparametric statistics](https://en.wikipedia.org/wiki/Nonparametric_statistics): 7.3.1.3 Statistical Inference
-- [Nonprofit organization](https://en.wikipedia.org/wiki/Nonprofit_organization): 8.3 Value
+- [Nonprofit organization](https://en.wikipedia.org/wiki/Nonprofit_organization): 8.3.2 [Value \(ethics\)
 - [Norm (social)](https://en.wikipedia.org/wiki/Norm_(social)): 5.4 Order and Stability
 - [Norm of reciprocity](https://en.wikipedia.org/wiki/Norm_of_reciprocity): 9.3.2 Handling Opposing Opinions
 - [Normal distribution](https://en.wikipedia.org/wiki/Normal_distribution): 6.4.4.1 Observational error
 - [Normal-form game](https://en.wikipedia.org/wiki/Normal-form_game): 7.3.4 Optimization and Strategy Models
 - [Normalization (statistics)](https://en.wikipedia.org/wiki/Normalization_(statistics)): 6.4.4.4 Data Evaluation and Preprocessing
-- [Normative ethics](https://en.wikipedia.org/wiki/Normative_ethics): 8.3 Value
+- [Normative ethics](https://en.wikipedia.org/wiki/Normative_ethics): 8.3.2 [Value \(ethics\)
 - [NoSQL](https://en.wikipedia.org/wiki/NoSQL): 10.2.4 Data Structures and Databases
-- [Novelty (patent)](https://en.wikipedia.org/wiki/Novelty_(patent)): 8.3 Value
+- [Novelty (patent)](https://en.wikipedia.org/wiki/Novelty_(patent)): 8.3.4 Truth value
 - [NP-completeness](https://en.wikipedia.org/wiki/NP-completeness): 10.2.5 Computational Complexity Theory
 - [NP-hardness](https://en.wikipedia.org/wiki/NP-hardness): 10.2.5 Computational Complexity Theory
 - [Nudge theory](https://en.wikipedia.org/wiki/Nudge_theory): 9.4.3 Bias, Fallacy, and Sophism
@@ -703,7 +708,7 @@
 - [Opinion poll](https://en.wikipedia.org/wiki/Opinion_poll): 7.5 Examples of Applied Fields of Mathematical Models
 - [Optimization problem](https://en.wikipedia.org/wiki/Optimization_problem): 7.3.4 Optimization and Strategy Models, 10.2.3 Algorithms
 - [Optimizing compiler](https://en.wikipedia.org/wiki/Optimizing_compiler): 10.3.2 Software
-- [Option (finance)](https://en.wikipedia.org/wiki/Option_(finance)): 8.3 Value
+- [Option (finance)](https://en.wikipedia.org/wiki/Option_(finance)): 8.3.1 Value (economics)
 - [Ordinal number](https://en.wikipedia.org/wiki/Ordinal_number): 3.5.1 Number
 - [Ordinary differential equation](https://en.wikipedia.org/wiki/Ordinary_differential_equation): 3.4.5 Areas of mathematics (Reference)
 - [Organization](https://en.wikipedia.org/wiki/Organization): 5.2 Structure of a System
@@ -715,7 +720,7 @@
 - [P-hacking](https://en.wikipedia.org/wiki/P-hacking): 7.4.2.2 Bias and Distortion
 - [p-value](https://en.wikipedia.org/wiki/P-value): 7.3.1.3 Statistical Inference
 - [Pain](https://en.wikipedia.org/wiki/Pain): 1.3.1 Perception
-- [Paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift): 5.5 Fluctuation and Evolution, 6.2.1 Scientific Method
+- [Paradigm shift](https://en.wikipedia.org/wiki/Paradigm_shift): 5.4 Fluctuation and Evolution, 6.2.1 Scientific Method
 - [Paradox](https://en.wikipedia.org/wiki/Paradox): 3.3.2.5 Limits of Provability
 - [Paradox of tolerance](https://en.wikipedia.org/wiki/Paradox_of_tolerance): 9.4.2 Problems Inherent in the Decision-Making Process
 - [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing): 10.3.1 Computer hardware, 10.3.4.2 Molecular Computing
@@ -733,12 +738,12 @@
 - [Perceptron](https://en.wikipedia.org/wiki/Perceptron): 10.4.1 Symbolic AI and Connectionism
 - [Perfect information](https://en.wikipedia.org/wiki/Perfect_information): 7.3.4 Optimization and Strategy Models
 - [Persuasion](https://en.wikipedia.org/wiki/Persuasion): 9.3.2 Handling Opposing Opinions
-- [Perturbation (astronomy)](https://en.wikipedia.org/wiki/Perturbation_(astronomy)): 5.5 Fluctuation and Evolution
+- [Perturbation (astronomy)](https://en.wikipedia.org/wiki/Perturbation_(astronomy)): 5.4 Fluctuation and Evolution
 - [Phase space](https://en.wikipedia.org/wiki/Phase_space): 5.2 Structure of a System
-- [Phase transition](https://en.wikipedia.org/wiki/Phase_transition): 4.3.1 Change in Events, 5.5 Fluctuation and Evolution, 7.5 Examples of Applied Fields of Mathematical Models
+- [Phase transition](https://en.wikipedia.org/wiki/Phase_transition): 4.3.1 Change in Events, 5.4 Fluctuation and Evolution, 7.5 Examples of Applied Fields of Mathematical Models
 - [Phenomenology (philosophy)](https://en.wikipedia.org/wiki/Phenomenology_(philosophy)): 6.2.2 Empirical Research
 - [Philosophy of science](https://en.wikipedia.org/wiki/Philosophy_of_science): 6.2.1 Scientific method
-- [Phugoid](https://en.wikipedia.org/wiki/Phugoid): 5.4 Order and Stability, 5.5 Fluctuation and Evolution
+- [Phugoid](https://en.wikipedia.org/wiki/Phugoid): 5.4 Order and Stability, 5.4 Fluctuation and Evolution
 - [Physical law](https://en.wikipedia.org/wiki/Physical_law): 6.2.3 Foundation of Hypothesis Building
 - [Pilot experiment](https://en.wikipedia.org/wiki/Pilot_experiment): 6.2.2 Empirical research
 - [Placebo](https://en.wikipedia.org/wiki/Placebo): 6.3.4 Search Space and Data Sampling Design
@@ -748,15 +753,15 @@
 - [Post hoc ergo propter hoc](https://en.wikipedia.org/wiki/Post_hoc_ergo_propter_hoc): 4.2.2 Analytical Causality, 9.4.3 Bias, Fallacy, and Sophism
 - [Post-structuralism](https://en.wikipedia.org/wiki/Post-structuralism): 2.4.1 Structuring of Information
 - [Posterior probability](https://en.wikipedia.org/wiki/Posterior_probability): 6.4.4.4 Data Evaluation and Preprocessing, 7.3.1.3 Statistical Inference
-- [Pragmatic ethics](https://en.wikipedia.org/wiki/Pragmatic_ethics): 8.3 Value
+- [Pragmatic ethics](https://en.wikipedia.org/wiki/Pragmatic_ethics): 8.3.2 [Value \(ethics\)
 - [Pragmatics](https://en.wikipedia.org/wiki/Pragmatics): 8.2 Meaning
 - [Prediction](https://en.wikipedia.org/wiki/Prediction): 6.2.1 Scientific Method
 - [Prediction interval](https://en.wikipedia.org/wiki/Prediction_interval): 7.3.1.3 Statistical Inference
 - [Prejudice](https://en.wikipedia.org/wiki/Prejudice): 1.3.2 Recognition, 9.4.3 Bias, Fallacy, and Sophism
 - [PREP method](https://en.wikipedia.org/wiki/PREP_method): 8.4.2 Expressive Techniques
-- [Present value](https://en.wikipedia.org/wiki/Present_value): 8.3 Value
+- [Present value](https://en.wikipedia.org/wiki/Present_value): 8.3.1 Value (economics)
 - [Presentation](https://en.wikipedia.org/wiki/Presentation): 8.4.2 Expressive Techniques
-- [Price](https://en.wikipedia.org/wiki/Price): 8.3 Value
+- [Price](https://en.wikipedia.org/wiki/Price): 8.3.1 Value (economics)
 - [Prime number](https://en.wikipedia.org/wiki/Prime_number): 3.5.1 Number
 - [Principle of compositionality](https://en.wikipedia.org/wiki/Principle_of_compositionality): 3.2.2 Logic, 8.2 Meaning
 - [Principles of motion economy](https://en.wikipedia.org/wiki/Principles_of_motion_economy): 6.5.2 Production management
@@ -835,13 +840,13 @@
 - [Ranking](https://en.wikipedia.org/wiki/Ranking): 2.4.1 Structuring of Information
 - [Rate-determining step](https://en.wikipedia.org/wiki/Rate-determining_step): 4.3.2 Operations and Procedures
 - [Ratio](https://en.wikipedia.org/wiki/Ratio): 3.5.2 Operation (mathematics) and Operator (physics)
-- [Rational choice theory](https://en.wikipedia.org/wiki/Rational_choice_theory): 5.6 Understanding and Operation of Systems, 8.3 Value
+- [Rational choice theory](https://en.wikipedia.org/wiki/Rational_choice_theory): 5.6 Understanding and Operation of Systems, 8.3.1 Value (economics)
 - [Reaction rate](https://en.wikipedia.org/wiki/Reaction_rate): 4.3.1 Change in Events
 - [Recall (memory)](https://en.wikipedia.org/wiki/Recall_(memory)): 1.2.3.3 Retrieval and Recall
 - [Receiver operating characteristic](https://en.wikipedia.org/wiki/Receiver_operating_characteristic): 7.4.1.3 Indicators of Classification Performance
 - [Reciprocal lattice](https://en.wikipedia.org/wiki/Reciprocal_lattice): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Reduction (complexity)](https://en.wikipedia.org/wiki/Reduction_(complexity)): 10.2.5 Computational Complexity Theory
-- [Reductionism](https://en.wikipedia.org/wiki/Reductionism): 5.3 Analytical Approach
+- [Reductionism](https://en.wikipedia.org/wiki/Reductionism): 5.5 Analytical Approach
 - [Regression analysis](https://en.wikipedia.org/wiki/Regression_analysis): 7.3.1.3 Statistical Inference
 - [Regular expression](https://en.wikipedia.org/wiki/Regular_expression): 10.2.2 Computational Model
 - [Regularization (mathematics)](https://en.wikipedia.org/wiki/Regularization_(mathematics)): 7.4.1.5 Model Selection and Complexity
@@ -851,8 +856,8 @@
 - [Relational database management system](https://en.wikipedia.org/wiki/Relational_database_management_system): 10.2.4 Data Structures and Databases
 - [Relational operator](https://en.wikipedia.org/wiki/Relational_operator): 3.4.4.1 Operation (mathematics), 3.5.2 Operation (mathematics) and Operator (physics)
 - [Relevance](https://en.wikipedia.org/wiki/Relevance): 8.2 Meaning, 6.3.5 Relationship between Factor (Group) A and Result (Group) B
-- [Reliability](https://en.wikipedia.org/wiki/Reliability): 8.3 Value
-- [Religion](https://en.wikipedia.org/wiki/Religion): 8.3 Value
+- [Reliability](https://en.wikipedia.org/wiki/Reliability): 8.3.4 Truth value
+- [Religion](https://en.wikipedia.org/wiki/Religion): 8.3.2 [Value \(ethics\)
 - [Repeated game](https://en.wikipedia.org/wiki/Repeated_game): 7.3.4 Optimization and Strategy Models
 - [Replication crisis](https://en.wikipedia.org/wiki/Replication_crisis): 6.2.1 Scientific Method
 - [Reproducibility](https://en.wikipedia.org/wiki/Reproducibility): 6.2.1 Scientific Method, 6.3.6 Confirming the Relationship between Factor (Group) A and Result (Group) B
@@ -869,7 +874,7 @@
 - [Ripple effect](https://en.wikipedia.org/wiki/Ripple_effect): 9.2.5 Expected Results, Conclusions, and Future Actions
 - [Risk assessment](https://en.wikipedia.org/wiki/Risk_assessment): 6.5.2 Production management, 9.2.5 Expected Results, Conclusions, and Future Actions
 - [Risk management](https://en.wikipedia.org/wiki/Risk_management): 4.3.3 Planning
-- [Ritual](https://en.wikipedia.org/wiki/Ritual): 8.3 Value
+- [Ritual](https://en.wikipedia.org/wiki/Ritual): 8.3.2 [Value \(ethics\)
 - [Robustness (computer science)](https://en.wikipedia.org/wiki/Robustness_(computer_science)): 5.4 Order and Stability
 - [Root-mean-square deviation](https://en.wikipedia.org/wiki/Root-mean-square_deviation): 7.4.1.2 Indicators of Prediction Error
 - [Rotation](https://en.wikipedia.org/wiki/Rotation): 3.5.2 Operation (mathematics) and Operator (physics)
@@ -890,7 +895,7 @@
 - [Sample space](https://en.wikipedia.org/wiki/Sample_space): 6.3.4 Search Space and Data Sampling Design, 7.3.1.2 Stochastic Process
 - [Save (computer science)](https://en.wikipedia.org/wiki/Save_(computer_science)): 1.2.3.1 Data Recording and Preservation
 - [SCAMPER](https://en.wikipedia.org/wiki/SCAMPER): 9.2.3 Framework for Information Sharing and Judgment
-- [Scarcity](https://en.wikipedia.org/wiki/Scarcity): 8.3 Value
+- [Scarcity](https://en.wikipedia.org/wiki/Scarcity): 8.3.1 Value (economics)
 - [Scenario planning](https://en.wikipedia.org/wiki/Scenario_planning): 9.2.3 Framework for Information Sharing and Judgment
 - [Schedule](https://en.wikipedia.org/wiki/Schedule): 4.3.3 Planning
 - [Schedule (project management)](https://en.wikipedia.org/wiki/Schedule_(project_management)): 9.2.5 Expected Results, Conclusions, and Future Actions
@@ -907,8 +912,8 @@
 - [Second law of thermodynamics](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics): 4.2.1 Phenomenological Causality
 - [Secret sharing](https://en.wikipedia.org/wiki/Secret_sharing): 10.3.3 Network and Security
 - [Secure multi-party computation](https://en.wikipedia.org/wiki/Secure_multi-party_computation): 10.3.3 Network and Security
-- [Selection (biology)](https://en.wikipedia.org/wiki/Selection_(biology)): 5.5 Fluctuation and Evolution
-- [Self-organization](https://en.wikipedia.org/wiki/Self-organization): 5.5 Fluctuation and Evolution, 7.5 Examples of Applied Fields of Mathematical Models
+- [Selection (biology)](https://en.wikipedia.org/wiki/Selection_(biology)): 5.4 Fluctuation and Evolution
+- [Self-organization](https://en.wikipedia.org/wiki/Self-organization): 5.4 Fluctuation and Evolution, 7.5 Examples of Applied Fields of Mathematical Models
 - [Self-reference](https://en.wikipedia.org/wiki/Self-reference): 1.3.2 Recognition
 - [Self-supervised learning](https://en.wikipedia.org/wiki/Self-supervised_learning): 7.2.2 Typology by Model Construction Procedure
 - [Semantic holism](https://en.wikipedia.org/wiki/Semantic_holism): 3.2.2 Logic, 8.2 Meaning
@@ -932,7 +937,7 @@
 - [Settlement (litigation)](https://en.wikipedia.org/wiki/Settlement_(litigation)): 9.4.5 Mediation and Conflict Resolution
 - [Seven Basic Tools of Quality](https://en.wikipedia.org/wiki/Seven_Basic_Tools_of_Quality): 6.5.3 Quality Control
 - [Shallow parsing](https://en.wikipedia.org/wiki/Shallow_parsing): 1.3.2 Recognition
-- [Shakedown (continuum mechanics)](https://en.wikipedia.org/wiki/Shakedown_(continuum_mechanics)): 5.5 Fluctuation and Evolution
+- [Shakedown (continuum mechanics)](https://en.wikipedia.org/wiki/Shakedown_(continuum_mechanics)): 5.4 Fluctuation and Evolution
 - [Shannon's source coding theorem](https://en.wikipedia.org/wiki/Shannon%27s_source_coding_theorem): 1.2.3.2 Information
 - [Shor's algorithm](https://en.wikipedia.org/wiki/Shor%27s_algorithm): 10.3.4.1 Quantum Computing
 - [Shortest path problem](https://en.wikipedia.org/wiki/Shortest_path_problem): 10.2.3 Algorithms
@@ -943,16 +948,17 @@
 - [Simple random sample](https://en.wikipedia.org/wiki/Simple_random_sample): 6.3.4 Search Space and Data Sampling Design
 - [Simpson's paradox](https://en.wikipedia.org/wiki/Simpson%27s_paradox): 7.4.2.2 Bias and Distortion
 - [Simulated annealing](https://en.wikipedia.org/wiki/Simulated_annealing): 10.2.3 Algorithms
-- [Simulation](https://en.wikipedia.org/wiki/Simulation): 5.3 Analytical Approach, 7.2.2 Typology by Model Construction Procedure, 10.2.3 Algorithms
+- [Simulation](https://en.wikipedia.org/wiki/Simulation): 5.5 Analytical Approach, 7.2.2 Typology by Model Construction Procedure, 10.2.3 Algorithms
 - [Singularity (mathematics)](https://en.wikipedia.org/wiki/Singularity_(mathematics)): 6.4.4.4 Data Evaluation and Preprocessing
 - [Social choice theory](https://en.wikipedia.org/wiki/Social_choice_theory): 9.3.1 Decision Making
+- [Social contribution](https://en.wikipedia.org/wiki/Social_responsibility): 8.3.3 Social value
 - [Social dilemma](https://en.wikipedia.org/wiki/Social_dilemma): 9.4.2 Problems Inherent in the Decision-Making Process
 - [Social order](https://en.wikipedia.org/wiki/Social_order): 5.4 Order and Stability
 - [Social research](https://en.wikipedia.org/wiki/Social_research): 7.5 Examples of Applied Fields of Mathematical Models
 - [Social responsibility](https://en.wikipedia.org/wiki/Social_responsibility): 8.3 Value
 - [Social science](https://en.wikipedia.org/wiki/Social_science): 6.2.1 Scientific Method
 - [Social statistics](https://en.wikipedia.org/wiki/Social_statistics): 7.5 Examples of Applied Fields of Mathematical Models
-- [Social systems theory](https://en.wikipedia.org/wiki/Social_systems_theory): 5.3 Analytical Approach
+- [Social systems theory](https://en.wikipedia.org/wiki/Social_systems_theory): 5.5 Analytical Approach
 - [Society](https://en.wikipedia.org/wiki/Society): 5.2 Structure of a System
 - [Society of Mind](https://en.wikipedia.org/wiki/Society_of_Mind): 10.4.2 Generative AI and Social Impact
 - [Software engineering](https://en.wikipedia.org/wiki/Software_engineering): 10.3.2 Software
@@ -964,7 +970,7 @@
 - [Spoiler effect](https://en.wikipedia.org/wiki/Spoiler_effect): 9.4.2 Problems Inherent in the Decision-Making Process
 - [Spontaneous process](https://en.wikipedia.org/wiki/Spontaneous_process): 4.3.1 Change in Events
 - [Spurious relationship](https://en.wikipedia.org/wiki/Spurious_relationship): 4.2.2 Analytical Causality, 6.3.5 Relationship between Factor (Group) A and Result (Group) B, 7.3.1.3 Statistical Inference, 7.4.2.2 Bias and Distortion
-- [Stability theory](https://en.wikipedia.org/wiki/Stability_theory): 5.5 Fluctuation and Evolution
+- [Stability theory](https://en.wikipedia.org/wiki/Stability_theory): 5.4 Fluctuation and Evolution
 - [Stack (abstract data type)](https://en.wikipedia.org/wiki/Stack_(abstract_data_type)): 10.2.4 Data Structures and Databases
 - [Stakeholder (corporate)](https://en.wikipedia.org/wiki/Stakeholder_(corporate)): 9.2.2 Roles
 - [Standard deviation](https://en.wikipedia.org/wiki/Standard_deviation): 6.4.4.1 Observational error, 7.3.1.1 Descriptive Statistics
@@ -977,7 +983,7 @@
 - [Statistical dispersion](https://en.wikipedia.org/wiki/Statistical_dispersion): 6.4.4.1 Observational error
 - [Statistical hypothesis testing](https://en.wikipedia.org/wiki/Statistical_hypothesis_testing): 7.3.1.3 Statistical Inference
 - [Statistical inference](https://en.wikipedia.org/wiki/Statistical_inference): 7.2.2 Typology by Model Construction Procedure, 7.3.1.3 Statistical Inference
-- [Statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics): 5.3 Analytical Approach, 7.5 Examples of Applied Fields of Mathematical Models
+- [Statistical mechanics](https://en.wikipedia.org/wiki/Statistical_mechanics): 5.5 Analytical Approach, 7.5 Examples of Applied Fields of Mathematical Models
 - [Statistical model](https://en.wikipedia.org/wiki/Statistical_model): 7.2.2 Typology by Model Construction Procedure, 7.3.1 Statistical model
 - [Statistical population](https://en.wikipedia.org/wiki/Statistical_population): 7.3.1.2 Stochastic Process
 - [Statistical significance](https://en.wikipedia.org/wiki/Statistical_significance): 7.3.1.3 Statistical Inference
@@ -987,32 +993,33 @@
 - [Strategic dominance](https://en.wikipedia.org/wiki/Strategic_dominance): 7.3.4 Optimization and Strategy Models
 - [Stratified sampling](https://en.wikipedia.org/wiki/Stratified_sampling): 6.3.4 Search Space and Data Sampling Design
 - [Straw man](https://en.wikipedia.org/wiki/Straw_man): 9.4.3 Bias, Fallacy, and Sophism
-- [Structural functionalism](https://en.wikipedia.org/wiki/Structural_functionalism): 5.3 Analytical Approach
+- [Structural functionalism](https://en.wikipedia.org/wiki/Structural_functionalism): 5.5 Analytical Approach
 - [Structural stability](https://en.wikipedia.org/wiki/Structural_stability): 5.4 Order and Stability
-- [Structuralism](https://en.wikipedia.org/wiki/Structuralism): 2.4.1 Structuring of Information, 5.3 Analytical Approach
+- [Structuralism](https://en.wikipedia.org/wiki/Structuralism): 2.4.1 Structuring of Information, 5.5 Analytical Approach
 - [Structured programming](https://en.wikipedia.org/wiki/Structured_programming): 10.3.2 Software
 - [Subject and object](https://en.wikipedia.org/wiki/Subject_(philosophy)): 1.3.2 Recognition
 - [Subitizing](https://en.wikipedia.org/wiki/Subitizing): 1.3.2 Recognition
 - [Subtraction](https://en.wikipedia.org/wiki/Subtraction): 3.5.2 Operation (mathematics) and Operator (physics)
 - [Summary statistics](https://en.wikipedia.org/wiki/Summary_statistics): 7.3.1.1 Descriptive Statistics
 - [Supervised learning](https://en.wikipedia.org/wiki/Supervised_learning): 7.2.2 Typology by Model Construction Procedure, 7.3.3 Machine Learning and Deep Learning
-- [Supply and demand](https://en.wikipedia.org/wiki/Supply_and_demand): 8.3 Value
+- [Supply and demand](https://en.wikipedia.org/wiki/Supply_and_demand): 8.3.1 Value (economics)
 - [Supply chain management](https://en.wikipedia.org/wiki/Supply_chain_management): 6.5.2 Production management
 - [Surrogate model](https://en.wikipedia.org/wiki/Surrogate_model): 6.3.4 Search Space and Data Sampling Design
 - [Survival analysis](https://en.wikipedia.org/wiki/Survival_analysis): 7.3.1.3 Statistical Inference
 - [Sustainability](https://en.wikipedia.org/wiki/Sustainability): 6.5.5 Maintenance and Management
-- [Swap (finance)](https://en.wikipedia.org/wiki/Swap_(finance)): 8.3 Value
+- [Swap (finance)](https://en.wikipedia.org/wiki/Swap_(finance)): 8.3.1 Value (economics)
 - [Symbol](https://en.wikipedia.org/wiki/Symbol): 8.2 Meaning
 - [Symbol grounding problem](https://en.wikipedia.org/wiki/Symbol_grounding_problem): 8.2 Meaning, 10.2.5 Computational Complexity Theory, 10.4.1 Symbolic AI and Connectionism
 - [Symbolic artificial intelligence](https://en.wikipedia.org/wiki/Symbolic_artificial_intelligence): 10.4.1 Symbolic AI and Connectionism
-- [Synergy](https://en.wikipedia.org/wiki/Synergy): 5.5 Fluctuation and Evolution, 6.3.6 Confirming the Relationship between Factor (Group) A and Result (Group) B (Reference)
+- [Synergy](https://en.wikipedia.org/wiki/Synergy): 5.4 Fluctuation and Evolution, 6.3.6 Confirming the Relationship between Factor (Group) A and Result (Group) B (Reference)
 - [System](https://en.wikipedia.org/wiki/System): 5.2 Structure of a System
 - [Systematic layout planning](https://en.wikipedia.org/wiki/Systematic_layout_planning): 6.5.2 Production management
-- [Systems engineering](https://en.wikipedia.org/wiki/Systems_engineering): 5.3 Analytical Approach
+- [Systems biology](https://en.wikipedia.org/wiki/Systems_biology): 5.5 Analytical Approach
+- [Systems engineering](https://en.wikipedia.org/wiki/Systems_engineering): 5.5 Analytical Approach
 - [Systems of measurement](https://en.wikipedia.org/wiki/Systems_of_measurement): 6.3.3 Quantities (Reference)
-- [Systems science](https://en.wikipedia.org/wiki/Systems_science): 5.3 Analytical Approach
-- [Systems theory](https://en.wikipedia.org/wiki/Systems_theory): 5.3 Analytical Approach
-- [Systems thinking](https://en.wikipedia.org/wiki/Systems_thinking): 5.3 Analytical Approach
+- [Systems science](https://en.wikipedia.org/wiki/Systems_science): 5.5 Analytical Approach
+- [Systems theory](https://en.wikipedia.org/wiki/Systems_theory): 5.5 Analytical Approach
+- [Systems thinking](https://en.wikipedia.org/wiki/Systems_thinking): 5.5 Analytical Approach
 
 - [Table (information)](https://en.wikipedia.org/wiki/Table_(information)): 8.4.2 Expressive Techniques
 - [Tacit knowledge](https://en.wikipedia.org/wiki/Tacit_knowledge): 4.3.2 Operations and Procedures, 8.4.4 Inexpressible Things
@@ -1033,7 +1040,7 @@
 - [Theory](https://en.wikipedia.org/wiki/Theory): 6.2.1 Scientific method, 6.2.3 Foundation of Hypothesis Building
 - [Theory of computation](https://en.wikipedia.org/wiki/Theory_of_computation): 10.2 Theory of computation
 - [Theory of forms](https://en.wikipedia.org/wiki/Theory_of_forms): 1.4 Concept
-- [Theory of value (economics)](https://en.wikipedia.org/wiki/Theory_of_value_(economics)): 8.3 Value
+- [Theory of value (economics)](https://en.wikipedia.org/wiki/Theory_of_value_(economics)): 8.3.1 Value (economics)
 - [Theory-ladenness](https://en.wikipedia.org/wiki/Theory-ladenness): 1.3.2 Recognition, 6.2.1 Scientific Method
 - [Thought experiment](https://en.wikipedia.org/wiki/Thought_experiment): 6.2.3 Foundation of Hypothesis Building
 - [Thermodynamic equilibrium](https://en.wikipedia.org/wiki/Thermodynamic_equilibrium): 5.4 Order and Stability
@@ -1076,16 +1083,17 @@
 - [Unit operation](https://en.wikipedia.org/wiki/Unit_operation): 4.3.2 Operations and Procedures
 - [Units of measurement](https://en.wikipedia.org/wiki/Units_of_measurement): 6.3.3 Quantities (Reference)
 - [Unsupervised learning](https://en.wikipedia.org/wiki/Unsupervised_learning): 7.2.2 Typology by Model Construction Procedure, 7.3.3 Machine Learning and Deep Learning
-- [Usability](https://en.wikipedia.org/wiki/Usability): 8.3 Value
+- [Usability](https://en.wikipedia.org/wiki/Usability): 8.3.1 Value (economics)
 - [User experience](https://en.wikipedia.org/wiki/User_experience): 8.4.3 Information Presentation and Design
 - [User interface](https://en.wikipedia.org/wiki/User_interface): 8.4.3 Information Presentation and Design
-- [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism): 8.3 Value
+- [Utilitarianism](https://en.wikipedia.org/wiki/Utilitarianism): 8.3.2 [Value \(ethics\)
 
 - [Value (economics)](https://en.wikipedia.org/wiki/Value_(economics)): 8.3 Value
 - [Value (ethics)](https://en.wikipedia.org/wiki/Value_(ethics)): 8.3 Value
-- [Value (marketing)](https://en.wikipedia.org/wiki/Value_(marketing)): 8.3 Value
+- [Value (marketing)](https://en.wikipedia.org/wiki/Value_(marketing)): 8.3.1 Value (economics)
+- [Value engineering](https://en.wikipedia.org/wiki/Value_engineering): 8.3.1 Value (economics)
 - [Value system](https://en.wikipedia.org/wiki/Value_system): 8.3 Value
-- [Veblen good](https://en.wikipedia.org/wiki/Veblen_good): 8.3 Value
+- [Veblen good](https://en.wikipedia.org/wiki/Veblen_good): 8.3.1 Value (economics)
 - [Vector calculus](https://en.wikipedia.org/wiki/Vector_calculus): 3.4.5 Areas of mathematics (Reference)
 - [Vector space](https://en.wikipedia.org/wiki/Vector_space): 3.4.5 Areas of mathematics (Reference)
 - [Venn diagram](https://en.wikipedia.org/wiki/Venn_diagram): 3.2.2 Logic
@@ -1093,16 +1101,16 @@
 - [Version control](https://en.wikipedia.org/wiki/Version_control): 10.3.2 Software
 - [Video](https://en.wikipedia.org/wiki/Video): 8.4.2 Expressive Techniques
 - [Virtualization](https://en.wikipedia.org/wiki/Virtualization): 10.3.2 Software
-- [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics): 8.3 Value
-- [Volunteering](https://en.wikipedia.org/wiki/Volunteering): 8.3 Value
+- [Virtue ethics](https://en.wikipedia.org/wiki/Virtue_ethics): 8.3.2 [Value \(ethics\)
+- [Volunteering](https://en.wikipedia.org/wiki/Volunteering): 8.3.3 Social value
 - [Von Neumann architecture](https://en.wikipedia.org/wiki/Von_Neumann_architecture): 10.3.1 Computer hardware
 
 - [War](https://en.wikipedia.org/wiki/War): 9.4.4 Injustice and Conflict
 - [Watanabe–Akaike information criterion](https://en.wikipedia.org/wiki/Watanabe%E2%80%93Akaike_information_criterion): 7.4.1.5 Model Selection and Complexity
 - [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model): 4.3.3 Planning, 6.5.1 Development
 - [Weak formulation](https://en.wikipedia.org/wiki/Weak_formulation): 10.2.3 Algorithms
-- [Welfare](https://en.wikipedia.org/wiki/Welfare): 8.3 Value
-- [Well-being](https://en.wikipedia.org/wiki/Well-being): 8.3 Value
+- [Welfare](https://en.wikipedia.org/wiki/Welfare): 8.3.2 [Value \(ethics\)
+- [Well-being](https://en.wikipedia.org/wiki/Well-being): 8.3.3 Social value
 - [White box (software engineering)](https://en.wikipedia.org/wiki/White_box_(software_engineering))
 - [Win-win game](https://en.wikipedia.org/wiki/Win-win_game): 9.3.2 Handling Opposing Opinions
 - [Work of art](https://en.wikipedia.org/wiki/Work_of_art): 8.4.2 Expressive Techniques
